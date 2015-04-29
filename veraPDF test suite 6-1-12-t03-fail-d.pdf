@@ -40,7 +40,8 @@ endobj
 <<
 /Type /Metadata
 /Subtype /XML
-/Length 875>>
+/Length 875
+>>
 stream
 
 <?xpacket begin='ï»¿' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2015-03-10T17:19:21+01:00" xmp:ModifyDate="2015-03-10T17:19:21+01:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="1" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>
@@ -50,16 +51,17 @@ endobj
 6 0 obj
 <<
 /Title (veraPDF test suite: 6-1-12-t03-fail-d)
-/First 10 0 R
+/First 9 0 R
 /Count -5
-/Last 11 0 R
+/Last 10 0 R
 /Parent 2 0 R
 >>
 endobj
 7 0 obj
 <<
 /Filter /FlateDecode
-/Length 2574/N 3
+/Length 2574
+/N 3
 /Range [0.0 1.0 0.0 1.0 0.0 1.0]
 >>
 stream
@@ -77,14 +79,14 @@ endobj
 8 0 obj
 <<
 /Type /Page
-/Contents 12 0 R
+/Contents 11 0 R
 /CropBox [0 0 500 500]
 /MediaBox [0 0 500 500]
 /Parent 4 0 R
 /ProcSet [/PDF /Text]
 /Resources <<
 /Font <<
-/F1 13 0 R
+/F1 12 0 R
 >>
 /XObject <<
 >>
@@ -92,37 +94,35 @@ endobj
 >>
 endobj
 9 0 obj
-875
-endobj
-10 0 obj
 <<
 /Title (clause 6-1-12)
 /Parent 6 0 R
-/Next 14 0 R
+/Next 13 0 R
+>>
+endobj
+10 0 obj
+<<
+/Title (expected message: Maximum length of a string is more than 65535. Catalog contains a custom entry with the string value of length 65540)
+/Parent 6 0 R
+/Prev 14 0 R
 >>
 endobj
 11 0 obj
 <<
-/Title (expected message: Maximum length of a string is more than 65535. Catalog contains custom entry with 65540 bytes. )
-/Parent 6 0 R
-/Prev 15 0 R
+/Length 46
 >>
-endobj
-12 0 obj
-<<
-/Length 46>>
 stream
 qBT50 150 Td/F1 12 Tf(Hello World) TjETQ
 endstream
 endobj
-13 0 obj
+12 0 obj
 <<
 /Type /Font
 /Subtype /TrueType
 /BaseFont /TMJTIB+FreeMonoBold
 /Encoding /WinAnsiEncoding
 /FirstChar 32
-/FontDescriptor 16 0 R
+/FontDescriptor 15 0 R
 /LastChar 114
 /Widths [600 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0
@@ -135,23 +135,23 @@ endobj
 0 0 600]
 >>
 endobj
-14 0 obj
+13 0 obj
 <<
 /Title (topic 03)
 /Parent 6 0 R
-/Prev 10 0 R
-/Next 17 0 R
+/Prev 9 0 R
+/Next 16 0 R
 >>
 endobj
-15 0 obj
+14 0 obj
 <<
 /Title (expected result: fail)
 /Parent 6 0 R
-/Prev 17 0 R
-/Next 11 0 R
+/Prev 16 0 R
+/Next 10 0 R
 >>
 endobj
-16 0 obj
+15 0 obj
 <<
 /Type /FontDescriptor
 /FontName /TMJTIB+FreeMonoBold
@@ -160,23 +160,24 @@ endobj
 /Descent -200
 /Flags 262177
 /FontBBox [-547 -366 754 1155]
-/FontFile2 18 0 R
+/FontFile2 17 0 R
 /ItalicAngle 0
 /StemV 80
 >>
 endobj
-17 0 obj
+16 0 obj
 <<
 /Title (instance d)
 /Parent 6 0 R
-/Prev 14 0 R
-/Next 15 0 R
+/Prev 13 0 R
+/Next 14 0 R
 >>
 endobj
-18 0 obj
+17 0 obj
 <<
 /Filter /FlateDecode
-/Length 3260/Length1 8640
+/Length 3260
+/Length1 8640
 >>
 stream
 xœíYktE¾Uİ3‘@‘t¢B’îfĞ!œ„ğŠƒ&>ˆIPCyEMP|‰‚¢,F@T@y¬ Gôèº°Š«çˆ#Éà²Šh Óµ_×ÌÄ1AìÙıµ™{n=nWWİ{ëÖW·Ï#¢è!RˆJ¦—:õ„’…D¶ÏKî©ĞÉà3‰ì¥©§ÌœğœcN	úeDü›²ñÅ¥ß~zÀIÔng—A Ò9ôB¿kÙÔŠc}ã0W»5DhÊô’bÇ=Æf"ıöS‹g”Ûwò{‰Œ•¯ƒ•0w!K/R>FÉ¾ªlD}šÚ©Œ`sØ"¶„=Ã^aÙ6¶ífï±Ù÷ì$;Í;ó4É‡ñ[ùh^Ì'ó©¼’?ÊğE|1–?ÏWñ|?À)	JgÅ¡\¦ôQ*•YÊÊcÊBå%åå€rPùQ«îU?P?VëÕ³¶·m{mßÙ~îXŸº,õ¹Ô³º¦;t·ŞKï£÷×sôëô|½@/ÕËõú}¾AË¸ÈH2F7£»1ÖXâàG'‡æ¸Ô‘æ(vŒwvt-u½äzÇµÏõ‘ë¯®/]ß»Î¸Û¹û¸¸§œŞuú½s\4	!½²’Íc‹ÙR¶Œ­goÀÒwaé>ö,ı™5ğTŞ•á7óQ|,K§ó™¼Š/„¥OÃÒøvş>ßÏ¿P–J7XZ!-K)«•ıÒRRªûÔÔıjƒm£m»m¿ídÇı©KWêõ‹¥¥^½,½F¶´B_ıKİ†Çğ‹a©Í‘ -MqÜî(…¥äZéZíÚáú–şÍUë:éq÷r÷sO’–’e©¨{Ä»â/b—Ø)vˆwÄ6ñ¦xCl¯‹×Äz±NÔˆ5b¾¨óÄ\ñ°xH<(î÷‰™b†¨w‰;Å­bˆ$r….’ÅEâBAæ^ó]s§¹ÍÜjn1ß2ß47™Õæ|s´9Òa7ıM+šozªiá©MG^>²öÈªàÂàcÁªàÁÙÁûƒ÷+‚wï
@@ -188,34 +189,31 @@ G“6)–Øf‰7ÇØÙ/9›™%ÏL0\F‚a°"ó3ÖŞ¬çË›&|„Œ¬À¯å×c7IÏÀz;µLobwæè•=€%¸ee	´ÌŞÎĞ«%Æ$
 ¹ ¾üd^ôß§²?¤å¿KŸĞ/ÑÄºHºJRyµQµQµQµQµQıgDòÿÛ/ìšA%d“ÿ˜2ùÁU”òo Jµ¯
 endstream
 endobj
-
 xref
-0 19
+0 18
 0000000000 65535 f
 0000000015 00000 n
 0000065670 00000 n
 0000065742 00000 n
 0000065941 00000 n
 0000065998 00000 n
-0000066955 00000 n
+0000066956 00000 n
 0000067074 00000 n
-0000069760 00000 n
-0000069948 00000 n
-0000069967 00000 n
-0000070039 00000 n
-0000070211 00000 n
-0000070309 00000 n
-0000070663 00000 n
-0000070743 00000 n
-0000070836 00000 n
-0000071040 00000 n
-0000071122 00000 n
-
+0000069761 00000 n
+0000069949 00000 n
+0000070020 00000 n
+0000070213 00000 n
+0000070312 00000 n
+0000070666 00000 n
+0000070745 00000 n
+0000070838 00000 n
+0000071042 00000 n
+0000071124 00000 n
 trailer
 <<
-/Size 19
+/Size 18
 /Root 1 0 R
-/ID [<7D30A4EC72D6304E8E04F573FFECC35A><2D27B0B17206AA4F924AC1952CA92EC3>]
+/ID [<7D30A4EC72D6304E8E04F573FFECC35A> <2D27B0B17206AA4F924AC1952CA92EC3>]
 >>
 startxref
 74474
