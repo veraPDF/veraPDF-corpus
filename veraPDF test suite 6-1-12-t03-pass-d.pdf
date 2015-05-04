@@ -49,7 +49,7 @@ endstream
 endobj
 6 0 obj
 <<
-/Title (veraPDF test suite: 6-1-12-t03-fail-d)
+/Title (veraPDF test suite: 6-1-12-t03-pass-d)
 /First 9 0 R
 /Count -5
 /Last 10 0 R
@@ -142,7 +142,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Title (expected result: fail)
+/Title (expected result: pass)
 /Parent 6 0 R
 /Prev 16 0 R
 /Next 10 0 R
