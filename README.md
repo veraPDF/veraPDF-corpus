@@ -9,8 +9,8 @@ This test suite complements [Isartor](http://www.pdfa.org/2011/08/isartor-test-s
 
 ***
 
-Copyright: [veraPDF Consortium](http://www.verapdf.org)<br>
-
+<img src="http://www.verapdf.org/img/vera-logo.png" width="88" alt="veraPDF Consortium"/>
+© 2015 [veraPDF Consortium](http://www.verapdf.org)
 
 ![Creative Commons License](https://licensebuttons.net/l/by/3.0/88x31.png)
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License (CC-BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
