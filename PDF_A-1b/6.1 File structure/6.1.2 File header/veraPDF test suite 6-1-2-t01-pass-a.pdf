@@ -1,0 +1,168 @@
+%PDF-2.0
+%öäüß
+1 0 obj
+<<
+/Type /Catalog
+/Outlines 2 0 R
+/OutputIntents [3 0 R]
+/Pages 4 0 R
+/Metadata 5 0 R
+/PageMode /UseOutlines
+>>
+endobj
+2 0 obj
+<<
+/Type /Outlines
+/First 6 0 R
+/Count 1
+/Last 6 0 R
+>>
+endobj
+3 0 obj
+<<
+/Type /OutputIntent
+/S /GTS_PDFA1
+/OutputConditionIdentifier (Adobe RGB \(1998\))
+/Info (RGB)
+/DestOutputProfile 7 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [8 0 R]
+>>
+endobj
+5 0 obj
+<<
+/Type /Metadata
+/Subtype /XML
+/Length 870>>
+stream
+<?xpacket begin='' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2015-03-10T17:19:21+01:00" xmp:ModifyDate="2015-03-10T17:19:21+01:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="1" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>
+
+endstream
+endobj
+6 0 obj
+<<
+/Title (veraPDF test suite: 6-1-2-t01-pass-a)
+/First 9 0 R
+/Count 5
+/Last 10 0 R
+/Parent 2 0 R
+>>
+endobj
+7 0 obj
+<<
+/Filter /ASCIIHexDecode
+/N 3
+/Length 1120>>
+stream
+0000023041444245021000006D6E74725247422058595A2007D00008000B00130033003B616373704150504C000000006E6F6E65000000000000000000000000000000000000F6D6000100000000D32D4144424500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000A63707274000000FC0000003264657363000001300000006B777470740000019C00000014626B7074000001B00000001472545243000001C40000000E67545243000001D40000000E62545243000001E40000000E7258595A000001F4000000146758595A00000208000000146258595A0000021C000000147465787400000000436F7079726967687420323030302041646F62652053797374656D7320496E636F72706F726174656400000064657363000000000000001141646F62652052474220283139393829000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000058595A20000000000000F35100010000000116CC58595A200000000000000000000000000000000063757276000000000000000102330000637572760000000000000001023300006375727600000000000000010233000058595A200000000000009C1800004FA5000004FC58595A20000000000000348D0000A02C00000F9558595A2000000000000026310000102F0000BE9C
+endstream
+endobj
+8 0 obj
+<<
+/CropBox [0 0 500 500]
+/ProcSet [/PDF /Text]
+/Parent 4 0 R
+/Contents 11 0 R
+/Type /Page
+/Resources <<
+/XObject <<
+/X0 12 0 R
+>>
+>>
+/MediaBox [0 0 500 500]
+>>
+endobj
+9 0 obj
+<<
+/Title (clause 6-1-2)
+/Parent 6 0 R
+/Next 13 0 R
+>>
+endobj
+10 0 obj
+<<
+/Title (expected message: File is a valid PDF/A-1b document: PDF/A-1 document, which has PDF-2.0 version)
+/Parent 6 0 R
+/Prev 14 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 43>>
+stream
+q
+0.0 0.5 0.8 rg
+5 0 0 5 50 400 cm
+/X0 Do
+Q
+endstream
+endobj
+12 0 obj
+<<
+/Type /XObject
+/Subtype /Form
+/BBox [0 0 100 100]
+/Length 18/Matrix [1 0 0 1 0 0]
+>>
+stream
+q0 0 10 10 refQ
+endstream
+endobj
+13 0 obj
+<<
+/Title (topic 01)
+/Parent 6 0 R
+/Prev 9 0 R
+/Next 15 0 R
+>>
+endobj
+14 0 obj
+<<
+/Title (expected result: pass)
+/Parent 6 0 R
+/Prev 15 0 R
+/Next 10 0 R
+>>
+endobj
+15 0 obj
+<<
+/Title (instance a)
+/Parent 6 0 R
+/Prev 13 0 R
+/Next 14 0 R
+>>
+endobj
+
+xref
+0 16
+0000000000 65535 f
+0000000015 00000 n
+0000000142 00000 n
+0000000213 00000 n
+0000000353 00000 n
+0000000410 00000 n
+0000001362 00000 n
+0000001478 00000 n
+0000002680 00000 n
+0000002856 00000 n
+0000002926 00000 n
+0000003081 00000 n
+0000003176 00000 n
+0000003318 00000 n
+0000003397 00000 n
+0000003490 00000 n
+
+trailer
+<<
+/Size 16
+/Root 1 0 R
+/ID [<D6CF927DCF82444068EB69AF5914F807> <9BB96B2659C401CF3D8C09D7F8039C2B>]
+>>
+startxref
+3575
+%%EOF
