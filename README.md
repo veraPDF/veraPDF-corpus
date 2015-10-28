@@ -12,5 +12,5 @@ This test suite complements [Isartor](http://www.pdfa.org/2011/08/isartor-test-s
 <img src="https://avatars2.githubusercontent.com/u/9946925?v=3&s=200" width="88" alt="veraPDF Consortium"/>
 © 2015 [veraPDF Consortium](http://www.verapdf.org)
 
-![Creative Commons License](https://licensebuttons.net/l/by/3.0/88x31.png)
+![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)
 This work is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
