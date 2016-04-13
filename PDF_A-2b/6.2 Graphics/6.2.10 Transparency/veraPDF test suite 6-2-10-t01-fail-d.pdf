@@ -36,7 +36,7 @@ endstream
 endobj
 5 0 obj
 <<
-/Title (veraPDF test suite: 6-2-10-t01-fail-b)
+/Title (veraPDF test suite: 6-2-10-t01-fail-d)
 /First 7 0 R
 /Count 5
 /Last 8 0 R
@@ -65,80 +65,25 @@ endobj
 endobj
 8 0 obj
 <<
-/Title (expected message: The ExtGState, which contain CA key with 0.5 value, is used for rendering on page content stream; The blending color space is not defined; Document doesn't contain GTS_PDFA1 OutputIntent)
+/Title (expected message: The ExtGState, which contain SMask, is used for rendering on page content stream; The blending color space is not defined; Document doesn't contain GTS_PDFA1 OutputIntent)
 /Parent 5 0 R
 /Prev 13 0 R
 >>
 endobj
 9 0 obj
 <<
-/Length 564>>
+/Length 29>>
 stream
 q
 /GS0 gs
-40 650 m 
-40 680 l 
-50 680 l 
-50 690 l 
-60 690 l 
-60 700 l 
-70 700 l 
-70 710 l 
-60 710 l 
-60 720 l 
-70 720 l 
-70 710 l 
-80 710 l 
-80 700 l 
-110 700 l 
-110 710 l 
-120 710 l 
-120 720 l 
-130 720 l 
-130 710 l 
-120 710 l 
-120 700 l 
-130 700 l 
-130 690 l 
-140 690 l 
-140 680 l 
-150 680 l 
-150 650 l 
-140 650 l 
-140 670 l 
-130 670 l 
-130 650 l 
-120 650 l 
-120 640 l 
-100 640 l 
-100 650 l 
-120 650 l 
-120 660 l 
-70 660 l 
-70 650 l 
-90 650 l 
-90 640 l 
-70 640 l 
-70 650 l 
-60 650 l 
-60 670 l 
-50 670 l 
-50 650 l 
-h
-S
-Q
-q
-1 g
-70 680 10 10 re
-S
-110 680 10 10 re
-S
+50 600 50 50 re
+f
 Q
 endstream
 endobj
 11 0 obj
 <<
-/CA 0.5
+/SMask 15 0 R
 >>
 endobj
 12 0 obj
@@ -159,15 +104,56 @@ endobj
 endobj
 14 0 obj
 <<
-/Title (instance b)
+/Title (instance d)
 /Parent 5 0 R
 /Prev 12 0 R
 /Next 13 0 R
 >>
 endobj
+15 0 obj
+<<
+/Type /Mask
+/S /Luminosity
+/G 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Group <<
+/S /Transparency
+/CS /DeviceGray
+>>
+/Type /XObject
+/Resources <</Shading <</SH0 17 0 R>>>>
+/Subtype /Form
+/BBox [0 0 450 450]
+/FormType 1
+/Length 7>>
+stream
+/SH0 sh
+endstream
+endobj
+17 0 obj
+<<
+/Coords[36 716 500 500]
+/ColorSpace/DeviceRGB
+/ShadingType 2
+/Extend[true true]
+/Function 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/C0[1 0.78431 0]
+/FunctionType 2
+/C1[0 0 1]
+/Domain[0 1]
+/N 1
+>>
+endobj
 
 xref
-0 15
+0 19
 0000000000 65535 f
 0000000015 00000 n
 0000000137 00000 n
@@ -177,19 +163,23 @@ xref
 0000001330 00000 n
 0000001463 00000 n
 0000001534 00000 n
-0000001796 00000 n
+0000001780 00000 n
 0000000000 00000 f
-0000002412 00000 n
-0000002442 00000 n
-0000002521 00000 n
-0000002613 00000 n
+0000001860 00000 n
+0000001896 00000 n
+0000001975 00000 n
+0000002067 00000 n
+0000002150 00000 n
+0000002209 00000 n
+0000002413 00000 n
+0000002532 00000 n
 
 trailer
 <<
-/Size 15
+/Size 19
 /Root 1 0 R
 /ID [<4F21C15395DA7D89C9CA9AC9B6A982BC> <4F21C15395DA7D89C9CA9AC9B6A982BC>]
 >>
 startxref
-2698
+2619
 %%EOF
