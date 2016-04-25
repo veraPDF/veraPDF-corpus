@@ -1,0 +1,160 @@
+%PDF-1.4
+%цдья
+1 0 obj
+<<
+/Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R
+/Metadata 4 0 R
+/PageMode /UseOutlines
+>>
+endobj
+2 0 obj
+<<
+/Type /Outlines
+/First 5 0 R
+/Count 6
+/Last 6 0 R
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids [7 0 R 8 0 R 9 0 R 10 0 R]
+/Count 4
+>>
+endobj
+4 0 obj
+<<
+/Type /Metadata
+/Subtype /XML
+/Length 867>>
+stream
+<?xpacket begin='' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2016-01-20T17:19:21+01:00" xmp:ModifyDate="2016-01-20T17:19:21+01:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="2" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>endstream
+endobj
+5 0 obj
+<<
+/Title (veraPDF test suite: 6-1-13-t09-fail-b)
+/Parent 2 0 R
+/Next 11 0 R
+>>
+endobj
+6 0 obj
+<<
+/Title (expected message: The sizes of page boundaries are greater than 14400 units)
+/Parent 2 0 R
+/Prev 12 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/MediaBox [0 0 500 500]
+/CropBox [0 0 14405 14405]
+/BleedBox [0 0 500 500]
+/TrimBox [0 0 500 500]
+/ArtBox [0 0 500 500]
+/Resources <<
+>>
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/MediaBox [0 0 500 500]
+/CropBox [0 0 500 500]
+/BleedBox [0 0 14405 14405]
+/TrimBox [0 0 500 500]
+/ArtBox [0 0 500 500]
+/Resources <<
+>>
+>>
+endobj
+9 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/MediaBox [0 0 500 500]
+/CropBox [0 0 500 500]
+/BleedBox [0 0 500 500]
+/TrimBox [0 0 14405 14405]
+/ArtBox [0 0 500 500]
+/Resources <<
+>>
+>>
+endobj
+10 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/MediaBox [0 0 500 500]
+/CropBox [0 0 500 500]
+/BleedBox [0 0 500 500]
+/TrimBox [0 0 500 500]
+/ArtBox [0 0 14405 14405]
+/Resources <<
+>>
+>>
+endobj
+11 0 obj
+<<
+/Title (clause 6-1-13)
+/Parent 2 0 R
+/Prev 5 0 R
+/Next 13 0 R
+>>
+endobj
+12 0 obj
+<<
+/Title (expected result: fail)
+/Parent 2 0 R
+/Prev 14 0 R
+/Next 6 0 R
+>>
+endobj
+13 0 obj
+<<
+/Title (topic 09)
+/Parent 2 0 R
+/Prev 11 0 R
+/Next 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Title (instance b)
+/Parent 2 0 R
+/Prev 13 0 R
+/Next 12 0 R
+>>
+endobj
+
+xref
+0 15
+0000000000 65535 f
+0000000015 00000 n
+0000000119 00000 n
+0000000190 00000 n
+0000000266 00000 n
+0000001213 00000 n
+0000001308 00000 n
+0000001441 00000 n
+0000001625 00000 n
+0000001809 00000 n
+0000001993 00000 n
+0000002178 00000 n
+0000002262 00000 n
+0000002354 00000 n
+0000002434 00000 n
+
+trailer
+<<
+/Size 15
+/Root 1 0 R
+/ID [<4F21C15395DA7D89C9CA9AC9B6A982BC> <4F21C15395DA7D89C9CA9AC9B6A982BC>]
+>>
+startxref
+2519
+%%EOF
