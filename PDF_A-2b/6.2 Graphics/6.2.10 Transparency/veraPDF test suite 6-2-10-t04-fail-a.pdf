@@ -92,7 +92,7 @@ endobj
 /LastChar 99
 /Widths [1000 800 800]
 /Resources <<
-/ExtGState <</GS0 <</CA 0.5>>>>
+/ExtGState <</GS0 <</ca 0.5>>>>
 >>
 >>
 endobj
@@ -134,55 +134,34 @@ endobj
 >>
 endobj
 16 0 obj
-<<
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ExtGState <</GS0 <</CA 0.5>>>>
->>
-/BBox [0 0 1000 1000]
-/Length 35>>
+<</Length 35>>
 stream
 1000 0 d0
 /GS0 gs
 0 0 750 750 re
-S
+f
 endstream
 endobj
 17 0 obj
-<<
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ExtGState <</GS0 <</CA 0.5>>>>
->>
-/BBox [0 0 1000 1000]
-/Length 46>>
+<</Length 46>>
 stream
 800 0 d0
 /GS0 gs
 0 0 m
 375 750 l
 750 0 l
-S
+f
 endstream
 endobj
 18 0 obj
-<<
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ExtGState <</GS0 <</CA 0.5>>>>
->>
-/BBox [0 0 1000 1000]
-/Length 44>>
+<</Length 44>>
 stream
 800 0 d0
 /GS0 gs
 0 750 m
 750 750 l
 375 0 l
-S
+f
 endstream
 endobj
 
@@ -205,8 +184,8 @@ xref
 0000002420 00000 n
 0000002505 00000 n
 0000002587 00000 n
-0000002775 00000 n
-0000002974 00000 n
+0000002673 00000 n
+0000002770 00000 n
 
 trailer
 <<
@@ -215,5 +194,5 @@ trailer
 /ID [<4F21C15395DA7D89C9CA9AC9B6A982BC> <4F21C15395DA7D89C9CA9AC9B6A982BC>]
 >>
 startxref
-3174
+2868
 %%EOF
