@@ -112,7 +112,7 @@ endobj
 <<
 /Parent 9 0 R
 /Prev 16 0 R
-/Title (expected message: Annotation uses ExtGState, which contain SMask; Transparent object is used for rendering on page content stream \(Annotation\); The blending color space is not defined; Document doesn't contain GTS_PDFA1 OutputIntent)
+/Title (expected message: Annotation uses ExtGState, which contains the /SMask key with value 0.5 and is used for rendering on the page. The page blending color space is not defined; Document doesn't contain GTS_PDFA1 OutputIntent)
 >>
 endobj
 13 0 obj
@@ -244,18 +244,18 @@ xref
 0000002971 00000 n
 0000003138 00000 n
 0000003210 00000 n
-0000003503 00000 n
-0000003785 00000 n
-0000003835 00000 n
-0000003915 00000 n
-0000004008 00000 n
-0000004489 00000 n
-0000004514 00000 n
-0000004596 00000 n
-0000004630 00000 n
-0000004689 00000 n
-0000004892 00000 n
-0000005014 00000 n
+0000003491 00000 n
+0000003773 00000 n
+0000003823 00000 n
+0000003903 00000 n
+0000003996 00000 n
+0000004477 00000 n
+0000004502 00000 n
+0000004584 00000 n
+0000004618 00000 n
+0000004677 00000 n
+0000004880 00000 n
+0000005002 00000 n
 
 trailer
 <<
@@ -264,5 +264,5 @@ trailer
 /ID [<A3C682F570C8A6BB508A01662CC4CF3E> <A3C682F570C8A6BB508A01662CC4CF3E>]
 >>
 startxref
-5104
+5092
 %%EOF
