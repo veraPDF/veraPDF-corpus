@@ -1,0 +1,223 @@
+%PDF-1.7
+%öäüß
+1 0 obj
+<<
+/Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R
+/Metadata 4 0 R
+/PageMode /UseOutlines
+>>
+endobj
+2 0 obj
+<<
+/Type /Outlines
+/First 5 0 R
+/Count 1
+/Last 5 0 R
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [6 0 R]
+>>
+endobj
+4 0 obj
+<<
+/Type /Metadata
+/Subtype /XML
+/Length 867>>
+stream
+<?xpacket begin='' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2016-01-25T17:19:21+01:00" xmp:ModifyDate="2016-01-25T17:19:21+01:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="2" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>
+endstream
+endobj
+5 0 obj
+<<
+/Title (veraPDF test suite: 6-2-10-t06-fail-e)
+/First 7 0 R
+/Count 5
+/Last 8 0 R
+/Parent 2 0 R
+>>
+endobj
+6 0 obj
+<<
+/CropBox [0 0 500 500]
+/ProcSet [/PDF /Text]
+/Parent 3 0 R
+/Contents 9 0 R
+/Group 16 0 R
+/Type /Page
+/Resources <<
+/Pattern <</P0 11 0 R>>
+>>
+/MediaBox [0 0 500 500]
+>>
+endobj
+7 0 obj
+<<
+/Title (clause 6-2-10)
+/Parent 5 0 R
+/Next 12 0 R
+>>
+endobj
+8 0 obj
+<<
+/Title (expected message: Page contains transparent object (Type 1 Pattern); Transparency group on page level without color space entry and no PDF/A OutputIntent present)
+/Parent 5 0 R
+/Prev 13 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 40>>
+stream
+q
+/Pattern cs
+/P0 scn
+0 0 500 500 re
+f
+Q
+endstream
+endobj
+11 0 obj
+<<
+/Type /Pattern
+/PatternType 1
+/PaintType 1
+/TilingType 1
+/BBox [0 0 80 80]
+/XStep 15
+/YStep 15
+/Resources <</ExtGState <</GS0 15 0 R>>>>
+/Length 506>>
+stream
+q
+/GS0 gs
+/DeviceRGB cs
+0.6875 0.765625 0.8671875 sc
+4 65 m 
+4 68 l 
+5 68 l 
+5 69 l 
+6 69 l 
+6 70 l 
+7 70 l 
+7 71 l 
+6 71 l 
+6 72 l 
+7 72 l 
+7 71 l 
+8 71 l 
+8 70 l 
+11 70 l 
+11 71 l 
+12 71 l 
+12 72 l 
+13 72 l 
+13 71 l 
+12 71 l 
+12 70 l 
+13 70 l 
+13 69 l 
+14 69 l 
+14 68 l 
+15 68 l 
+15 65 l 
+14 65 l 
+14 67 l 
+13 67 l 
+13 65 l 
+12 65 l 
+12 64 l 
+10 64 l 
+10 65 l 
+12 65 l 
+12 66 l 
+7 66 l 
+7 65 l 
+9 65 l 
+9 64 l 
+7 64 l 
+7 65 l 
+6 65 l 
+6 67 l 
+5 67 l 
+5 65 l 
+f
+Q
+q
+1 1 1 rg
+7 68 1 1 re
+f
+11 68 1 1 re
+f
+Q
+endstream
+endobj
+12 0 obj
+<<
+/Title (topic 06)
+/Parent 5 0 R
+/Prev 7 0 R
+/Next 14 0 R
+>>
+endobj
+13 0 obj
+<<
+/Title (expected result: fail)
+/Parent 5 0 R
+/Prev 14 0 R
+/Next 8 0 R
+>>
+endobj
+14 0 obj
+<<
+/Title (instance e)
+/Parent 5 0 R
+/Prev 12 0 R
+/Next 13 0 R
+>>
+endobj
+15 0 obj
+<<
+/ca 0.5
+>>
+endobj
+16 0 obj
+<<
+/S /Transparency
+>>
+endobj
+
+xref
+0 17
+0000000000 65535 f
+0000000015 00000 n
+0000000119 00000 n
+0000000190 00000 n
+0000000247 00000 n
+0000001196 00000 n
+0000001312 00000 n
+0000001499 00000 n
+0000001570 00000 n
+0000001789 00000 n
+0000000000 00000 f
+0000001880 00000 n
+0000002576 00000 n
+0000002655 00000 n
+0000002747 00000 n
+0000002830 00000 n
+0000002861 00000 n
+
+trailer
+<<
+/Size 17
+/Root 1 0 R
+/ID [<D6CF927DCF82444068EB69AF5914F807> <9BB96B2659C401CF3D8C09D7F8039C2B>]
+>>
+startxref
+2903
+%%EOF
