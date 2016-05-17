@@ -1,0 +1,116 @@
+%PDF-1.4
+%цдья
+1 0 obj
+<<
+/Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R
+/Metadata 4 0 R
+/PageMode /UseOutlines
+>>
+endobj
+2 0 obj
+<<
+/Type /Outlines
+/First 5 0 R
+/Count 6
+/Last 6 0 R
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids [7 0 R]
+/MediaBox [0 0 2 2]
+/CropBox [0 0 4 4]
+/Count 1
+>>
+endobj
+4 0 obj
+<<
+/Type /Metadata
+/Subtype /XML
+/Length 867>>
+stream
+<?xpacket begin='' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2016-01-20T17:19:21+01:00" xmp:ModifyDate="2016-01-20T17:19:21+01:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="2" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>
+endstream
+endobj
+5 0 obj
+<<
+/Title (veraPDF test suite: 6-1-13-t09-fail-c)
+/Parent 2 0 R
+/Next 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/Title (expected message: The sizes of page boundaries are less than 3 units; A MediaBox entry with incorrect value is defined in the root node of the page tree.)
+/Parent 2 0 R
+/Prev 9 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources <<
+>>
+>>
+endobj
+8 0 obj
+<<
+/Title (clause 6-1-13)
+/Parent 2 0 R
+/Prev 5 0 R
+/Next 10 0 R
+>>
+endobj
+9 0 obj
+<<
+/Title (expected result: fail)
+/Parent 2 0 R
+/Prev 11 0 R
+/Next 6 0 R
+>>
+endobj
+10 0 obj
+<<
+/Title (topic 09)
+/Parent 2 0 R
+/Prev 8 0 R
+/Next 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Title (instance c)
+/Parent 2 0 R
+/Prev 10 0 R
+/Next 9 0 R
+>>
+endobj
+
+xref
+0 12
+0000000000 65535 f
+0000000015 00000 n
+0000000119 00000 n
+0000000190 00000 n
+0000000286 00000 n
+0000001235 00000 n
+0000001329 00000 n
+0000001539 00000 n
+0000001603 00000 n
+0000001686 00000 n
+0000001777 00000 n
+0000001856 00000 n
+
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/ID [<4F21C15395DA7D89C9CA9AC9B6A982BC> <4F21C15395DA7D89C9CA9AC9B6A982BC>]
+>>
+startxref
+1940
+%%EOF
