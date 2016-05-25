@@ -64,7 +64,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Title (expected message: Type 1 Pattern uses ExtGState, which contain SMask; Transparent object is used for rendering on page (Type 1 Pattern); The blending color space is not defined; Document doesn't contain GTS_PDFA1 OutputIntent)
+/Title (expected message: Type 1 Pattern uses ExtGState, which contains the /SMask and is used for rendering on the page. The page blending color space is not defined; Document doesn't contain GTS_PDFA1 OutputIntent)
 /Parent 5 0 R
 /Prev 13 0 R
 >>
@@ -239,17 +239,17 @@ xref
 0000001312 00000 n
 0000001485 00000 n
 0000001556 00000 n
-0000001839 00000 n
+0000001821 00000 n
 0000000000 00000 f
-0000001930 00000 n
-0000002626 00000 n
-0000002705 00000 n
-0000002797 00000 n
-0000002880 00000 n
-0000002933 00000 n
-0000002992 00000 n
-0000003196 00000 n
-0000003315 00000 n
+0000001912 00000 n
+0000002608 00000 n
+0000002687 00000 n
+0000002779 00000 n
+0000002862 00000 n
+0000002915 00000 n
+0000002974 00000 n
+0000003178 00000 n
+0000003297 00000 n
 
 trailer
 <<
@@ -258,5 +258,5 @@ trailer
 /ID [<D6CF927DCF82444068EB69AF5914F807> <9BB96B2659C401CF3D8C09D7F8039C2B>]
 >>
 startxref
-3402
+3384
 %%EOF

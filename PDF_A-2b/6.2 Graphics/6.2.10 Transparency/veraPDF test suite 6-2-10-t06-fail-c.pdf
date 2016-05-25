@@ -64,7 +64,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Title (expected message: Type 1 Pattern uses ExtGState, which contain BM key with Darken value; Transparent object is used for rendering on page (Type 1 Pattern); The blending color space is not defined; Document doesn't contain GTS_PDFA1 OutputIntent)
+/Title (expected message: Type 1 Pattern uses ExtGState, which contains the /BM key with value Darken and is used for rendering on the page. The page blending color space is not defined; Document doesn't contain GTS_PDFA1 OutputIntent)
 /Parent 5 0 R
 /Prev 13 0 R
 >>
@@ -191,13 +191,13 @@ xref
 0000001312 00000 n
 0000001485 00000 n
 0000001556 00000 n
-0000001858 00000 n
+0000001840 00000 n
 0000000000 00000 f
-0000001949 00000 n
-0000002604 00000 n
-0000002683 00000 n
-0000002775 00000 n
-0000002858 00000 n
+0000001931 00000 n
+0000002586 00000 n
+0000002665 00000 n
+0000002757 00000 n
+0000002840 00000 n
 
 trailer
 <<
@@ -206,5 +206,5 @@ trailer
 /ID [<D6CF927DCF82444068EB69AF5914F807> <9BB96B2659C401CF3D8C09D7F8039C2B>]
 >>
 startxref
-2895
+2877
 %%EOF

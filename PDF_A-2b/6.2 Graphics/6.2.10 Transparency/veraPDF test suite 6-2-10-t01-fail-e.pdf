@@ -66,7 +66,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Title (expected message: The ExtGState, which contain ca key with 0.5 value, is used for rendering on page content stream; Transparency group on page level without color space entry and no PDF/A OutputIntent present)
+/Title (expected message: The ExtGState contains the /ca key with value 0.5 and is used for rendering on the page. Transparency group on page level without color space entry and no PDF/A OutputIntent present)
 /Parent 5 0 R
 /Prev 13 0 R
 >>
@@ -182,12 +182,12 @@ xref
 0000001330 00000 n
 0000001477 00000 n
 0000001548 00000 n
-0000001814 00000 n
-0000002428 00000 n
-0000002467 00000 n
-0000002497 00000 n
-0000002576 00000 n
-0000002668 00000 n
+0000001805 00000 n
+0000002419 00000 n
+0000002458 00000 n
+0000002488 00000 n
+0000002567 00000 n
+0000002659 00000 n
 
 trailer
 <<
@@ -196,5 +196,5 @@ trailer
 /ID [<4F21C15395DA7D89C9CA9AC9B6A982BC> <4F21C15395DA7D89C9CA9AC9B6A982BC>]
 >>
 startxref
-2753
+2744
 %%EOF
