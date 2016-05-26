@@ -1,0 +1,204 @@
+%PDF-1.7
+%öäüß
+1 0 obj
+<<
+/Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R
+/OutputIntents []
+/Metadata 4 0 R
+/PageMode /UseOutlines
+>>
+endobj
+2 0 obj
+<<
+/Type /Outlines
+/First 5 0 R
+/Count 1
+/Last 5 0 R
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids [6 0 R]
+/Count 1
+>>
+endobj
+4 0 obj
+<<
+/Type /Metadata
+/Subtype /XML
+/Length 870>>
+stream
+<?xpacket begin='ï»¿' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2016-01-20T17:19:21+01:00" xmp:ModifyDate="2016-01-20T17:19:21+01:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="2" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>
+endstream
+endobj
+5 0 obj
+<<
+/Title (veraPDF test suite: 6-2-4-3-t01-fail-h)
+/First 7 0 R
+/Count 5
+/Last 8 0 R
+/Parent 2 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/MediaBox [0 0 612 792]
+/Contents 9 0 R
+/Resources <<
+/ProcSet [/PDF]
+/Font <<
+/F1 10 0 R
+>>
+>>
+>>
+endobj
+7 0 obj
+<<
+/Title (clause 6-2-4-3)
+/Parent 5 0 R
+/Next 11 0 R
+>>
+endobj
+8 0 obj
+<<
+/Title (expected message: DeviceRGB colour space is used in CharProcs of the Type3 font starting with "d0" operator; Document doesn't contain GTS_PDFA1 OutputIntent)
+/Parent 5 0 R
+/Prev 12 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 56>>
+stream
+BT
+/F1 30 Tf
+50 685 Td
+(bcbcbcbcbcbcbcbcbcbcb) Tj
+ET
+endstream
+endobj
+10 0 obj
+<<
+/Type /Font
+/Subtype /Type3
+/FontBBox [0 0 750 750]
+/FontMatrix [0.001 0 0 0.001 0 0]
+/CharProcs 13 0 R
+/Encoding 14 0 R
+/Name /F1
+/FirstChar 97
+/LastChar 99
+/Widths [1000 800 800]
+/Resources <<
+>>
+>>
+endobj
+11 0 obj
+<<
+/Title (topic 01)
+/Parent 5 0 R
+/Prev 7 0 R
+/Next 15 0 R
+>>
+endobj
+12 0 obj
+<<
+/Title (expected result: fail)
+/Parent 5 0 R
+/Prev 15 0 R
+/Next 8 0 R
+>>
+endobj
+13 0 obj
+<<
+/square 16 0 R
+/triangle 17 0 R
+/striangle 18 0 R
+>>
+endobj
+14 0 obj
+<<
+/Type /Encoding
+/Differences [97 /square /triangle /striangle]
+>>
+endobj
+15 0 obj
+<<
+/Title (instance h)
+/Parent 5 0 R
+/Prev 11 0 R
+/Next 12 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 61>>
+stream
+1000 0 d0
+0.5 0.8 0.8 rg
+1.0 0.0 0.0 0.0 k
+0 0 750 750 re
+f
+endstream
+endobj
+17 0 obj
+<<
+/Length 53>>
+stream
+800 0 d0
+0.2 0.8 0.8 rg
+0 0 m
+375 750 l
+750 0 l
+f
+endstream
+endobj
+18 0 obj
+<<
+/Length 51>>
+stream
+800 0 d0
+0.4 0.8 0.8 rg
+0 750 m
+750 750 l
+375 0 l
+f
+endstream
+endobj
+
+xref
+0 19
+0000000000 65535 f
+0000000015 00000 n
+0000000137 00000 n
+0000000208 00000 n
+0000000265 00000 n
+0000001217 00000 n
+0000001334 00000 n
+0000001477 00000 n
+0000001549 00000 n
+0000001763 00000 n
+0000001870 00000 n
+0000002090 00000 n
+0000002169 00000 n
+0000002261 00000 n
+0000002333 00000 n
+0000002418 00000 n
+0000002500 00000 n
+0000002613 00000 n
+0000002718 00000 n
+
+trailer
+<<
+/Size 19
+/Root 1 0 R
+/ID [<4F21C15395DA7D89C9CA9AC9B6A982BC> <4F21C15395DA7D89C9CA9AC9B6A982BC>]
+>>
+startxref
+2824
+%%EOF
