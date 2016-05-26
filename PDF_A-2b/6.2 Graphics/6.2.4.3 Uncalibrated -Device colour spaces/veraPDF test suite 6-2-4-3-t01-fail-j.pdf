@@ -1,0 +1,245 @@
+%PDF-1.4
+%öäüß
+1 0 obj
+<<
+/AcroForm 2 0 R
+/Outlines 3 0 R
+/OutputIntents []
+/PageMode /UseOutlines
+/Pages 4 0 R
+/Type /Catalog
+/Metadata 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/DA (/Helv 0 Tf 0 g )
+/DR <<
+/Encoding <<
+/PDFDocEncoding 6 0 R
+>>
+/Font <<
+/HeBo 7 0 R
+/Helv 8 0 R
+/ZaDb 9 0 R
+>>
+>>
+/Fields [10 0 R]
+>>
+endobj
+3 0 obj
+<<
+/Type /Outlines
+/First 11 0 R
+/Count 1
+/Last 11 0 R
+>>
+endobj
+4 0 obj
+<<
+/Count 1
+/Kids [12 0 R]
+/Type /Pages
+>>
+endobj
+5 0 obj
+<<
+/Type /Metadata
+/Subtype /XML
+/Length 870>>
+stream
+<?xpacket begin='ï»¿' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2016-01-25T17:19:21+01:00" xmp:ModifyDate="2016-01-25T17:19:21+01:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="2" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>
+endstream
+endobj
+6 0 obj
+<<
+/Differences [24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39
+/quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash
+/florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft
+/quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron
+/dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166
+/brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron
+/degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior
+/ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde
+/Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute
+/Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+/Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute
+/acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis
+/igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde
+/odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis]
+/Type /Encoding
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding 6 0 R
+/Name /HeBo
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding 6 0 R
+/Name /Helv
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /ZaDb
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/AP <<
+/N <</True 13 0 R /False 19 0 R>>
+>>
+/V /True
+/AS /True
+/DA (/HeBo 12 Tf 0 g)
+/F 4
+/FT /Btn
+/Ff 65536
+/MK <<
+/BG [0.75293]
+>>
+/P 12 0 R
+/Rect [31.9371 416.754 86.9108 469.634]
+/Subtype /Widget
+/T (Button)
+/Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Title (veraPDF test suite: 6-2-4-3-t01-fail-j)
+/First 14 0 R
+/Count 5
+/Last 15 0 R
+/Parent 3 0 R
+>>
+endobj
+12 0 obj
+<<
+/Annots [10 0 R]
+/CropBox [0 0 500 500]
+/MediaBox [0 0 500 500]
+/Parent 4 0 R
+/Resources <<
+>>
+/Type /Page
+>>
+endobj
+13 0 obj
+<<
+/BBox [0.0 0.0 54.9737 52.8795]
+/FormType 1
+/Length 44/Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
+/Resources <<
+>>
+/Subtype /Form
+/Type /XObject
+>>
+stream
+q
+0.0 0.8 0.9 rg
+0 0 54.9737 52.8795 re
+f
+Q
+endstream
+endobj
+13 0 obj
+<<
+/BBox [0.0 0.0 54.9737 52.8795]
+/FormType 1
+/Length 43/Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
+/Resources <<
+>>
+/Subtype /Form
+/Type /XObject
+>>
+stream
+q
+0.0 0.8 0.6 rg
+0 0 54.9737 52.8795 re
+f
+Q
+endstream
+endobj
+14 0 obj
+<<
+/Title (clause 6-2-4-3)
+/Parent 11 0 R
+/Next 16 0 R
+>>
+endobj
+15 0 obj
+<<
+/Title (expected message: DeviceRGB colour space is used in the normal appearance streams of an annotation; Document doesn't contain GTS_PDFA1 OutputIntent)
+/Parent 11 0 R
+/Prev 17 0 R
+>>
+endobj
+16 0 obj
+<<
+/Title (topic 01)
+/Parent 11 0 R
+/Prev 14 0 R
+/Next 18 0 R
+>>
+endobj
+17 0 obj
+<<
+/Title (expected result: fail)
+/Parent 11 0 R
+/Prev 18 0 R
+/Next 15 0 R
+>>
+endobj
+18 0 obj
+<<
+/Title (instance j)
+/Parent 11 0 R
+/Prev 16 0 R
+/Next 17 0 R
+>>
+endobj
+
+xref
+0 19
+0000000000 65535 f
+0000000015 00000 n
+0000000153 00000 n
+0000000309 00000 n
+0000000382 00000 n
+0000000440 00000 n
+0000001392 00000 n
+0000002716 00000 n
+0000002819 00000 n
+0000002917 00000 n
+0000003002 00000 n
+0000003249 00000 n
+0000003369 00000 n
+0000003719 00000 n
+0000003938 00000 n
+0000004012 00000 n
+0000004219 00000 n
+0000004300 00000 n
+0000004394 00000 n
+
+trailer
+<<
+/Size 19
+/Root 1 0 R
+/ID [<D6CF927DCF82444068EB69AF5914F807> <1D3AA2F25975614C81FC4BB45352E049>]
+>>
+startxref
+4480
+%%EOF
