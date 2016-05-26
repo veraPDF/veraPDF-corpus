@@ -29,8 +29,7 @@ endobj
 <<
 /Type /Metadata
 /Subtype /XML
-/Length 870
->>
+/Length 870>>
 stream
 <?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2016-01-20T17:19:21+01:00" xmp:ModifyDate="2016-01-20T17:19:21+01:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="2" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>
 endstream
@@ -67,15 +66,14 @@ endobj
 endobj
 8 0 obj
 <<
-/Title (expected message: DeviceRGB colour space is used in glyph-XObjects of Type3 font d0; Document doesn't contain GTS_PDFA1 OutputIntent)
+/Title (expected message: DeviceRGB colour space is used in CharProcs of the Type3 font starting with "d0" operator; Document doesn't contain GTS_PDFA1 OutputIntent)
 /Parent 5 0 R
 /Prev 12 0 R
 >>
 endobj
 9 0 obj
 <<
-/Length 56
->>
+/Length 56>>
 stream
 BT
 /F1 30 Tf
@@ -139,8 +137,7 @@ endobj
 endobj
 16 0 obj
 <<
-/Length 61
->>
+/Length 61>>
 stream
 1000 0 d0
 0.5 0.8 0.8 rg
@@ -151,8 +148,7 @@ endstream
 endobj
 17 0 obj
 <<
-/Length 53
->>
+/Length 53>>
 stream
 800 0 d0
 0.2 0.8 0.8 rg
@@ -164,8 +160,7 @@ endstream
 endobj
 18 0 obj
 <<
-/Length 51
->>
+/Length 51>>
 stream
 800 0 d0
 0.4 0.8 0.8 rg
@@ -175,6 +170,7 @@ stream
 f
 endstream
 endobj
+
 xref
 0 19
 0000000000 65535 f
@@ -182,20 +178,21 @@ xref
 0000000137 00000 n
 0000000208 00000 n
 0000000265 00000 n
-0000001218 00000 n
-0000001335 00000 n
-0000001478 00000 n
-0000001550 00000 n
-0000001740 00000 n
-0000001848 00000 n
-0000002068 00000 n
-0000002147 00000 n
-0000002239 00000 n
-0000002311 00000 n
-0000002396 00000 n
-0000002478 00000 n
-0000002592 00000 n
-0000002698 00000 n
+0000001217 00000 n
+0000001334 00000 n
+0000001477 00000 n
+0000001549 00000 n
+0000001763 00000 n
+0000001870 00000 n
+0000002090 00000 n
+0000002169 00000 n
+0000002261 00000 n
+0000002333 00000 n
+0000002418 00000 n
+0000002500 00000 n
+0000002613 00000 n
+0000002718 00000 n
+
 trailer
 <<
 /Size 19
@@ -203,5 +200,5 @@ trailer
 /ID [<4F21C15395DA7D89C9CA9AC9B6A982BC> <4F21C15395DA7D89C9CA9AC9B6A982BC>]
 >>
 startxref
-2802
+2824
 %%EOF

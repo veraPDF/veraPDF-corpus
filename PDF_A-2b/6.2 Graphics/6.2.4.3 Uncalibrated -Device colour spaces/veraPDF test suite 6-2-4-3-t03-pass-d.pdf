@@ -62,7 +62,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Title (expected message: DeviceGray colour space is used for path drawing on the page; DefaultGray uses CalGray colorspace)
+/Title (expected message: DeviceGray colour space is used for path drawing on the page; DefaultGray key is present and refers to a CalGray colour space)
 /Parent 5 0 R
 /Prev 11 0 R
 >>
@@ -171,11 +171,11 @@ xref
 0000001313 00000 n
 0000001453 00000 n
 0000001525 00000 n
-0000001698 00000 n
-0000002314 00000 n
-0000002393 00000 n
-0000002485 00000 n
-0000002568 00000 n
+0000001726 00000 n
+0000002342 00000 n
+0000002421 00000 n
+0000002513 00000 n
+0000002596 00000 n
 
 trailer
 <<
@@ -184,5 +184,5 @@ trailer
 /ID [<4F21C15395DA7D89C9CA9AC9B6A982BC> <4F21C15395DA7D89C9CA9AC9B6A982BC>]
 >>
 startxref
-2654
+2682
 %%EOF
