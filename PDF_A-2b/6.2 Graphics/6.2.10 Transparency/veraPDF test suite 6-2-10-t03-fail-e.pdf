@@ -60,7 +60,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Title (expected message: Transparency group is defined for transparent object (XObject), which is used for rendering, but missing in Page object; Document doesn't contain GTS_PDFA1 OutputIntent)
+/Title (expected message: A page contains a transparency group XObject, but has no Group key. The document contains no GTS_PDFA1 OutputIntent)
 /Parent 6 0 R
 /Prev 16 0 R
 >>
@@ -195,14 +195,14 @@ xref
 0000000000 00000 f
 0000001440 00000 n
 0000001511 00000 n
-0000001756 00000 n
-0000001813 00000 n
-0000001867 00000 n
-0000001897 00000 n
-0000001917 00000 n
-0000001996 00000 n
-0000002089 00000 n
-0000002171 00000 n
+0000001703 00000 n
+0000001760 00000 n
+0000001814 00000 n
+0000001844 00000 n
+0000001864 00000 n
+0000001943 00000 n
+0000002036 00000 n
+0000002118 00000 n
 
 trailer
 <<
@@ -211,5 +211,5 @@ trailer
 /ID [<4F21C15395DA7D89C9CA9AC9B6A982BC> <4F21C15395DA7D89C9CA9AC9B6A982BC>]
 >>
 startxref
-2902
+2849
 %%EOF
