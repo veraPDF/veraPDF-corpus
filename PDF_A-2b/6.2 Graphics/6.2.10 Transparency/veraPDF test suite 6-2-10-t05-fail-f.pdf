@@ -113,7 +113,7 @@ endobj
 <<
 /Parent 9 0 R
 /Prev 17 0 R
-/Title (expected message: Page contains transparent object \(Annotation\); Transparency group on page level without color space entry and no PDF/A OutputIntent present)
+/Title (expected message: Annotation's appearance stream has transparency group; the parent Page object does not define the blending colour space; the document contains no GTS_PDFA1 OutputIntent)
 >>
 endobj
 13 0 obj
@@ -210,15 +210,15 @@ xref
 0000002971 00000 n
 0000003152 00000 n
 0000003224 00000 n
-0000003442 00000 n
-0000003724 00000 n
-0000003774 00000 n
-0000003811 00000 n
-0000003891 00000 n
-0000003984 00000 n
-0000004465 00000 n
-0000004490 00000 n
-0000004572 00000 n
+0000003469 00000 n
+0000003751 00000 n
+0000003801 00000 n
+0000003838 00000 n
+0000003918 00000 n
+0000004011 00000 n
+0000004492 00000 n
+0000004517 00000 n
+0000004599 00000 n
 
 trailer
 <<
@@ -227,5 +227,5 @@ trailer
 /ID [<A3C682F570C8A6BB508A01662CC4CF3E> <A3C682F570C8A6BB508A01662CC4CF3E>]
 >>
 startxref
-4603
+4630
 %%EOF
