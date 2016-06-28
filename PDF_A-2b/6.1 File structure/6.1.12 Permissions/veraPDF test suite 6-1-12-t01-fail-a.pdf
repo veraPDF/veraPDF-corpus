@@ -1,0 +1,130 @@
+%PDF-1.7
+%цдья
+1 0 obj
+<<
+/Outlines 2 0 R
+/OutputIntents []
+/PageMode /UseOutlines
+/Pages 3 0 R
+/Type /Catalog
+/Perms 4 0 R
+/Metadata 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/Count 1
+/First 6 0 R
+/Last 6 0 R
+/Type /Outlines
+>>
+endobj
+3 0 obj
+<<
+/Count 1
+/Kids [7 0 R]
+/Type /Pages
+>>
+endobj
+4 0 obj
+<<
+/XX (value)
+>>
+endobj
+5 0 obj
+<<
+/Type /Metadata
+/Subtype /XML
+/Length 867>>
+stream
+<?xpacket begin='' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2016-02-20T18:07:32+03:00" xmp:ModifyDate="2016-02-20T18:07:32+03:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="2" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>
+endstream
+endobj
+6 0 obj
+<<
+/Count 5
+/First 9 0 R
+/Last 10 0 R
+/Parent 2 0 R
+/Title (veraPDF test suite: 6-1-12-t01-fail-a)
+>>
+endobj
+7 0 obj
+<<
+/CropBox [0 0 500 500]
+/MediaBox [0 0 500 500]
+/Parent 3 0 R
+/ProcSet [/PDF /Text]
+/Resources <<
+>>
+/Type /Page
+>>
+endobj
+8 0 obj
+873
+endobj
+9 0 obj
+<<
+/Next 11 0 R
+/Parent 6 0 R
+/Title (clause 6-1-12)
+>>
+endobj
+10 0 obj
+<<
+/Parent 6 0 R
+/Prev 12 0 R
+/Title (expected message: The permissions dictionary contains keys other than UR3 and DocMDP)
+>>
+endobj
+11 0 obj
+<<
+/Next 13 0 R
+/Parent 6 0 R
+/Prev 9 0 R
+/Title (topic 01)
+>>
+endobj
+12 0 obj
+<<
+/Next 10 0 R
+/Parent 6 0 R
+/Prev 13 0 R
+/Title (expected result: fail)
+>>
+endobj
+13 0 obj
+<<
+/Next 12 0 R
+/Parent 6 0 R
+/Prev 11 0 R
+/Title (instance a)
+>>
+endobj
+
+xref
+0 14
+0000000000 65535 f
+0000000015 00000 n
+0000000150 00000 n
+0000000221 00000 n
+0000000278 00000 n
+0000000311 00000 n
+0000001260 00000 n
+0000001377 00000 n
+0000001510 00000 n
+0000001529 00000 n
+0000001600 00000 n
+0000001743 00000 n
+0000001822 00000 n
+0000001915 00000 n
+
+trailer
+<<
+/Size 14
+/Root 1 0 R
+/ID [<D6CF927DCF82444068EB69AF5914F807> <CACB92F60DAD294CA1FF34F2F66A7025>]
+>>
+startxref
+2000
+%%EOF
