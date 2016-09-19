@@ -211,9 +211,27 @@ endobj
 /Next 17 0 R
 >>
 endobj
+19 0 obj
+<<
+/BBox [0.0 0.0 54.9737 52.8795]
+/FormType 1
+/Length 43/Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
+/Resources <<
+>>
+/Subtype /Form
+/Type /XObject
+>>
+stream
+q
+0.0 0.8 0.9 rg
+0 0 54.9737 52.8795 re
+f
+Q
+endstream
+endobj
 
 xref
-0 19
+0 20
 0000000000 65535 f
 0000000015 00000 n
 0000000153 00000 n
@@ -233,13 +251,14 @@ xref
 0000004219 00000 n
 0000004300 00000 n
 0000004394 00000 n
+0000004478 00000 n
 
 trailer
 <<
-/Size 19
+/Size 20
 /Root 1 0 R
 /ID [<D6CF927DCF82444068EB69AF5914F807> <1D3AA2F25975614C81FC4BB45352E049>]
 >>
 startxref
-4480
+4699
 %%EOF
