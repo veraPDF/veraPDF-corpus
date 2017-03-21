@@ -1,0 +1,192 @@
+%PDF-1.4
+%öäüß
+1 0 obj
+<<
+/Pages 2 0 R
+/Type /Catalog
+/PageMode /UseOutlines
+/Outlines 3 0 R
+/Metadata 4 0 R
+>>
+endobj
+2 0 obj
+<<
+/Count 1
+/Kids [5 0 R]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Type /Outlines
+/First 6 0 R
+/Count 1
+/Last 6 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Metadata
+/Subtype /XML
+/Length 4647>>
+stream
+<?xpacket begin="" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">
+		  <dc:creator>
+			<rdf:Seq>
+			  <rdf:li>veraPDF Consortium</rdf:li>
+			</rdf:Seq>
+		  </dc:creator>
+		</rdf:Description>
+		<rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2016-02-20T18:07:32+03:00" xmp:ModifyDate="2016-02-20T18:07:32+03:00"/>
+		<rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>
+		<rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="1" pdfaid:conformance="B"/>	
+        <rdf:Description rdf:about=""
+                         xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
+                         xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
+                         xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
+                         xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#"
+                         xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#">
+            <pdfaExtension:schemas>
+                <rdf:Bag>
+                    <rdf:li rdf:parseType="Resource">
+                        <pdfaSchema:schema>Custom Schema</pdfaSchema:schema>
+                        <pdfaSchema:namespaceURI>http://www.veraPDF.org/custom/</pdfaSchema:namespaceURI>
+                        <pdfaSchema:prefix>veraCustom</pdfaSchema:prefix>
+                        <pdfaSchema:property>
+                            <rdf:Seq>
+                                <rdf:li rdf:parseType="Resource">
+                                    <pdfaProperty:name>customProperty</pdfaProperty:name>
+                                    <pdfaProperty:valueType>customType</pdfaProperty:valueType>
+                                    <pdfaProperty:category>internal</pdfaProperty:category>
+                                    <pdfaProperty:description>Some custom property for tests</pdfaProperty:description>
+                                </rdf:li>
+                            </rdf:Seq>
+                        </pdfaSchema:property>
+                        <pdfaSchema:valueType>
+                            <rdf:Seq>
+                                <rdf:li rdf:parseType="Resource">
+                                    <pdfaType:type>customType</pdfaType:type>
+                                    <pdfaType:namespaceURI>http://www.veraPDF.org/custom/vt/</pdfaType:namespaceURI>
+                                    <pdfaType:prefix>vt</pdfaType:prefix>
+                                    <pdfaType:description>Some custom type with two child Text elements</pdfaType:description>
+                                    <pdfaType:field>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <pdfaField:name>elementOne</pdfaField:name>
+                                                <pdfaField:valueType>Text</pdfaField:valueType>
+                                                <pdfaField:description>plaintext name</pdfaField:description>
+                                            </rdf:li>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <pdfaField:name>elementTwo</pdfaField:name>
+                                                <pdfaField:valueType>Text</pdfaField:valueType>
+                                                <pdfaField:description>email address</pdfaField:description>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </pdfaType:field>
+                                </rdf:li>
+                            </rdf:Seq>
+                        </pdfaSchema:valueType>
+                    </rdf:li>
+                </rdf:Bag>
+            </pdfaExtension:schemas>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:veraCustom="http://www.veraPDF.org/custom/"
+                         xmlns:vt="http://www.veraPDF.org/custom/vt/">
+            <veraCustom:customProperty rdf:parseType="Resource">
+                <vt:elementOne>Some value for first element</vt:elementOne>
+                <vt:elementTwo>Some value for second element</vt:elementTwo>
+            </veraCustom:customProperty>
+        </rdf:Description>
+    </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>
+endstream
+endobj
+5 0 obj
+<<
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources <<
+>>
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Title (TWG test suite: A029-pdfa1-pass-c)
+/First 8 0 R
+/Count 5
+/Last 9 0 R
+/Parent 3 0 R
+>>
+endobj
+7 0 obj
+4647
+endobj
+8 0 obj
+<<
+/Title (clause A029)
+/Parent 6 0 R
+/Next 10 0 R
+>>
+endobj
+9 0 obj
+<<
+/Title (ISO WG Resolution: No empty entry is required to be present. e.g. if no custom value type is used then none of the entries in Table 4 or Table 5 have to be present in an embedded extension schema. ISO 19005-1, -2 and -3 validators shall allow missing pdfaSchema:valueType field in the Extension Schema definition, and treat it as an equivalent of an empty array.)
+/Parent 6 0 R
+/Prev 11 0 R
+>>
+endobj
+10 0 obj
+<<
+/Title (instance c)
+/Parent 6 0 R
+/Prev 8 0 R
+/Next 12 0 R
+>>
+endobj
+11 0 obj
+<<
+/Title (expected message: The pdfaSchema:valueType, pdfaType:field and pdfaType:description entries are present in PDF/A Extension Schema Container Schema)
+/Parent 6 0 R
+/Prev 12 0 R
+/Next 9 0 R
+>>
+endobj
+12 0 obj
+<<
+/Title (expected result: pass)
+/Parent 6 0 R
+/Prev 10 0 R
+/Next 11 0 R
+>>
+endobj
+
+xref
+0 13
+0000000000 65535 f
+0000000015 00000 n
+0000000119 00000 n
+0000000176 00000 n
+0000000247 00000 n
+0000004977 00000 n
+0000005065 00000 n
+0000005177 00000 n
+0000005197 00000 n
+0000005266 00000 n
+0000005686 00000 n
+0000005767 00000 n
+0000005984 00000 n
+
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/ID [<A276ECA7EBAC8F2B51FB96720A694BD0> <A276ECA7EBAC8F2B51FB96720A694BD0>]
+>>
+startxref
+6080
+%%EOF
