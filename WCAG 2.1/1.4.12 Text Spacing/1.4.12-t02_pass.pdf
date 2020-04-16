@@ -23,7 +23,7 @@ endobj
 /CreationDate (D:20200416165252+03'00')
 /Creator (veraPDF Test Builder)
 /Keywords ()
-/ModDate (D:20200416165943+03'00')
+/ModDate (D:20200416172442+03'00')
 /Producer (veraPDF Test Builder 1.0)
 /SourceModified (D:20200416135248)
 /Title (Para spacing-pass)
@@ -47,7 +47,7 @@ endobj
 endobj
 3 0 obj
 <<
-/Length 5075
+/Length 5173
 /Type /Metadata
 /Subtype /XML
 >>
@@ -65,12 +65,12 @@ stream
             xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
             xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
             xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#">
-         <xmp:ModifyDate>2020-04-16T16:59:43+03:00</xmp:ModifyDate>
+         <xmp:ModifyDate>2020-04-16T17:24:42+03:00</xmp:ModifyDate>
          <xmp:CreateDate>2020-04-16T16:52:52+03:00</xmp:CreateDate>
-         <xmp:MetadataDate>2020-04-16T16:59:43+03:00</xmp:MetadataDate>
+         <xmp:MetadataDate>2020-04-16T17:24:42+03:00</xmp:MetadataDate>
          <xmp:CreatorTool>veraPDF Test Builder</xmp:CreatorTool>
          <xmpMM:DocumentID>uuid:8cca7e71-0f61-40d7-88d8-082b37c0134d</xmpMM:DocumentID>
-         <xmpMM:InstanceID>uuid:e8b2148e-d752-41ea-85de-ea716658494a</xmpMM:InstanceID>
+         <xmpMM:InstanceID>uuid:e2b98304-ff42-4729-9588-11612ba7c7aa</xmpMM:InstanceID>
          <xmpMM:subject>
             <rdf:Seq>
                <rdf:li>1</rdf:li>
@@ -82,17 +82,15 @@ stream
                <rdf:li xml:lang="x-default">Para spacing-pass</rdf:li>
             </rdf:Alt>
          </dc:title>
-         <dc:creator>
-            <rdf:Seq/>
-         </dc:creator>
          <pdf:Producer>veraPDF Test Builder 1.0</pdf:Producer>
+         <pdf:Keywords/>
          <pdfx:SourceModified>D:20200416135248</pdfx:SourceModified>
          <pdfx:Company/>
          <pdfx:Comments/>
          <pdfuaid:part>1</pdfuaid:part>
          <pdfaExtension:schemas>
             <rdf:Bag>
-               <rdf:li rveraPDF Consortium"Resource">
+               <rdf:li rdf:parseType="Resource">
                   <pdfaSchema:schema>PDF/UA Universal Accessibility Schema</pdfaSchema:schema>
                   <pdfaSchema:namespaceURI>http://www.aiim.org/pdfua/ns/id/</pdfaSchema:namespaceURI>
                   <pdfaSchema:prefix>pdfuaid</pdfaSchema:prefix>
@@ -109,6 +107,11 @@ stream
                </rdf:li>
             </rdf:Bag>
          </pdfaExtension:schemas>
+          <dc:creator>
+             <rdf:Seq>
+                <rdf:li>veraPDF Consortium</rdf:li>
+             </rdf:Seq>
+          </dc:creator>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>
@@ -501,7 +504,7 @@ endstream
 endobj
 32 0 obj
 <<
-/ID [<FCE6784D254A984EA2D85E16063BBFF7> <94E30FE0508CF5449B5123443CF86D01>]
+/ID [<FCE6784D254A984EA2D85E16063BBFF7> <C4F1AA5DA444B146AB4F7F096F240104>]
 /Info 8 0 R
 /Root 1 0 R
 /Type /XRef
@@ -509,12 +512,15 @@ endobj
 /Index [0 32]
 /W [1 2 0]
 /Filter /FlateDecode
-/Length 107
+/Length 105
 >>
 stream
-xœ` Ÿÿ    ¦ÍP­ ôØg½£†Å   5 Â ÷!o!Û"³$4$x$¼$ñ%&%[&z'Û'c9
+xœc```dàgd’bdZÆ(®Ï(^Á(¾‰Q‚Ÿ‘á£„£l£ìIF9yF¹:FyVFùŒ
+êŒ
+IŒ
+ÓU#/2*Ù2*‹2ªLcT¹Å¨*Ç¨Ì¨ÚÁ¨º—Qí£†- ·}œ
 endstream
 endobj
 startxref
-36797
+36895
 %%EOF
