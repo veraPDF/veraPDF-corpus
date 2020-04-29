@@ -1,4 +1,4 @@
-%PDF-1.8
+%PDF-2.0
 %öäüß
 1 0 obj
 <<
@@ -1303,7 +1303,7 @@ trailer
 startxref
 112296
 %%EOF
-1 0 obj<</Extensions<</ADBE<</BaseVersion/1.7/ExtensionLevel 3>>>>/Lang(þÿ E N - U S)/MarkInfo<</Marked true>>/Metadata 6 0 R/Outlines 3 0 R/PageLayout/OneColumn/Pages 4 0 R/StructTreeRoot 2 0 R/Type/Catalog/ViewerPreferences 5 0 R>>endobj6 0 obj<</Length 5157/Subtype/XML/Type/Metadata>>stream
+6 0 obj<</Length 5137/Subtype/XML/Type/Metadata>>stream
 <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c016 91.163616, 2018/10/29-16:58:49        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -1317,12 +1317,12 @@ startxref
             xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
             xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
             xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#">
-         <xmp:ModifyDate>2020-04-07T21:54:11+03:00</xmp:ModifyDate>
+         <xmp:ModifyDate>2020-04-29T10:58:57+03:00</xmp:ModifyDate>
          <xmp:CreateDate>2020-04-07T14:24:35+03:00</xmp:CreateDate>
-         <xmp:MetadataDate>2020-04-07T21:54:11+03:00</xmp:MetadataDate>
+         <xmp:MetadataDate>2020-04-29T10:58:57+03:00</xmp:MetadataDate>
          <xmp:CreatorTool>veraPDF Test Builder</xmp:CreatorTool>
          <xmpMM:DocumentID>uuid:74e1cdcc-b5c7-4333-a5e2-c4ea92466392</xmpMM:DocumentID>
-         <xmpMM:InstanceID>uuid:157e02a6-9a08-4198-be29-640801dcde67</xmpMM:InstanceID>
+         <xmpMM:InstanceID>uuid:161f0868-74b7-45ff-8d5e-07a447d828ab</xmpMM:InstanceID>
          <xmpMM:subject>
             <rdf:Seq>
                <rdf:li>2</rdf:li>
@@ -1331,7 +1331,7 @@ startxref
          <dc:format>application/pdf</dc:format>
          <dc:title>
             <rdf:Alt>
-               <rdf:li xml:lang="x-default">version</rdf:li>
+               <rdf:li xml:lang="x-default">version-fail</rdf:li>
             </rdf:Alt>
          </dc:title>
          <dc:creator>
@@ -1340,7 +1340,6 @@ startxref
             </rdf:Seq>
          </dc:creator>
          <pdf:Producer>veraPDF Test Builder 1.0</pdf:Producer>
-         <pdf:Keywords/>
          <pdfx:SourceModified>D:20200407112430</pdfx:SourceModified>
          <pdfx:Company/>
          <pdfx:Comments/>
@@ -1389,17 +1388,15 @@ startxref
                                                                                                     
                            
 <?xpacket end="w"?>
-endstreamendobj7 0 obj<</Author(veraPDF Consortium)/Comments()/Company()/CreationDate(D:20200407142435+03'00')/Creator(veraPDF Test Builder)/Keywords()/ModDate(D:20200407215411+03'00')/Producer(veraPDF Test Builder 1.0)/SourceModified(D:20200407112430)/Title(version)>>endobj24 0 obj<</A 25 0 R/Next 22 0 R/Parent 3 0 R/Prev 11 0 R/Title(The version number of a file is 1.8)>>endobjxref
-0 2
+endstreamendobj27 0 obj<</Author(veraPDF Consortium)/Comments()/Company()/CreationDate(D:20200407142435+03'00')/Creator(veraPDF Test Builder)/Keywords()/ModDate(D:20200429105857+03'00')/Producer(veraPDF Test Builder 1.0)/SourceModified(D:20200407112430)/Title(version-fail)>>endobjxref
+0 1
 0000000000 65535 f
+6 1
 0000112600 00000 n
-6 2
-0000112842 00000 n
-0000118076 00000 n
-24 1
-0000118339 00000 n
+27 1
+0000117814 00000 n
 trailer
-<</Size 27/Root 1 0 R/Info 7 0 R/ID[<9086A3A21CF86C449024659BDD188646><70241D9A193FB94A8C135684C3DBA808>]/Prev 112296>>
+<</Size 28/Root 1 0 R/Info 27 0 R/ID[<9086A3A21CF86C449024659BDD188646><EEF03F22BFED644AB791E8544A6F9859>]/Prev 112296>>
 startxref
-118449
+118083
 %%EOF

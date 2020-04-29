@@ -1202,3 +1202,100 @@ trailer
 startxref
 106322
 %%EOF
+6 0 obj<</Length 5137/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c016 91.163616, 2018/10/29-16:58:49        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+            xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
+            xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
+            xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
+            xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#">
+         <xmp:ModifyDate>2020-04-29T10:59:07+03:00</xmp:ModifyDate>
+         <xmp:CreateDate>2020-04-07T14:24:35+03:00</xmp:CreateDate>
+         <xmp:MetadataDate>2020-04-29T10:59:07+03:00</xmp:MetadataDate>
+         <xmp:CreatorTool>veraPDF Test Builder</xmp:CreatorTool>
+         <xmpMM:DocumentID>uuid:74e1cdcc-b5c7-4333-a5e2-c4ea92466392</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:70727349-5bc7-427e-87eb-14767b764abc</xmpMM:InstanceID>
+         <xmpMM:subject>
+            <rdf:Seq>
+               <rdf:li>2</rdf:li>
+            </rdf:Seq>
+         </xmpMM:subject>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">version-pass</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>veraPDF Consortium</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <pdf:Producer>veraPDF Test Builder 1.0</pdf:Producer>
+         <pdfx:SourceModified>D:20200407112430</pdfx:SourceModified>
+         <pdfx:Company/>
+         <pdfx:Comments/>
+         <pdfuaid:part>1</pdfuaid:part>
+         <pdfaExtension:schemas>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <pdfaSchema:schema>PDF/UA Universal Accessibility Schema</pdfaSchema:schema>
+                  <pdfaSchema:namespaceURI>http://www.aiim.org/pdfua/ns/id/</pdfaSchema:namespaceURI>
+                  <pdfaSchema:prefix>pdfuaid</pdfaSchema:prefix>
+                  <pdfaSchema:property>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <pdfaProperty:name>part</pdfaProperty:name>
+                           <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+                           <pdfaProperty:category>internal</pdfaProperty:category>
+                           <pdfaProperty:description>Indicates, which part of ISO 14289 standard is followed</pdfaProperty:description>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </pdfaSchema:property>
+               </rdf:li>
+            </rdf:Bag>
+         </pdfaExtension:schemas>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj27 0 obj<</Author(veraPDF Consortium)/Comments()/Company()/CreationDate(D:20200407142435+03'00')/Creator(veraPDF Test Builder)/Keywords()/ModDate(D:20200429105907+03'00')/Producer(veraPDF Test Builder 1.0)/SourceModified(D:20200407112430)/Title(version-pass)>>endobjxref
+0 1
+0000000000 65535 f
+6 1
+0000106625 00000 n
+27 1
+0000111839 00000 n
+trailer
+<</Size 28/Root 1 0 R/Info 27 0 R/ID[<9086A3A21CF86C449024659BDD188646><3D4EA50E51B0B142926D957C62CB4B03>]/Prev 106322>>
+startxref
+112108
+%%EOF
