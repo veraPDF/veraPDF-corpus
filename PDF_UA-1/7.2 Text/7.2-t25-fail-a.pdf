@@ -24,9 +24,9 @@ endobj
 /CreationDate (D:20200513183928+03'00')
 /Creator (veraPDF Test Builder)
 /Keywords ()
-/ModDate (D:20200513185359+03'00')
+/ModDate (D:20200615181904+03'00')
 /Producer (veraPDF Test Builder 1.0)
-/Title (TU-pass)
+/Title (TU-fail)
 /Author (veraPDF Consortium)
 >>
 endobj
@@ -73,7 +73,7 @@ endobj
 >>
 stream
 <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c016 91.163616, 2018/10/29-16:58:49        ">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164374, 2020/03/05-20:41:30        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:Description rdf:about=""
             xmlns:xmp="http://ns.adobe.com/xap/1.0/"
@@ -87,20 +87,20 @@ stream
             xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#">
          <xmp:CreateDate>2020-05-13T18:39:28+03:00</xmp:CreateDate>
          <xmp:CreatorTool>veraPDF Test Builder</xmp:CreatorTool>
-         <xmp:ModifyDate>2020-05-13T18:53:59+03:00</xmp:ModifyDate>
-         <xmp:MetadataDate>2020-05-13T18:53:59+03:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-06-15T18:19:04+03:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2020-06-15T18:19:04+03:00</xmp:MetadataDate>
          <pdf:Producer>veraPDF Test Builder 1.0</pdf:Producer>
          <pdf:Keywords/>
          <dc:format>application/pdf</dc:format>
          <dc:title>
             <rdf:Alt>
-               <rdf:li xml:lang="x-default">TU-pass</rdf:li>
+               <rdf:li xml:lang="x-default">TU-fail</rdf:li>
             </rdf:Alt>
          </dc:title>
          <adhocwf:state>1</adhocwf:state>
          <adhocwf:version>1.1</adhocwf:version>
          <xmpMM:DocumentID>uuid:c22d3a04-66b8-4d7d-92df-55de5e25eb0d</xmpMM:DocumentID>
-         <xmpMM:InstanceID>uuid:bb1c3e7c-8ba6-4125-88aa-c692c0906e62</xmpMM:InstanceID>
+         <xmpMM:InstanceID>uuid:f7d99554-ffd6-44a4-9c22-2ee34374c32c</xmpMM:InstanceID>
          <pdfuaid:part>1</pdfuaid:part>
          <pdfaExtension:schemas>
             <rdf:Bag>
@@ -312,7 +312,7 @@ endobj
 /A 34 0 R
 /Parent 6 0 R
 /Prev 33 0 R
-/Title (Expected result: pass)
+/Title (Expected result: fail)
 >>
 endobj
 19 0 obj
@@ -595,7 +595,7 @@ endobj
 /Next 18 0 R
 /Parent 6 0 R
 /Prev 17 0 R
-/Title (Lang is present in Form)
+/Title (Lang is not present in Form or Document Catalog)
 >>
 endobj
 34 0 obj
@@ -632,7 +632,6 @@ endobj
 /Pg 5 0 R
 /Type /OBJR
 >>
-/Lang /en-US
 /P 36 0 R
 /S /Form
 /T ()
@@ -11080,7 +11079,7 @@ endstream
 endobj
 53 0 obj
 <<
-/ID [<BD23E86A6532D0690EEF98BB89BB3956> <1C79DB3AF6510841BC7C66186F48CA1E>]
+/ID [<BD23E86A6532D0690EEF98BB89BB3956> <3CB0DA3FAF92614DBB660B2C166FC008>]
 /Info 10 0 R
 /Root 1 0 R
 /Type /XRef
@@ -11088,13 +11087,13 @@ endobj
 /Index [0 53]
 /W [1 3 0]
 /Filter /FlateDecode
-/Length 186
+/Length 183
 >>
 stream
-xœÎ+K †á÷uMÃ0Èf˜C]pÁ²"ˆ—]¼4Ál[ƒÎ¦bÖ¿ *kbôŒY¬‚FÑ Xb±ùç;ğq „¢ø-#ÛR8“Ò‘”¯âC&«q’ûxæL=KõX¦ÇdæßƒÌ^Ä§Ô:qï27”zMæß¤q'çñ*K—²¼'+éZ=æ£´
-‘¬ÕioÅ@:»²v*ëéßÈ¾ù$;ûÒ«D~íİÆ—vıí;Ñ}±r¿ø—(V
+xœÍ¯/ Æñï×5l&·ãÂ]PÅãîÈ—I‚Dp¦ 
+ü†f‚t› Rn“õf.ØTíÚ=ÂgÏŞ½{Ÿ@˜ÿd¤%…+™>“™»ø‘Ùb\d?™|”ùO)KiLşueñ&~¥\ûèKåUªeYú–å¬\Ç—¬ŞÊÚ¡¬§kãXj²YˆËx‘­ñ8ˆw©ŸJ#wÍÙÎ¼Ó“İünWb/c 'GœÚï;÷Öª(\
 endstream
 endobj
 startxref
-2639736
+2639747
 %%EOF
