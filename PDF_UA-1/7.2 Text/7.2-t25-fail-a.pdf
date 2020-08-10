@@ -21,13 +21,13 @@
 endobj
 10 0 obj
 <<
+/Author (veraPDF Consortium)
 /CreationDate (D:20200513183928+03'00')
 /Creator (veraPDF Test Builder)
 /Keywords ()
-/ModDate (D:20200615181904+03'00')
+/ModDate (D:20200810173026+03'00')
 /Producer (veraPDF Test Builder 1.0)
 /Title (TU-fail)
-/Author (veraPDF Consortium)
 >>
 endobj
 2 0 obj
@@ -67,7 +67,7 @@ endobj
 endobj
 4 0 obj
 <<
-/Length 5022
+/Length 5013
 /Type /Metadata
 /Subtype /XML
 >>
@@ -87,20 +87,25 @@ stream
             xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#">
          <xmp:CreateDate>2020-05-13T18:39:28+03:00</xmp:CreateDate>
          <xmp:CreatorTool>veraPDF Test Builder</xmp:CreatorTool>
-         <xmp:ModifyDate>2020-06-15T18:19:04+03:00</xmp:ModifyDate>
-         <xmp:MetadataDate>2020-06-15T18:19:04+03:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-08-10T17:30:26+03:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2020-08-10T17:30:26+03:00</xmp:MetadataDate>
          <pdf:Producer>veraPDF Test Builder 1.0</pdf:Producer>
          <pdf:Keywords/>
          <dc:format>application/pdf</dc:format>
          <dc:title>
             <rdf:Alt>
-               <rdf:li xml:lang="x-default">TU-fail</rdf:li>
+               <rdf:li xml:lang="en-US">TU-fail</rdf:li>
             </rdf:Alt>
          </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>veraPDF Consortium</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
          <adhocwf:state>1</adhocwf:state>
          <adhocwf:version>1.1</adhocwf:version>
          <xmpMM:DocumentID>uuid:c22d3a04-66b8-4d7d-92df-55de5e25eb0d</xmpMM:DocumentID>
-         <xmpMM:InstanceID>uuid:f7d99554-ffd6-44a4-9c22-2ee34374c32c</xmpMM:InstanceID>
+         <xmpMM:InstanceID>uuid:a0b5409e-a022-47ae-a764-c0a6157d87e9</xmpMM:InstanceID>
          <pdfuaid:part>1</pdfuaid:part>
          <pdfaExtension:schemas>
             <rdf:Bag>
@@ -121,11 +126,6 @@ stream
                </rdf:li>
             </rdf:Bag>
          </pdfaExtension:schemas>
-          <dc:creator>
-             <rdf:Seq>
-                <rdf:li>veraPDF Consortium</rdf:li>
-             </rdf:Seq>
-          </dc:creator>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>
@@ -608,6 +608,7 @@ endobj
 <<
 /A 46 0 R
 /K [0]
+/Lang (en-US)
 /P 19 0 R
 /Pg 5 0 R
 /S /H1
@@ -618,6 +619,7 @@ endobj
 <<
 /A 47 0 R
 /K [3 37 0 R]
+/Lang (en-US)
 /P 19 0 R
 /Pg 5 0 R
 /S /P
@@ -11079,7 +11081,7 @@ endstream
 endobj
 53 0 obj
 <<
-/ID [<BD23E86A6532D0690EEF98BB89BB3956> <3CB0DA3FAF92614DBB660B2C166FC008>]
+/ID [<BD23E86A6532D0690EEF98BB89BB3956> <3F3709877D99C34887C5111F51D018E1>]
 /Info 10 0 R
 /Root 1 0 R
 /Type /XRef
@@ -11087,13 +11089,12 @@ endobj
 /Index [0 53]
 /W [1 3 0]
 /Filter /FlateDecode
-/Length 183
+/Length 186
 >>
 stream
-xœÍ¯/ Æñï×5l&·ãÂ]PÅãîÈ—I‚Dp¦ 
-ü†f‚t› Rn“õf.ØTíÚ=ÂgÏŞ½{Ÿ@˜ÿd¤%…+™>“™»ø‘Ùb\d?™|”ùO)KiLşueñ&~¥\ûèKåUªeYú–å¬\Ç—¬ŞÊÚ¡¬§kãXj²YˆËx‘­ñ8ˆw©ŸJ#wÍÙÎ¼Ó“İünWb/c 'GœÚï;÷Öª(\
+xœÎ½+ Çñï÷l—’Á[:âË•—;ÎÛl»²±Øtw“,7š”°Él3²¸²0ØEQş)“ŸáÓ¯§§ß ô‰_RØ’#jÊğY¼ËÈ`´³ïO^ÊØ“Œ·d¢ “ÿî¤|25çñ*Ó723*³/2w%•N<Ëâ©,íJ5·j{²ü¿²r×ROOı Şd5¿¬]Èú­ldŞü”íci-Ä~<J»7:ºì|[ºoüŞÎ(ƒ
 endstream
 endobj
 startxref
-2639747
+2639766
 %%EOF
