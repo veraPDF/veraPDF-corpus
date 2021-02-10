@@ -1,0 +1,263 @@
+%PDF-2.0
+%öäüß
+1 0 obj
+<<
+/AcroForm 2 0 R
+/Outlines 3 0 R
+/PageMode /UseOutlines
+/Pages 4 0 R
+/Type /Catalog
+/Metadata 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/DA (/Helv 0 Tf 0 g )
+/DR <<
+/Encoding <<
+/PDFDocEncoding 6 0 R
+>>
+/Font <<
+/Helv 7 0 R
+/ZaDb 8 0 R
+>>
+>>
+/Fields []
+>>
+endobj
+3 0 obj
+<<
+/Count 6
+/First 9 0 R
+/Last 9 0 R
+/Type /Outlines
+>>
+endobj
+4 0 obj
+<<
+/Count 1
+/Kids [10 0 R]
+/Type /Pages
+>>
+endobj
+5 0 obj
+<<
+/Length 882
+/Type /Metadata
+/Subtype /XML
+>>
+stream
+<?xpacket begin='Ã¯Â»Â¿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">
+      <dc:creator>
+        <rdf:Seq>
+          <rdf:li>veraPDF Consortium</rdf:li>
+        </rdf:Seq>
+      </dc:creator>
+    </rdf:Description>
+    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2020-12-20T18:07:32+03:00" xmp:ModifyDate="2020-12-20T18:07:32+03:00"/>
+    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0"/>
+    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="4" pdfaid:rev="2020"/>
+  </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end='w'?>
+endstream
+endobj
+6 0 obj
+<<
+/Differences [24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39
+/quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash
+/florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft
+/quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron
+/dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166
+/brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron
+/degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior
+/ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde
+/Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute
+/Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+/Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute
+/acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis
+/igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde
+/odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis]
+/Type /Encoding
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding 6 0 R
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Count 5
+/First 11 0 R
+/Last 12 0 R
+/Parent 3 0 R
+/Title (veraPDF test suite: 6-2-9-t05-fail-f)
+>>
+endobj
+10 0 obj
+<<
+/Annots [13 0 R]
+/Contents 14 0 R
+/Group 15 0 R
+/CropBox [0 0 500 500]
+/MediaBox [0 0 500 500]
+/Parent 4 0 R
+/Resources <<
+>>
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Next 16 0 R
+/Parent 9 0 R
+/Title (clause 6-2-9)
+>>
+endobj
+12 0 obj
+<<
+/Parent 9 0 R
+/Prev 17 0 R
+/Title (expected message: An annotation uses an ExtGState, which contains the /CA key with value 0.5 and is used for rendering on the page; the Page object does not define the blending colour space in Group; the document contains no GTS_PDFA1 OutputIntent)
+>>
+endobj
+13 0 obj
+<<
+/AP <<
+/N 18 0 R
+>>
+/BS 19 0 R
+/CreationDate (D:20160405154649+03'00')
+/F 4
+/M (D:20160405170932+03'00')
+/NM (f1b83487-48cc-4217-a059-a1ebdcfb476d)
+/P 10 0 R
+/RD [1.5 1.5 1.5 1.5]
+/Rect [29.468 410.112 93.7588 471.177]
+/Subj (Oval)
+/Subtype /Circle
+/Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Length 0
+>>
+stream
+
+endstream
+endobj
+15 0 obj
+<<
+/S /Transparency
+>>
+endobj
+16 0 obj
+<<
+/Next 20 0 R
+/Parent 9 0 R
+/Prev 11 0 R
+/Title (topic 05)
+>>
+endobj
+17 0 obj
+<<
+/Next 12 0 R
+/Parent 9 0 R
+/Prev 20 0 R
+/Title (expected result: fail)
+>>
+endobj
+18 0 obj
+<<
+/BBox [29.468 410.112 93.7588 471.177]
+/FormType 1
+/Length 271
+/Matrix [1 0 0 1 -29.468 -410.112]
+/Resources <<
+/ExtGState <<
+/R0 21 0 R
+>>
+>>
+/Subtype /Form
+/Type /XObject
+>>
+stream
+0.25 0.75 0.75 RG
+0.25 0.75 0.75 rg
+3 w
+/R0 gs
+61.6134 468.177 m
+77.8053 468.177 90.7588 455.9403 90.7588 440.6445 c
+90.7588 425.3487 77.8053 413.112 61.6134 413.112 c
+45.4215 413.112 32.468 425.3487 32.468 440.6445 c
+32.468 455.9403 45.4215 468.177 61.6134 468.177 c
+h
+S
+endstream
+endobj
+19 0 obj
+<<
+/W 3
+>>
+endobj
+20 0 obj
+<<
+/Next 17 0 R
+/Parent 9 0 R
+/Prev 16 0 R
+/Title (instance f)
+>>
+endobj
+21 0 obj
+<<
+/CA 0.5
+>>
+endobj
+xref
+0 22
+0000000000 65535 f
+0000000015 00000 n
+0000000135 00000 n
+0000000273 00000 n
+0000000344 00000 n
+0000000402 00000 n
+0000001367 00000 n
+0000002691 00000 n
+0000002777 00000 n
+0000002850 00000 n
+0000002967 00000 n
+0000003127 00000 n
+0000003198 00000 n
+0000003504 00000 n
+0000003788 00000 n
+0000003840 00000 n
+0000003879 00000 n
+0000003959 00000 n
+0000004052 00000 n
+0000004538 00000 n
+0000004565 00000 n
+0000004647 00000 n
+trailer
+<<
+/Size 22
+/Root 1 0 R
+/ID [<A3C682F570C8A6BB508A01662CC4CF3E> <A3C682F570C8A6BB508A01662CC4CF3E>]
+>>
+startxref
+4677
+%%EOF
