@@ -1,0 +1,213 @@
+%PDF-2.0
+%öäüß
+1 0 obj
+<<
+/Metadata 2 0 R
+/Outlines 3 0 R
+/PageMode /UseOutlines
+/Pages 4 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Length 882
+/Type /Metadata
+/Subtype /XML
+>>
+stream
+<?xpacket begin='Ã¯Â»Â¿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">
+      <dc:creator>
+        <rdf:Seq>
+          <rdf:li>veraPDF Consortium</rdf:li>
+        </rdf:Seq>
+      </dc:creator>
+    </rdf:Description>
+    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2020-12-20T18:07:32+03:00" xmp:ModifyDate="2020-12-20T18:07:32+03:00"/>
+    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0"/>
+    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="4" pdfaid:rev="2020"/>
+  </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end='w'?>
+endstream
+endobj
+3 0 obj
+<<
+/Count 6
+/First 5 0 R
+/Last 5 0 R
+/Type /Outlines
+>>
+endobj
+4 0 obj
+<<
+/Count 1
+/Kids [6 0 R]
+/Type /Pages
+>>
+endobj
+5 0 obj
+<<
+/Count 5
+/First 7 0 R
+/Last 8 0 R
+/Parent 3 0 R
+/Title (veraPDF test suite: 6-2-4-3-t04-fail-m)
+>>
+endobj
+6 0 obj
+<<
+/Contents 9 0 R
+/Group 10 0 R
+/MediaBox [0 0 612 792]
+/Parent 4 0 R
+/Resources <<
+>>
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Next 11 0 R
+/Parent 5 0 R
+/Title (clause 6-2-4-3)
+>>
+endobj
+8 0 obj
+<<
+/Parent 5 0 R
+/Prev 12 0 R
+/Title (expected message: DeviceRGB colour space is used for path drawing on the page; the transparency Group contains CalGray colour space)
+>>
+endobj
+9 0 obj
+<<
+/Length 584
+>>
+stream
+q
+0.1875 0.4655 0.7444 rg
+40 650 m 
+40 680 l 
+50 680 l 
+50 690 l 
+60 690 l 
+60 700 l 
+70 700 l 
+70 710 l 
+60 710 l 
+60 720 l 
+70 720 l 
+70 710 l 
+80 710 l 
+80 700 l 
+110 700 l 
+110 710 l 
+120 710 l 
+120 720 l 
+130 720 l 
+130 710 l 
+120 710 l 
+120 700 l 
+130 700 l 
+130 690 l 
+140 690 l 
+140 680 l 
+150 680 l 
+150 650 l 
+140 650 l 
+140 670 l 
+130 670 l 
+130 650 l 
+120 650 l 
+120 640 l 
+100 640 l 
+100 650 l 
+120 650 l 
+120 660 l 
+70 660 l 
+70 650 l 
+90 650 l 
+90 640 l 
+70 640 l 
+70 650 l 
+60 650 l 
+60 670 l 
+50 670 l 
+50 650 l 
+f
+Q
+q
+1 1 1 rg 
+70 680 10 10 re
+f
+110 680 10 10 re
+f
+Q
+endstream
+endobj
+10 0 obj
+<<
+/CS [/CalGray 13 0 R]
+/S /Transparency
+>>
+endobj
+11 0 obj
+<<
+/Next 14 0 R
+/Parent 5 0 R
+/Prev 7 0 R
+/Title (topic 04)
+>>
+endobj
+12 0 obj
+<<
+/Next 8 0 R
+/Parent 5 0 R
+/Prev 14 0 R
+/Title (expected result: fail)
+>>
+endobj
+13 0 obj
+<<
+/Gamma 2.222
+/WhitePoint [0.9505 1.0000 1.0890]
+>>
+endobj
+14 0 obj
+<<
+/Next 12 0 R
+/Parent 5 0 R
+/Prev 11 0 R
+/Title (instance m)
+>>
+endobj
+xref
+0 15
+0000000000 65535 f
+0000000015 00000 n
+0000000119 00000 n
+0000001084 00000 n
+0000001155 00000 n
+0000001212 00000 n
+0000001329 00000 n
+0000001447 00000 n
+0000001519 00000 n
+0000001708 00000 n
+0000002345 00000 n
+0000002406 00000 n
+0000002485 00000 n
+0000002577 00000 n
+0000002647 00000 n
+trailer
+<<
+/ID [<4F21C15395DA7D89C9CA9AC9B6A982BC> <8C252BBF07F33F8454963C2A67CD4A1D>]
+/Root 1 0 R
+/Size 15
+>>
+startxref
+2729
+%%EOF

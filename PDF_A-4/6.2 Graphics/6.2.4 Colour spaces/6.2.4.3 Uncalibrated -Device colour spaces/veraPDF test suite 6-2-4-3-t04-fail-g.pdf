@@ -1,0 +1,173 @@
+%PDF-2.0
+%öäüß
+1 0 obj
+<<
+/Metadata 2 0 R
+/Outlines 3 0 R
+/PageMode /UseOutlines
+/Pages 4 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Length 882
+/Type /Metadata
+/Subtype /XML
+>>
+stream
+<?xpacket begin='Ã¯Â»Â¿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">
+      <dc:creator>
+        <rdf:Seq>
+          <rdf:li>veraPDF Consortium</rdf:li>
+        </rdf:Seq>
+      </dc:creator>
+    </rdf:Description>
+    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2020-12-20T18:07:32+03:00" xmp:ModifyDate="2020-12-20T18:07:32+03:00"/>
+    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0"/>
+    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="4" pdfaid:rev="2020"/>
+  </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end='w'?>
+endstream
+endobj
+3 0 obj
+<<
+/Count 6
+/First 5 0 R
+/Last 5 0 R
+/Type /Outlines
+>>
+endobj
+4 0 obj
+<<
+/Count 1
+/Kids [6 0 R]
+/Type /Pages
+>>
+endobj
+5 0 obj
+<<
+/Count 5
+/First 7 0 R
+/Last 8 0 R
+/Parent 3 0 R
+/Title (veraPDF test suite: 6-2-4-3-t04-fail-g)
+>>
+endobj
+6 0 obj
+<<
+/Contents 9 0 R
+/CropBox [0 0 500 500]
+/Group 10 0 R
+/MediaBox [0 0 500 500]
+/Parent 4 0 R
+/Resources <<
+/Shading <<
+/SH0 11 0 R
+>>
+>>
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Next 12 0 R
+/Parent 5 0 R
+/Title (clause 6-2-4-3)
+>>
+endobj
+8 0 obj
+<<
+/Parent 5 0 R
+/Prev 13 0 R
+/Title (expected message: DeviceRGB colour space is used in shading; the transparency Group contains DeviceRGB color space)
+>>
+endobj
+9 0 obj
+<<
+/Length 11
+>>
+stream
+q
+/SH0 sh
+Q
+endstream
+endobj
+10 0 obj
+<<
+/CS /DeviceRGB
+/S /Transparency
+>>
+endobj
+11 0 obj
+<<
+/ColorSpace /DeviceRGB
+/Coords [250 250 80 250 250 100]
+/Function 14 0 R
+/ShadingType 3
+>>
+endobj
+12 0 obj
+<<
+/Next 15 0 R
+/Parent 5 0 R
+/Prev 7 0 R
+/Title (topic 04)
+>>
+endobj
+13 0 obj
+<<
+/Next 8 0 R
+/Parent 5 0 R
+/Prev 15 0 R
+/Title (expected result: fail)
+>>
+endobj
+14 0 obj
+<<
+/C0 [0.8 0.8 0.8]
+/C1 [0 0.8 0.8]
+/Domain [0 1]
+/FunctionType 2
+/N 1
+>>
+endobj
+15 0 obj
+<<
+/Next 13 0 R
+/Parent 5 0 R
+/Prev 12 0 R
+/Title (instance g)
+>>
+endobj
+xref
+0 16
+0000000000 65535 f
+0000000015 00000 n
+0000000119 00000 n
+0000001084 00000 n
+0000001155 00000 n
+0000001212 00000 n
+0000001329 00000 n
+0000001497 00000 n
+0000001569 00000 n
+0000001741 00000 n
+0000001804 00000 n
+0000001858 00000 n
+0000001968 00000 n
+0000002047 00000 n
+0000002139 00000 n
+0000002230 00000 n
+trailer
+<<
+/ID [<D6CF927DCF82444068EB69AF5914F807> <917C446017FF96C4107CC8EB329364FF>]
+/Root 1 0 R
+/Size 16
+>>
+startxref
+2312
+%%EOF
