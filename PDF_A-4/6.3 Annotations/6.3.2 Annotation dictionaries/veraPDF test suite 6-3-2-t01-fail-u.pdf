@@ -1,0 +1,284 @@
+%PDF-2.0
+%öäüß
+1 0 obj
+<<
+/MarkInfo <<
+/Marked true
+>>
+/Metadata 2 0 R
+/OpenAction 3 0 R
+/Outlines 4 0 R
+/PageMode /UseOutlines
+/Pages 5 0 R
+/StructTreeRoot 6 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Length 882
+/Type /Metadata
+/Subtype /XML
+>>
+stream
+<?xpacket begin='Ã¯Â»Â¿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">
+      <dc:creator>
+        <rdf:Seq>
+          <rdf:li>veraPDF Consortium</rdf:li>
+        </rdf:Seq>
+      </dc:creator>
+    </rdf:Description>
+    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2020-12-20T18:07:32+03:00" xmp:ModifyDate="2020-12-20T18:07:32+03:00"/>
+    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0"/>
+    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="4" pdfaid:rev="2020"/>
+  </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end='w'?>
+endstream
+endobj
+3 0 obj
+<<
+/D [7 0 R /Fit]
+/S /GoTo
+>>
+endobj
+4 0 obj
+<<
+/Count 6
+/First 8 0 R
+/Last 8 0 R
+/Type /Outlines
+>>
+endobj
+5 0 obj
+<<
+/Count 1
+/Kids [7 0 R]
+/Type /Pages
+>>
+endobj
+6 0 obj
+<<
+/K [9 0 R]
+/ParentTree 10 0 R
+/ParentTreeNextKey 1
+/RoleMap <<
+>>
+/Type /StructTreeRoot
+>>
+endobj
+7 0 obj
+<<
+/Annots [11 0 R]
+/Contents 12 0 R
+/MediaBox [0 0 612 792]
+/Parent 5 0 R
+/Resources <<
+>>
+/Rotate 0
+/StructParents 0
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Count 5
+/First 13 0 R
+/Last 14 0 R
+/Parent 4 0 R
+/Title (veraPDF test suite: 6-3-2-t01-fail-u)
+>>
+endobj
+9 0 obj
+<<
+/K [15 0 R]
+/P 6 0 R
+/S /Sect
+/Type /StructElem
+>>
+endobj
+10 0 obj
+<<
+/Nums [0 [15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R]
+]
+>>
+endobj
+11 0 obj
+<<
+/C [1.0 0.0 0.0]
+/ExData 24 0 R
+/P 7 0 R
+/Rect [0.0 0.0 0.0 0.0]
+/Subtype /Projection
+/Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Length 0
+>>
+stream
+
+endstream
+endobj
+13 0 obj
+<<
+/Next 25 0 R
+/Parent 8 0 R
+/Title (clause 6-3-2)
+>>
+endobj
+14 0 obj
+<<
+/Parent 8 0 R
+/Prev 26 0 R
+/Title (expected message: The F key is missing in a Projection annotation dictionary)
+>>
+endobj
+15 0 obj
+<<
+/K [0]
+/P 9 0 R
+/Pg 7 0 R
+/S /Figure
+/Type /StructElem
+>>
+endobj
+16 0 obj
+<<
+/K [1]
+/P 9 0 R
+/Pg 7 0 R
+/S /Figure
+/Type /StructElem
+>>
+endobj
+17 0 obj
+<<
+/K [2]
+/P 9 0 R
+/Pg 7 0 R
+/S /Figure
+/Type /StructElem
+>>
+endobj
+18 0 obj
+<<
+/K [3]
+/P 9 0 R
+/Pg 7 0 R
+/S /Figure
+/Type /StructElem
+>>
+endobj
+19 0 obj
+<<
+/K [4]
+/P 9 0 R
+/Pg 7 0 R
+/S /P
+/Type /StructElem
+>>
+endobj
+20 0 obj
+<<
+/K [5]
+/P 9 0 R
+/Pg 7 0 R
+/S /P
+/Type /StructElem
+>>
+endobj
+21 0 obj
+<<
+/K [6]
+/P 9 0 R
+/Pg 7 0 R
+/S /P
+/Type /StructElem
+>>
+endobj
+22 0 obj
+<<
+/K [7]
+/P 9 0 R
+/Pg 7 0 R
+/S /P
+/Type /StructElem
+>>
+endobj
+23 0 obj
+<<
+/K [8]
+/P 9 0 R
+/Pg 7 0 R
+/S /P
+/Type /StructElem
+>>
+endobj
+24 0 obj
+<<
+/M3DREF 27 0 R
+/Subtype /3DM
+/Type /ExData
+>>
+endobj
+25 0 obj
+<<
+/Next 28 0 R
+/Parent 8 0 R
+/Prev 13 0 R
+/Title (topic 01)
+>>
+endobj
+26 0 obj
+<<
+/Next 14 0 R
+/Parent 8 0 R
+/Prev 28 0 R
+/Title (expected result: fail)
+>>
+endobj
+27 0 obj
+<<
+/A1 [-1.26694 -0.854809 2.79492]
+/C [/DeviceRGB 0.0 0.996078 0.0]
+/S 11 0 R
+/Subtype /3DC
+/TB [23 1]
+/TP [-1.2665 -1.33034 2.59237]
+/TRL (Commento 3D 1)
+/TS 20.0
+/Type /3DMeasure
+/UT (\(-1,267; -0,855; 2,795\))
+>>
+endobj
+28 0 obj
+<<
+/Next 26 0 R
+/Parent 8 0 R
+/Prev 25 0 R
+/Title (instance u)
+>>
+endobj
+29 0 obj
+<<
+/ID [<BAF39F1B71F96BEC53C87A28C3A8FB0F> <08FC3D24DAB3653A072F38416DEDFA71>]
+/Root 1 0 R
+/Type /XRef
+/Size 30
+/Index [0 29]
+/W [1 2 0]
+/Filter /FlateDecode
+/Length 95
+>>
+stream
+xœÁ±@@€ÑÿKÎ»#*D­’h5F‹è ¥µ€Z`5…(¼'"H‚l¨µ¢‚œ`Bè}aÌy	+Â›b;ìŠıp5nÄøßãgüMÔ—?–Ãò
+endstream
+endobj
+startxref
+3469
+%%EOF
