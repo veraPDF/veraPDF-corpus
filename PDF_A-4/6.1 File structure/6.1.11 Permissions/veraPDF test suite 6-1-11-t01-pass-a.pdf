@@ -125,7 +125,7 @@ endobj
 <<
 /BaseFont /Helvetica
 /Encoding 7 0 R
-/Name /Helv
+           
 /Subtype /Type1
 /Type /Font
 >>
@@ -133,7 +133,7 @@ endobj
 9 0 obj
 <<
 /BaseFont /ZapfDingbats
-/Name /ZaDb
+           
 /Subtype /Type1
 /Type /Font
 >>
@@ -169,7 +169,7 @@ endobj
 /CropBox [0 0 500 500]
 /MediaBox [0 0 500 500]
 /Parent 5 0 R
-/ProcSet [/PDF /Text]
+                     
 /Resources <<
 >>
 /Rotate 0
