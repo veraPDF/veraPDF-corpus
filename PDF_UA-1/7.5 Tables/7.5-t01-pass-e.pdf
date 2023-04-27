@@ -20,14 +20,14 @@ endobj
 /Author (veraPDF Consortium)
 /CreationDate (D:20191230165523+03'00')
 /Creator (veraPDF Test Builder)
-/ModDate (D:20200615155606+03'00')
+/ModDate (D:20200629184215+03'00')
 /Producer (veraPDF Test Builder 1.0)
-/Title (Headers-fail)
+/Title (ID_and_Header-pass)
 >>
 endobj
 2 0 obj
 <<
-/Length 2841
+/Length 2847
 /Type /Metadata
 /Subtype /XML
 >>
@@ -53,7 +53,7 @@ stream
          <dc:format>application/pdf</dc:format>
          <dc:title>
             <rdf:Alt>
-               <rdf:li xml:lang="en-US">Headers-fail</rdf:li>
+               <rdf:li xml:lang="en-US">ID_and_Header-pass</rdf:li>
             </rdf:Alt>
          </dc:title>
          <dc:creator>
@@ -115,7 +115,7 @@ endobj
 endobj
 4 0 obj
 <<
-/Count 5
+/Count 6
 /First 13 0 R
 /Last 14 0 R
 >>
@@ -132,6 +132,9 @@ endobj
 /IDTree 15 0 R
 /K [16 0 R]
 /ParentTree 17 0 R
+/ParentTreeNextKey 1
+/RoleMap <<
+>>
 /Type /StructTreeRoot
 >>
 endobj
@@ -339,7 +342,7 @@ endobj
 /A 24 0 R
 /Next 25 0 R
 /Parent 4 0 R
-/Title (7.5-2 Tables)
+/Title (7.5-1 Tables)
 >>
 endobj
 14 0 obj
@@ -347,7 +350,7 @@ endobj
 /A 26 0 R
 /Parent 4 0 R
 /Prev 27 0 R
-/Title (Expected result: fail)
+/Title (Expected result: pass)
 >>
 endobj
 15 0 obj
@@ -455,7 +458,7 @@ endobj
 25 0 obj
 <<
 /A 43 0 R
-/Next 27 0 R
+/Next 44 0 R
 /Parent 4 0 R
 /Prev 13 0 R
 /Title (Scope attribute is not present in TH cells)
@@ -469,22 +472,19 @@ endobj
 endobj
 27 0 obj
 <<
-/A 44 0 R
-/Count 1
-/First 45 0 R
-/Last 45 0 R
+/A 45 0 R
 /Next 14 0 R
 /Parent 4 0 R
-/Prev 25 0 R
-/Title (Table Heading \(Row\))
+/Prev 46 0 R
+/Title (Value of Headers for TH \(Row\) is empty)
 >>
 endobj
 28 0 obj
 <<
-/A [46 0 R]
+/A [47 0 R]
 /ID (Failure condition)
 /K 16
-/P 47 0 R
+/P 48 0 R
 /Pg 3 0 R
 /S /TH
 /Type /StructElem
@@ -492,10 +492,10 @@ endobj
 endobj
 29 0 obj
 <<
-/A [48 0 R]
+/A [49 0 R]
 /ID (How)
 /K 19
-/P 47 0 R
+/P 48 0 R
 /Pg 3 0 R
 /S /TH
 /Type /StructElem
@@ -503,9 +503,10 @@ endobj
 endobj
 30 0 obj
 <<
-/A [49 0 R]
+/A [50 0 R]
+/ID ()
 /K 15
-/P 47 0 R
+/P 48 0 R
 /Pg 3 0 R
 /S /TH
 /Type /StructElem
@@ -513,10 +514,10 @@ endobj
 endobj
 31 0 obj
 <<
-/A [50 0 R 51 0 R]
+/A [51 0 R 52 0 R]
 /ID (Row)
 /K 20
-/P 52 0 R
+/P 53 0 R
 /Pg 3 0 R
 /S /TH
 /Type /StructElem
@@ -524,10 +525,10 @@ endobj
 endobj
 32 0 obj
 <<
-/A [53 0 R]
+/A [54 0 R]
 /ID (Section)
 /K 17
-/P 47 0 R
+/P 48 0 R
 /Pg 3 0 R
 /S /TH
 /Type /StructElem
@@ -535,10 +536,10 @@ endobj
 endobj
 33 0 obj
 <<
-/A [54 0 R]
+/A [55 0 R]
 /ID (Type)
 /K 18
-/P 47 0 R
+/P 48 0 R
 /Pg 3 0 R
 /S /TH
 /Type /StructElem
@@ -546,7 +547,7 @@ endobj
 endobj
 34 0 obj
 <<
-/A 55 0 R
+/A 56 0 R
 /K [0]
 /P 16 0 R
 /Pg 3 0 R
@@ -556,8 +557,8 @@ endobj
 endobj
 35 0 obj
 <<
-/A [56 0 R 57 0 R]
-/K [47 0 R 52 0 R]
+/A [57 0 R 58 0 R]
+/K [48 0 R 53 0 R]
 /P 16 0 R
 /Pg 3 0 R
 /S /Table
@@ -566,9 +567,9 @@ endobj
 endobj
 36 0 obj
 <<
-/A [58 0 R 59 0 R]
+/A [59 0 R 60 0 R]
 /K 21
-/P 52 0 R
+/P 53 0 R
 /Pg 3 0 R
 /S /TD
 /Type /StructElem
@@ -576,9 +577,9 @@ endobj
 endobj
 37 0 obj
 <<
-/A [60 0 R 61 0 R]
+/A [61 0 R 62 0 R]
 /K 22
-/P 52 0 R
+/P 53 0 R
 /Pg 3 0 R
 /S /TD
 /Type /StructElem
@@ -586,9 +587,9 @@ endobj
 endobj
 38 0 obj
 <<
-/A [62 0 R 63 0 R]
+/A [63 0 R 64 0 R]
 /K 23
-/P 52 0 R
+/P 53 0 R
 /Pg 3 0 R
 /S /TD
 /Type /StructElem
@@ -596,9 +597,9 @@ endobj
 endobj
 39 0 obj
 <<
-/A [64 0 R 65 0 R]
+/A [65 0 R 66 0 R]
 /K 24
-/P 52 0 R
+/P 53 0 R
 /Pg 3 0 R
 /S /TD
 /Type /StructElem
@@ -729,18 +730,29 @@ endobj
 endobj
 44 0 obj
 <<
-/D [3 0 R /Fit]
-/S /GoTo
+/A 67 0 R
+/Next 46 0 R
+/Parent 4 0 R
+/Prev 25 0 R
+/Title (ID and Header are present for all corresponding structure elements of Table)
 >>
 endobj
 45 0 obj
 <<
-/A 66 0 R
-/Parent 27 0 R
-/Title (Headers attribute is associated with ID that is not present)
+/D [3 0 R /Fit]
+/S /GoTo
 >>
 endobj
 46 0 obj
+<<
+/A 68 0 R
+/Next 27 0 R
+/Parent 4 0 R
+/Prev 44 0 R
+/Title (Value of ID for Index is empty)
+>>
+endobj
+47 0 obj
 <<
 /Height 0.396
 /O /Layout
@@ -748,9 +760,9 @@ endobj
 /Width 5.943
 >>
 endobj
-47 0 obj
+48 0 obj
 <<
-/A 67 0 R
+/A 69 0 R
 /K [30 0 R 28 0 R 32 0 R 33 0 R 29 0 R]
 /P 35 0 R
 /Pg 3 0 R
@@ -758,7 +770,7 @@ endobj
 /Type /StructElem
 >>
 endobj
-48 0 obj
+49 0 obj
 <<
 /Height 0.396
 /O /Layout
@@ -766,17 +778,9 @@ endobj
 /Width 0.969
 >>
 endobj
-49 0 obj
-<<
-/Height 0.396
-/O /Layout
-/Placement /Inline
-/Width 0.992
->>
-endobj
 50 0 obj
 <<
-/Height 0.672
+/Height 0.396
 /O /Layout
 /Placement /Inline
 /Width 0.992
@@ -784,13 +788,21 @@ endobj
 endobj
 51 0 obj
 <<
-/Headers [(Index)]
-/O /Table
+/Height 0.672
+/O /Layout
+/Placement /Inline
+/Width 0.992
 >>
 endobj
 52 0 obj
 <<
-/A 68 0 R
+/Headers [()]
+/O /Table
+>>
+endobj
+53 0 obj
+<<
+/A 70 0 R
 /K [31 0 R 36 0 R 37 0 R 38 0 R 39 0 R]
 /P 35 0 R
 /Pg 3 0 R
@@ -798,7 +810,7 @@ endobj
 /Type /StructElem
 >>
 endobj
-53 0 obj
+54 0 obj
 <<
 /Height 0.396
 /O /Layout
@@ -806,7 +818,7 @@ endobj
 /Width 1.257
 >>
 endobj
-54 0 obj
+55 0 obj
 <<
 /Height 0.396
 /O /Layout
@@ -814,14 +826,14 @@ endobj
 /Width 0.808
 >>
 endobj
-55 0 obj
+56 0 obj
 <<
 /O /Layout
 /Placement /Block
 /SpaceBefore 0.24
 >>
 endobj
-56 0 obj
+57 0 obj
 <<
 /BBox [56.7 642.45 555.3 702.35]
 /EndIndent 0.003
@@ -833,13 +845,13 @@ endobj
 /Width 9.972
 >>
 endobj
-57 0 obj
+58 0 obj
 <<
 /O /Table
 /Summary (Failure condition)
 >>
 endobj
-58 0 obj
+59 0 obj
 <<
 /Height 0.672
 /O /Layout
@@ -847,13 +859,13 @@ endobj
 /Width 5.943
 >>
 endobj
-59 0 obj
+60 0 obj
 <<
 /Headers [(Row) (Failure condition)]
 /O /Table
 >>
 endobj
-60 0 obj
+61 0 obj
 <<
 /Height 0.672
 /O /Layout
@@ -861,13 +873,13 @@ endobj
 /Width 1.257
 >>
 endobj
-61 0 obj
+62 0 obj
 <<
 /Headers [(Row) (Section)]
 /O /Table
 >>
 endobj
-62 0 obj
+63 0 obj
 <<
 /Height 0.672
 /O /Layout
@@ -875,13 +887,13 @@ endobj
 /Width 0.808
 >>
 endobj
-63 0 obj
+64 0 obj
 <<
 /Headers [(Row) (Type)]
 /O /Table
 >>
 endobj
-64 0 obj
+65 0 obj
 <<
 /Height 0.672
 /O /Layout
@@ -889,46 +901,53 @@ endobj
 /Width 0.969
 >>
 endobj
-65 0 obj
+66 0 obj
 <<
 /Headers [(Row) (How)]
 /O /Table
 >>
 endobj
-66 0 obj
+67 0 obj
 <<
 /D [3 0 R /Fit]
 /S /GoTo
 >>
 endobj
-67 0 obj
-<<
-/O /Layout
-/Placement /Block
->>
-endobj
 68 0 obj
 <<
-/O /Layout
-/Placement /Block
+/D [3 0 R /Fit]
+/S /GoTo
 >>
 endobj
 69 0 obj
 <<
-/ID [<250CFD87F64EDCC241175AC133349F03> <EA7351A58CB6EC42957D1B4DFEB33195>]
+/O /Layout
+/Placement /Block
+>>
+endobj
+70 0 obj
+<<
+/O /Layout
+/Placement /Block
+>>
+endobj
+71 0 obj
+<<
+/ID [<250CFD87F64EDCC241175AC133349F03> <ACAB87A98F240B4AB5A81FC95CC14F5D>]
 /Info 8 0 R
 /Root 1 0 R
 /Type /XRef
-/Size 70
-/Index [0 69]
+/Size 72
+/Index [0 71]
 /W [1 2 0]
 /Filter /FlateDecode
-/Length 205
+/Length 210
 >>
 stream
-xœÁ=Kq ÀáÿÏ!hðn¬î.M=ï<¼I#i7A„£1Üt¸† îý†šon,C?Am~ƒ¦ -ZŸGaM±ŽtŽä ­‹ˆ¹Kù•£”ã'ÿ(}”µŠz‡fsZ 2§zÉÙ/µ74^ÐÛèWè?4G4W‡3Œ-¦¹Äü£5¤•a`M¹¹~Âà:¸ž†w‹÷ßÁ¿Çÿ"(,Þ	K„ÂQÈ%ú$V‰ÇÄÏÄ9I›ä†ä‘äc3Î3Š
+xœÁ½Ka Àá÷75uÑ`z¦áÇ§P	ŽÕó[“P...rÑ$´ußƒƒ£‹“CàÐ BÿÁN$‚£CC£Ï#„@È°äø
+É@zCúD¾Aü wIm8KHïPŠ(Ï(	ÙÙ)çOäêä'\¼PÈPØRšQú¥Ü¦ì£¡š¨ßh—hC´*T¦è)tý‹jªE³AgŽÝÇãÜâôpÖ¸5Ü1îï/À[à_ã¿â'§„÷„áŠè„è‘hD´#ÎÄâ÷ëh8¤
 endstream
 endobj
 startxref
-37114
+37347
 %%EOF

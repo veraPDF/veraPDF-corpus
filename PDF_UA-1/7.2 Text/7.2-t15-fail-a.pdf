@@ -1,1038 +1,0 @@
-%PDF-1.6
-%öäüß
-1 0 obj
-<<
-/AcroForm 2 0 R
-/Lang (en-US)
-/MarkInfo <<
-/Marked true
->>
-/Metadata 3 0 R
-/OpenAction [4 0 R /XYZ null null 0]
-/Outlines 5 0 R
-/Pages 6 0 R
-/StructTreeRoot 7 0 R
-/Type /Catalog
-/ViewerPreferences 8 0 R
->>
-endobj
-9 0 obj
-<<
-/Author (veraPDF Consortium)
-/CreationDate (D:20200629172238+03'00')
-/Creator (veraPDF Test Builder)
-/Keywords ()
-/ModDate (D:20200629180431+03'00')
-/Producer (veraPDF Test Builder 1.0)
-/Title (Colspan-fail)
->>
-endobj
-2 0 obj
-<<
-/DA (/Helv 0 Tf 0 g )
-/DR <<
-/Encoding <<
-/PDFDocEncoding 10 0 R
->>
-/Font <<
-/Helv 11 0 R
-/ZaDb 12 0 R
->>
->>
-/Fields []
->>
-endobj
-3 0 obj
-<<
-/Length 4833
-/Type /Metadata
-/Subtype /XML
->>
-stream
-<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164374, 2020/03/05-20:41:30        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-            xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
-            xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
-            xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
-            xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#">
-         <dc:format>application/pdf</dc:format>
-         <dc:creator>
-            <rdf:Seq>
-               <rdf:li>veraPDF Consortium</rdf:li>
-            </rdf:Seq>
-         </dc:creator>
-         <dc:title>
-            <rdf:Alt>
-               <rdf:li xml:lang="x-default">Colspan-fail</rdf:li>
-            </rdf:Alt>
-         </dc:title>
-         <xmp:CreateDate>2020-06-29T17:22:38+03:00</xmp:CreateDate>
-         <xmp:CreatorTool>veraPDF Test Builder</xmp:CreatorTool>
-         <xmp:ModifyDate>2020-06-29T18:04:31+03:00</xmp:ModifyDate>
-         <xmp:MetadataDate>2020-06-29T18:04:31+03:00</xmp:MetadataDate>
-         <pdf:Producer>veraPDF Test Builder 1.0</pdf:Producer>
-         <xmpMM:DocumentID>uuid:7c6a0c46-e9c1-4111-920d-bd33fd267d97</xmpMM:DocumentID>
-         <xmpMM:InstanceID>uuid:afde5e62-cbf6-426a-90b5-b1dcba50236a</xmpMM:InstanceID>
-         <pdfuaid:part>1</pdfuaid:part>
-         <pdfaExtension:schemas>
-            <rdf:Bag>
-               <rdf:li rdf:parseType="Resource">
-                  <pdfaSchema:schema>PDF/UA Universal Accessibility Schema</pdfaSchema:schema>
-                  <pdfaSchema:namespaceURI>http://www.aiim.org/pdfua/ns/id/</pdfaSchema:namespaceURI>
-                  <pdfaSchema:prefix>pdfuaid</pdfaSchema:prefix>
-                  <pdfaSchema:property>
-                     <rdf:Seq>
-                        <rdf:li rdf:parseType="Resource">
-                           <pdfaProperty:name>part</pdfaProperty:name>
-                           <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
-                           <pdfaProperty:category>internal</pdfaProperty:category>
-                           <pdfaProperty:description>Indicates, which part of ISO 14289 standard is followed</pdfaProperty:description>
-                        </rdf:li>
-                     </rdf:Seq>
-                  </pdfaSchema:property>
-               </rdf:li>
-            </rdf:Bag>
-         </pdfaExtension:schemas>
-      </rdf:Description>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?>
-
-endstream
-endobj
-4 0 obj
-<<
-/Contents 13 0 R
-/CropBox [0 0 612 792]
-/Group <<
-/CS /DeviceRGB
-/I true
-/S /Transparency
->>
-/MediaBox [0 0 612 792]
-/Parent 6 0 R
-/Resources <<
-/Font <<
-/TT0 14 0 R
-/TT1 15 0 R
->>
-/ProcSet [/PDF /Text]
->>
-/Rotate 0
-/StructParents 0
-/Tabs /S
-/Type /Page
->>
-endobj
-5 0 obj
-<<
-/Count 4
-/First 16 0 R
-/Last 17 0 R
-/Type /Outlines
->>
-endobj
-6 0 obj
-<<
-/Count 1
-/Kids [4 0 R]
-/Type /Pages
->>
-endobj
-7 0 obj
-<<
-/K [18 0 R]
-/ParentTree 19 0 R
-/Type /StructTreeRoot
->>
-endobj
-8 0 obj
-<<
-/DisplayDocTitle true
->>
-endobj
-10 0 obj
-<<
-/Differences [24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39
-/quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash
-/florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft
-/quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron
-/dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166
-/brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron
-/degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior
-/ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde
-/Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute
-/Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
-/Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute
-/acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis
-/igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde
-/odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis]
-/Type /Encoding
->>
-endobj
-11 0 obj
-<<
-/BaseFont /Helvetica
-/Encoding 10 0 R
-/Name /Helv
-/Subtype /Type1
-/Type /Font
->>
-endobj
-12 0 obj
-<<
-/BaseFont /ZapfDingbats
-/Name /ZaDb
-/Subtype /Type1
-/Type /Font
->>
-endobj
-13 0 obj
-<<
-/Filter /FlateDecode
-/Length 488
->>
-stream
-H‰””]KÃ0†ïó+Î¥šåë$)ÈÀ9ñ¼P^¨:(*8ş}O²®f¥™‘Òµç}rò·ıbÊƒ•’×N‚«××å3»Ù‡O6>\®^óL/€IÇò…¡åœP\ He¸EĞš+ÂÅ>;Å=­àµÖşGzÉ8é#Áiî‰gÃCÔj~Ç¨Á]-l¯İ¿F‹í-¬]±ÖsWìÊZ‚½ÎvîŸfFÇÕ	9*á›æñì‹.á_	ÕNcXwş«?˜©©)º{g×ì2©^jŒÀ¤\;3PÜ¢E¤mıv'»ĞÁ:[€n«±¬‘uVÉı[+ òšR4Ô´)-¡
-Ñİ*µa¹~i›¦²bÄ°üÎ&b.¦7§pp0¾8:›D˜L¦³.!ôz›†€
-šÓdƒ§uĞ<±Û½;!$j¤ ÜëÑ}sŞæ-…Ú´
-ñtP…xL†à6„5@Š1#ö©ØfÄ6#®»ŞÃ§¥½»A‚K	³ Ä†@NÊÖI‡Ü¤´5ªœLX2»•>Ád*ëdŸ€‚îQ¦¦xõ¦ÙÇØÆo%g,nåqx´Ê&ƒÙD¼Ò]B‡¦ü˜iÅı{Æ«)ÖmıgF_—ÎW&;nè{ğ#À q	£‡
-endstream
-endobj
-14 0 obj
-<<
-/BaseFont /BAAAAA+LiberationSerif-Bold
-/FirstChar 0
-/FontDescriptor 20 0 R
-/LastChar 8
-/Subtype /TrueType
-/ToUnicode 21 0 R
-/Type /Font
-/Widths [777 666 777 500 500 500 500 500 500]
->>
-endobj
-15 0 obj
-<<
-/BaseFont /CAAAAA+LiberationSerif
-/FirstChar 0
-/FontDescriptor 22 0 R
-/LastChar 11
-/Subtype /TrueType
-/ToUnicode 23 0 R
-/Type /Font
-/Widths [777 610 722 500 500 500 500 500 500 500
-500 500]
->>
-endobj
-16 0 obj
-<<
-/A 24 0 R
-/Next 25 0 R
-/Parent 5 0 R
-/Title (Untitled)
->>
-endobj
-17 0 obj
-<<
-/A 26 0 R
-/Parent 5 0 R
-/Prev 27 0 R
-/Title (Expected result: fail)
->>
-endobj
-18 0 obj
-<<
-/K 28 0 R
-/P 7 0 R
-/Pg 4 0 R
-/S /Document
-/Type /StructElem
->>
-endobj
-19 0 obj
-<<
-/Nums [0 [null null null null null null null null null null
-null null null null null 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R
-34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R]
-]
->>
-endobj
-20 0 obj
-<<
-/Ascent 891
-/CapHeight 1007
-/Descent -216
-/Flags 6
-/FontBBox [-543 -303 1344 1008]
-/FontFile2 44 0 R
-/FontName /BAAAAA+LiberationSerif-Bold
-/ItalicAngle 0
-/StemV 80
-/Type /FontDescriptor
->>
-endobj
-21 0 obj
-<<
-/Filter /FlateDecode
-/Length 258
->>
-stream
-xœ]ËnÄ E÷|ËébyM³ˆª”Å´UÓ~ 'Ej ²Èß—Ç´•º Ë¾¶¯É¹¿ôZyòêŒÀãIié`5›€G˜•FE‰¥ş¥_,Ü"´Ã¾zXz=™®Cä-äVïv|x’f„D^œ§ôŒç!ÄÃfí, =¦ˆ1,a
-}nÜ>óHR{ÒÊïÇ ù+xß-à2ÅE^E	«å×3 R†»ë•!Ğò_®ÍŠqŸÜ…Ê"TRÚÔ,p™¸n#W‰«"r¹ŒÜd®"Ÿ2'ícæ&r›ù”æß'ÅMâ©~b±9Ü¥{&[ÑÒğ{rklT¥÷+9}‹
-endstream
-endobj
-22 0 obj
-<<
-/Ascent 891
-/CapHeight 981
-/Descent -216
-/Flags 6
-/FontBBox [-543 -303 1278 982]
-/FontFile2 45 0 R
-/FontName /CAAAAA+LiberationSerif
-/ItalicAngle 0
-/StemV 80
-/Type /FontDescriptor
->>
-endobj
-23 0 obj
-<<
-/Filter /FlateDecode
-/Length 270
->>
-stream
-xœ]ÑKkÄ  à»¿Âãö°óØ„ÀvËB}Ğt€ÑI*4*Æòïë#m¡Ã7ÌLGrmŸZ%y³šwàğ •°0ëÅrÀ=ŒR!šc!¹Û¢øå3ˆøŞnL­t]#òîs³³+Ş]„îá‘W+ÀJ5âİıÚù¸[Œù‚	”Ãj,`ğÿyfæ…M@b×¾>-İº÷-«œÇ˜¦Q¸0ÆÁ25ª³¬ÁõíÖ Pâ_n-ıÀ?™õ¥Ô—fYU6Şyt]D4¸LÎƒ«ä"øëÉUğ)ù|N>_’OÁÉç8ä6M7ìóg˜/ÖúÄ¥Ç»‡[K¿ïb´	]ñ|„¸
-endstream
-endobj
-24 0 obj
-<<
-/D [4 0 R /FitH 792]
-/S /GoTo
->>
-endobj
-25 0 obj
-<<
-/A 46 0 R
-/Next 27 0 R
-/Parent 5 0 R
-/Prev 16 0 R
-/Title (Attribute RowSpan with value 2 is present in empty cell)
->>
-endobj
-26 0 obj
-<<
-/D [4 0 R /FitH 792]
-/S /GoTo
->>
-endobj
-27 0 obj
-<<
-/A 47 0 R
-/Next 17 0 R
-/Parent 5 0 R
-/Prev 25 0 R
-/Title (Attribute ColSpan with value 2 is present in TH1)
->>
-endobj
-28 0 obj
-<<
-/A 48 0 R
-/K [49 0 R 50 0 R 51 0 R 52 0 R 53 0 R]
-/P 18 0 R
-/Pg 4 0 R
-/S /Table
-/Type /StructElem
->>
-endobj
-29 0 obj
-<<
-/A [54 0 R 55 0 R]
-/K 15
-/P 49 0 R
-/Pg 4 0 R
-/S /TH
-/Type /StructElem
->>
-endobj
-30 0 obj
-<<
-/A [56 0 R 57 0 R]
-/K 16
-/P 50 0 R
-/Pg 4 0 R
-/S /TH
-/Type /StructElem
->>
-endobj
-31 0 obj
-<<
-/A [58 0 R 59 0 R]
-/K 17
-/P 50 0 R
-/Pg 4 0 R
-/S /TH
-/Type /StructElem
->>
-endobj
-32 0 obj
-<<
-/A [60 0 R 61 0 R]
-/K 18
-/P 50 0 R
-/Pg 4 0 R
-/S /TH
-/Type /StructElem
->>
-endobj
-33 0 obj
-<<
-/A [62 0 R 63 0 R]
-/K 19
-/P 51 0 R
-/Pg 4 0 R
-/S /TH
-/Type /StructElem
->>
-endobj
-34 0 obj
-<<
-/A 64 0 R
-/K 20
-/P 51 0 R
-/Pg 4 0 R
-/S /TD
-/Type /StructElem
->>
-endobj
-35 0 obj
-<<
-/A 65 0 R
-/K 21
-/P 51 0 R
-/Pg 4 0 R
-/S /TD
-/Type /StructElem
->>
-endobj
-36 0 obj
-<<
-/A 66 0 R
-/K 22
-/P 51 0 R
-/Pg 4 0 R
-/S /TD
-/Type /StructElem
->>
-endobj
-37 0 obj
-<<
-/A 67 0 R
-/K 23
-/P 52 0 R
-/Pg 4 0 R
-/S /TD
-/Type /StructElem
->>
-endobj
-38 0 obj
-<<
-/A 68 0 R
-/K 24
-/P 52 0 R
-/Pg 4 0 R
-/S /TD
-/Type /StructElem
->>
-endobj
-39 0 obj
-<<
-/A 69 0 R
-/K 25
-/P 52 0 R
-/Pg 4 0 R
-/S /TD
-/Type /StructElem
->>
-endobj
-40 0 obj
-<<
-/A [70 0 R 71 0 R]
-/K 26
-/P 53 0 R
-/Pg 4 0 R
-/S /TH
-/Type /StructElem
->>
-endobj
-41 0 obj
-<<
-/A 72 0 R
-/K 27
-/P 53 0 R
-/Pg 4 0 R
-/S /TD
-/Type /StructElem
->>
-endobj
-42 0 obj
-<<
-/A 73 0 R
-/K 28
-/P 53 0 R
-/Pg 4 0 R
-/S /TD
-/Type /StructElem
->>
-endobj
-43 0 obj
-<<
-/A 74 0 R
-/K 29
-/P 53 0 R
-/Pg 4 0 R
-/S /TD
-/Type /StructElem
->>
-endobj
-44 0 obj
-<<
-/Filter /FlateDecode
-/Length 4976
-/Length1 8544
->>
-stream
-xœåZ}tWu¿of?õµ»²¾¬µ¼o=–l³’Vòú#vk-iW’%Û²d9»²íhw¥][ûÁÎHŠMr,Êqê®1v„”rBNËiİÖàQ°’Râ&”hiÿH9@“À!@ ŸBARï{;ú°1‡Óÿ:òÌ»÷¾ûñ{÷Ş÷4£DÍMÆ¡f@4%g×–[ àß HytJ¥êhÒ¯ßË§>yıøÏs ægÇ'N\[é(™ 0ö'âr¬áoã /¢	ì_8eFm`c"¥>ô(™©(¯A¾v"•Ÿ0í‘ß†|EJ~(«
-oÈw#OÓr*~qàÑä Åç³E}	6.Ô14›‹gÇvÿõ¬¯ {PFğ‡]%Hš/ˆ£Élÿ¯—ñTBÆxØôçm—xÖÂ3 ‹o1nå¹Ğ·ø«ÿK…ü“râ††_àa²†!xòÄ·Z›ÜKúpîxçÓp˜á©»y%nÒ@JÑÃ0×{¾ß»kø÷Ã—àÖí1Pö|®09	¢¯‘—H‰¡æ¹ÇïæJ8‹x?„Ï”@téÏpÇ|_¾—às:¾2x‹tâØ‹¯ëzağ7œÎ!Š"‡Sğ(ZóËxß¯_ëâ;èk?ü
-zàpaÙâ!Áâ²ìş%ÂÜ-¾ ó#óú}dòmDyAÜw×üü—8¥d‹XÖ»Í
-ÛÀ¶ğ+aëâÏÄPC‹·–d‹½‹ïˆòÃô˜!…Ö°øÆÂbF¯±„8É&¬øá¿ü]Ç†Ã¡¡#ƒ‡û<Ğ×»¿§»+èìhßçoÛ{ß{wïºgçí­-Şæ¦ÆÍ›ê7JÜ®š
-‡İVVZ\dµ˜MFƒˆõk¤‰4±:‚²äî¦F¨It65¤`D£2Õp04Hİİ\$ÉP­y•8¢ùQsìMAÓ¿¬Iìtìa!$ª}½S¢sdøpéR˜josú §œ)EÆíFŠ¡¥-8•È"ˆ‘ÌuHñ¢¦F˜-*F²)m³”%›÷N›»g°”²°¸Ò€Óú‡N·;ÜÔØ£•I|
-:¸KÍÔ¡™¹KšdĞá<m¼‘ÿğœF#’˜“‡4QFÛ¼ÈçÿTsx´-R§¶åô÷kpåq­Qêhæµw`9NïJH¢ëíÍ¿¸éí·n—ÈºÄTo©	¹Ùåb®óù DƒùH^[œ•¨]ÊÏ–”ä³L7ô‡ĞÅÜâóçZğÃaÍIİa}éÁ^mÍác!M¨Ò„Œü×&¹ïqºË:ı¿m0-˜Ì°ÛÍÒp~Î£Èh3‡CÂ¨óğ{=aMˆ°™K3•ClffifÙ<"am{CyÍPß“˜ñó²63Šİu‚F²ke¿pº¥|¹ƒîò†¹.ET=±$ÕŒ˜$´Zm€}ÃLòvÎ”ı¢0¼íÄ rºKB7ÌO@
-DôS‰t@1ÑİB#	işN$ü²^±Àl‹-ä,ÙÉ‹©y¥¬V!µ/W—Á
-$CÜD7Ó*:4ˆDu+ÍàûŠò‘ÎæK:z|‹¯Ïn£Îk>ØáN¦\Õ]ÖÈ‡bcš+âŒá¾£!§[ó‡±Âa)³¶ÃmyİÉ›#Ì{åH¨wPê=<ºGR˜`îõ;ÜH!gÁ6 f©·ĞàÃ¨hG"!µïÁ§f®·àmÇ„s)kÜö=4Dœ°¤0´-4ïÔõ›S#k§î%o&Æ¢Ÿn§;ì.\MNS=0ZXXR»—¦ğ˜Â	ögG7±\Ö°¦§!).…¥Õüı!¶6–e=<çz­ÜÆ­J¦	Ü8½Ä°djAsurµ.Î/³İwL÷,MÓ¼EêÌ3ç’îy¬…ı÷8œü,`ZÂ³—ÚqKóŸõûÙfNìfN¤X^íáÚx<â<Íb•C/é=ÒŞÔˆG[û¬DÎõ“sƒÃ¡çìønxîHè‘öğìFœ=Gü\*0)2†2†y@ÆÂõÏùfø¬8#Àe–%èœPÙx ?8c(Ìø—´(³d3\Æ¯Y`)óı¿Õ_"”
-ÎYÂDÏ äy|»°¸VBJ‰s­¸xÌÌZıÎ‚ÆjøÏ­„]+ÁßĞNşÄ@íìÂv©I`±ñ×J€ÆX£<Nä#a¶Ù 
-KƒÿˆF¤½X&i/1•hER¼]+–Ú™¼ÉÛ
-r“›±EIAó¬}¿FX¹qKÒÚ¯:óö·Y¥Âx¨äío4aÆ°ÆøºRşö’âb‡ÙbqBE¥]´Š‘p‰Å*:FÂPî¯$-•Ä^I ’Üª$7*É¥Jüx ÙJÒ_Ip–V’ôëıxA›Ç¾š6Ÿr²Ëáó9øOk‹{ûN‡´ÁF$‡Û!mjğGu%Ùñß8«;ßmıFÓ©ø%™^ø³_–¿÷¸³‡}MHøRx ø÷UU9¬k×
-¡nµ&¶YI±hµ‚Ñ^lâH¸Ô(®­*à¯€òH:¢Õ‘§ëHñ×‘ThÛÊúÖá(ßUãyğC½Ë±ŒÚ‡¨7mwWšua¬®d+qã(]¹"<~EØxEøøg?;òÊü«Wö×&==Î;¹ÅÆ÷Î×îß_+TÏ¿Y»×ò|k{ÂØoT;ıëÌ`4–›¬0ÛÍ‚U4›­&0ŠF5,Ö,g’aò•ïÒsÙÚR_oŞ^ï>ûæ|Ù~HN$]sôhøNßĞw0ÆQŒqÙØëaŸŸÚì`,ÕuBµ@]–:[EE±®0¤ÔM‡	S»jx¸B¾ør6´¶l!ÛwìÜ+lßÖ m0±Òí%¾­U•eÄl2»ÅË¿şÜÑ§?8Ú»ßå¹¿ÿÏ‡oş$ø‰ï	ıÇã=O}şÅ‡SÖÖ¾HZË×~áròïÿòz0Ì^*	X|K|1n†£şÆMåUëÖ¯/ß(šJÁl2Á–÷m*w”;&Ãååbİ†k•ğ³X¤„ÍâZÀzÁÚ/¿ºZÇŞÚB*Ò†M¢¯ºÊ·uÂ÷’í;÷’ÛÖA&³A|~áWo>?Wr|Ûı#§Î¥N«ÙğPü\ÎØÇºÉK—%$uık›Ià›­qşÔ-æSÓôCÙ÷\X­cáç.WlÁM¿óşŠ±kkÃÌo°ZˆÉVJ‚Pf4:ìFK™hmSaEÁTj6	˜{Ü(å»¼¬«õİ²Ë«3Áso'ÈT’m;‰[<²ğÎü7„ã¯>º*Zx?9K¬ÿM¬%>ùë~]ÎÆæ?yÀ¼~÷Jø=ëª«kÅ"+ÛÖë]Uk`¶„üÚ¯1Õ8§Ã5&S™.2­¤•õBaöïêf ¬ò¦BZ×c8X6ù~®t;v×úÃ÷~Ì3¹)×üƒÉ™®{]1á‹ó×N‹k¿ü•¯}›%°ÊI¶=}±¶TĞ^[xÚ‰9"Ş/cÔà.?ì÷”•–š bÃ:Ø€]°±¾Ê5¶U¹ªqU•XTäPÂeEØJ˜5ì[xÕÆ-/ fhÇ¶ò¾­ÕìÌAÎŒtá=!m0ã™÷åW¾úƒw?ø£O|ê±û=Ø#Å©“×ÿe!ÜsÏÁû§_ş.yô}‹ìşŒgá?^Ü¶?ğşûü­§ºğdµqş€ÿ­C xÅıã‡Fl{Ş\…ïìœò­•¯¨Å·ğëCİ•?‚ Ù½XùbÔÿj²rL»ğ¤>
-GÉ xv…ØeÔ5Bü›º\!?‚ÂeîÁ
-¬ù ØÁË¾ …ÂZùìz’^st9&AÍ£:-àoÉ1ñÌ=¡Ó¨„³:m„2ø¤Nc½à²N›á4|Q§-PAvè´ÊÈ~."iÒébX'|eù¯EÍÂ÷tº¶‹v.ƒZ1ÀĞØWîqD§ñ÷˜¡X§ñ»ÊàÑiv|:m€÷’:m„u†ÇuÚ›WuÚ?7|S§-°Ùø¯:m…uÆwtºHxÕdÓéb¸Çò.ãVI§Ká„õŒN—Á6ë›Éñ¤š<Ñ˜¬Ê4šÉÊ%Ç*İİB·¶´¶Ğ®Lf|"N;2¹l&'«ÉLº¹¨ãNµ­t ]tËj#íIG›û’£ñ‚.Œç’cí™‰Ø>%OÇâ9ÚDïœ¾“§Lÿh<§0ÉÖæ––fßŠ
-×hb«Ì’
-~}«99OÉ¹“43v;š‹'5Ca2M‡š›i¿¬ÆÓ*•Ó1zdÙğĞØX2çÂh<§Ê¨œQúÄd.©Ä’QMi^^Ëª¬ªñ©8= «j\É¤Ûec!²#ÉtFi¤Ó‰d4A§e…ÆâJr<“£§èí6ge\K:™B—SñFÄ=–‹+‰dzœ*<3kª&d•-:WsÉ¨<1q
-K—Ê¢Õ(Öj:©&0p*®Ğƒñi:IÉé¿k.@ÁÜŒafi2•Íe¦8Æ&%š‹ÇÓLÉ£É‰¤ŠŞrNbÆ0mÉ¨Â3‚‰ Y9İ˜Ìe²qDzWßŠ",dSÉLLad¦Çc,"ÂŠO ÈdN²õŒer4¦&šV!Ë¤U4ÍP9Ã…c¶2ÑÉ«¦Y]'GsœËNÈ*zI)Í	UÍîöz§§§›e½4Q¬L3zöş®9õT6®×#Ç¼¤&ú°üiVºI^_¶ˆÁ>z(‹ù	"8ª+4Ò¥şlmnÕC`“YUiV’Í™Ü¸÷P°:!	ãx«xŸ†8ÄğÅ62ò2RQÈ@NAk%PJñe#Š‡#…­Ğ­xSèB­ÎO =…¤shÅ2÷›44ã/ôßëm+R:ŠnnİˆTÚGÑCÚâìj¿¹$‰Çm;J&Ğv(¨ÇÙŸ£Ğ„÷ï³ş}ótÙÿQ.S–u¶"¶üiß]½¬øhZöq÷hIôJyæU>Ãğ§pÌÁI”e8ŠßŠzq^Mgâœ‹q¯Ì÷jr­~nÉò£òhi®uä.aÄ1´òÊ.iF¹oÖ!Ï¤z¦OÀ$_«‚šÌnim
-FşÍºÜ½W9º)ó —3^ásíÈ+úº
-9;ÂQdPÊr1HXÜ§eÏ·f=—Ö-G±éïŒCu[Y¯KšÇ˜ÒQ2›F=ßcü©ğ¸iŒA9¾¥Y›ò<É<ë…J§pVåºQ”OàÏ)}×¥0+…X£ú¾šæ»4¡¯8ÅıR8ˆã4ïŠ¯[Ú½×x%+…¾Ó{–rÛ,Ò¾Š¥<6ñÚ°•Ä9RFÉü$E‹	»€-Á»CæµëµVù
-–òÓWÊPg¹¤	¼/Øşë9½Ï¾»z,dpuo*|×Lék^òæhcËk,d›iMè‘
-+àçÓÉåúŒñ~+d4Æ½5ı–œñÜ¨zÔGÃŸBÅ½•AÛI^Â~*t³ú™“y~3º]gX¬–ß	ŞYØ/œ^DÇ~šy®Ş5Q}Ï4ë˜½´Ã•å\½?rËXRˆ±Oßıéå]7¹jÿ.UbÏ >~^dõş	ê™£wx`»æÎó³ãµŞ±ŠB7&‘W9…ç²™¯aça„>ön]ø2pÃKwùÏ.°/.‡3x_Å[$	2µ(‹ÀA2CdÜGü8úv;gc3¹fPï>”ïE~ÊïÅ#Ô†O/ŞmxŸÁÛ V|tZPÇ‹£Wç›oD›«ø$üfÒ6”²ßäI7]úDy Ç€Î÷ #ø‰ßÒ]üùibğw“óäê<yRä}À{¤ô{¯ow½æ»9ôß«Cp±Şl¹Ùsæ¦vÓx“ˆC¯ŠU®ÌËdäåŸ½,z™´½H\/¾ö¢0·xÃÿ©E¥Áş"/d_¿Ôõ>Ìïõ‘ë¯_½şÚucæóÄö¬ëY!ó,q];tmñšø¹+í.Ûå3—…«—Iö2i»LìOÒ'[³O’O<±ÎåıxÛÇçGÉcgc®«!>ärÁÙÈYáÒYâ:K.}ˆü	JSÄ>I'5²èRF]YœÁ;İµèZë«2ûÄ!“¸èb ÿ&ÚìŞ%¯Ë$2²Í5Â>HüZKƒg_<şéãâ±aË;L`82,\¾5,¸†É_ùWn@O6Ñ%¶‰‡ÄŒxQ|A4[÷»]ıè&sğÌÁ‹Å]’kuÙº‰¿»Ø"[—«KX×íªòU9ˆmÈî³	‹âƒ!¯mÑ&Øl#¶36Ñm \ª"F2G.ÍôxzçÌ‹½š¹ÿ˜FÎiõƒìé?<¬™Îi04|,4KÈGÂg/\€öº^më`H‹Ô…{µ~FÌ a¯›­‚ö°¢¨~ÅãQ=€·çA…óŠ:‰œ
-¢p¼‘Q‚å
-HãÎa^¢¨xè¨Ä
-»Uä'™1s‡‚¤Ğ o(„ôp·<Zeÿ“ÃÿÛFOˆ
-endstream
-endobj
-45 0 obj
-<<
-/Filter /FlateDecode
-/Length 5665
-/Length1 9584
->>
-stream
-xœå8kp[Õ™ß¹Wo?$9¶lG‰uä;1~È±â·Û’Ø`ÇAJ€èÚ’-[R%Ù!PÀe4!](áQ<ÓR&³\HË‚[–¥-¥”íc–-Oi¦İ)))m™y¿stí8!ĞíÎşÛkŸ{¿÷û])C.Œƒ9Qg+ €‚±4İØU´á áßC#}÷º?hĞ?34¼w°ùí€Ü€qE$,‡rJ~_Ptm¬ akf¯ñ ¾,2’¾é¤˜³ñ÷§Ãñùçù7åØpÁâù¦ÄrM³€ø
-ÆÉ#aÚ¤iGWÎX"J‡`Ù,€sšñÉp¢ó¡şWÇøDæ“à»ĞÑ1\5ZŞ`4åÀÿËK{/A»v#˜!Áï]âq(…# ³¬î™ÎÙÿ/£0dÂãğÜoÁõ*Ãİ…Q¤,¼¾o"•]İ°„‰Ï1{N!?+„ƒ,“Ë^İğ8¯^ä¥FàŒåYx‹¬„â¨ÄáCb€¯À+hõC¤]u9SB>Ş98¸€ú+xX8 […ß r„q—`…GÈh9yŞ;Ÿñ†Ï½nÅ{/D`a~i7~úŸ`œıfu+l…;`3/Ğx<&š°Ûá1¬é÷8Í5ÇÔ·‹»…“‚pşëˆÜC¸d‚¹÷Š›?§B÷%öA©+Àx9®°
-Ì™…†Ù?‹ËÀ}³çæh³³åLL³K³D»QóÚùĞİ§Am˜=“¹%Ò^­}»uÀÓ¶sGÀß·½·g[w×ÕWuvlİÒŞæó¶¶4oö4mÚ¸aıºµk®\İ¸²ŞUW[³byeÅ2©Üé()´ZÌùy9&£A¯ÓjD@UHĞ«ˆÔê“%¯$·×ÖPoI¤µ¶Æ+ù‚
-•©‚M¥ÔŞÎI’¬Ğ U*ñ!/ J^"éÉJzæ%‰…n€Ì…D•×[%zŠìØæGøŞV)@•³¾ŠÃšJä!ât¢ŠEK½Šo,2ábŒd*ÇÔ"µ„Mµ50eÊA0!e…”˜"+6+¼ë¦0ä1·˜©W)İÛüŞV»Ó¨­Ù¢äK­œ-Ü¤¢kQôÜ$²Ğá ª™¸ç”úƒÕ¹!)$_çWDu'DïÄÄ]ŠµZ©’Z•ª›S‚™‡•©Õ«T3«=ó~:.¸$Š¶Â"Ñ‰¿ ¦#}ÿbŠ¬Rt–¿ ¡E!=~'»ì>¬õÄ„O¢¾‰à„|jv¼_¢ib*7w"áÅrC·Mœš}ş€]ñİP,ÁYPS÷õt(‹¶íô+B…Fd¤à“ä\cwZçeº?X,VØéde8pÊıˆ(ãÛüYœB¿ıiğ¸ªŠdœé9NQãŒÏqæÕƒö¶£×?¡h*¶„$/Vü€¬Œ÷ãtíf‘,JşGv§4Q`¥k].K1ª-¡(U´•X$ÔZ¨€sÃT&,Éÿ(û8kG•ÖºVB3ÌWòÕÿ±H	 Xèöêì l÷+V<²Ú1ïT½5ä 6,ÚÊ›©¸¤„R(5Ïw—…åöú¹Šª¦¶(Pµ——ï+ê¶fC`¶¤mşçÀ=;3µŠÚO¸aZ™°­§¬Ò;á* =„ûnúíNÅÀ$8ÀÆ+T5cçÃà³²İßÑ+ulÛá_£’e0sš
-ï%f$¿=kP1T¨_°‹´ úš7à]ÑWpY°àœÊ·yõ;ÌIcJõ†[U9†_dTËÆ©¥}Îš¡h§¥İî8³Wm€lª:F+jû)dp>[Ú9‰Õ²„=õKa) E¨âéö³ÜXyx•Õbğš«½Ú~¶ XX&p"{aÅT|Õö…ÅUÚ8>¶_ÂŞ2Ç¦©£w‚—Tƒ€‘oQ€°gÕÎÏ¶¡%<{©·4ßĞSÛÌ‘uÌˆ´%4!õú7pi<OnµßÌ|@éØŞ\[ƒG[ó”Döo›òı½;üÏYğ½pÿvÿÓZ‚Í©eÈó?GñCƒSFeD†P†0K=ˆ¸¼ı9À8çj8ã§pšaF`à”¥Y²*¹#ÈÑd99iÒYÚ8§ñk
-XÉ<&­Çà1zr…<Á>Eéi¤<ï±F'rI±O¡V'Ÿ"ãSF=+1l„ûû.¸îÛá?‘‹ŸÎv~GGÍìÂq)‰`³ñcÅKClP¾ˆLl³[ƒÿD!Ò&l“´	Ñå*&)Ü¬äHÍŒŞÄèMYºÑõ8¢ÄFP}{ß­6;ıNÜ’tñí–³¬S<T&,gj±bø½á{øZH6xN9‚A,Â1ŠƒÑ*Å`À( ì
-@A“˜mdÆF^²‘ƒ6r»ì²$RN¿ñœ¼a#“œ—°‘.qpF–®ØÈcœçj©ç`#ïrî8§×sÊúYî'«v3º8ï§+s>²
-”ëœã†¦¹›qÎÅĞ\s>®Ÿ¿¾4w%Õë†KèŸá04U[Á]ÂïVw‰k××»­¤x­Õ½²ŞÙx¥U*7Éê´JËëH5±‘õ¿pŸ¿ŞŞ¢y¤Õ^ö£›Vş¢Ñ®ùFá›d}æ•7õ9ŸÜhoä¯e°~öSí(öÀÅĞéqi!¯0¯¤´¸hW X‹–Â]‹>°@)iò”ZJfJÉd)I”²¼¾„qbxÕ€ÑUcLk1&±€S²ÚÜ„‚‘
-	ã\Ş¨9šy3óÛgnúöGÿuş¯$E3Od¾“)?~ü¸pŒ”’òOn1rñ•Ì³™g2JæqÆıÍÅ,X‚ß@Ü§mÇ7ÀO­´Úœ\Ğ[ôT“¢÷˜t µ©€XâÉ%KfrÉd.	æD/®ââ×±~,T«­Ğ9+¬ÚÆ
-·"ç]dQæä®UİöFôí“ßa¾ñ[…xPÛ	K è¹Òn–è‹„¢¥eú;ä[ò£˜Ÿ_P`J
-t‚ØÇ¤ÄSF ŒÌ”‘É2,#ˆ~¶—¼“Ö‚µjİÜ< *Òxå&¡qU¥T®c]]ín°æ½Nï~úÚó'm»³1Q-5Ÿ¼ıíÓ×>óÓ@Hxúëßyôû?ÙwÇş¥%G‰Pıİ'¯¾2Õ¹“×­ö}QÁØ¯€ım+
-**Š‹¢.?tP]³bQÁ¢‚TÀµˆ,Z$‰Pf)ÃlÊÊ$iq* éÅœT ¡×f=ÑëÅRO¾%“™2YC‚5Ñ¹¬Ü®ë¯çS° /×õ80—µ ˜ß×âtê¤òå¢»¸Œ¸Vc®.–4¹ô&â¦ÖB¾ŒˆÊ_ß{ñÉœæÚå7=úÀÄ}~ixt¼1]#5j#ÿtä“ÇÉÈ³?®&‹_°ÑCÇ¾z·ŞĞcÔßq×-¼‹­™“¾]XôŸ÷ØÇm+ÎP>ôx\yÑåw³Å ÍóG Š$G¯ÃZXÈŒ…LZHĞBËµÉ¹¹Y¦îlnÅnuê­¸	ÂED"NñŠãçŸ¦Nf¾©ÍPr†,Ï¼E–ïü4yPl8Ï¿ôØÃû³Ê éñ.-)Á£O´E-.‚¢TÀrEüúSZºd,PªÓåcOLã&Ál"&“®ÔC	P2CÉ$ÅïÑÏö»À›ÂOìÉ¡FÌ†ëâfÔ©\y9­«É™ß½÷Ñ™ïÇú×Ü²æ›÷{îÛymP8vşéaÑòâË?z‹•½¤ìş©/ß¾¡D8r$³½„×Ù9½Œ3W
-Ëà&O[Qy¹niÎ[E%‚´˜¦æbG1¦U\,šL8lÑ|‘m$“^ÄÙÃY«$PIf*Éd%	VDçwæäÎ¦sQbî‰çÆ¬«
-p±³Q‘í'Â‡Ó´ˆ/ÿìÕ_pÛ{÷¾¯Yr&jËğ­£SÏgú÷%î~h‚L¾ù	’­ÿAÖ•~{w=s&sîšWÏ¿ûè³G7dŞÈüŠõ¿¥‹¯`°OQèE"MÚ¾#ÆÙïPø/è<&&2c"“&4D/êO¨IÍ£€ğ‹X/Ø8ı°YÜtşÉ¯çOh€l¼ê‹æ(ˆp5ÖúimØ ê`È³~i•UÂxò­šœb]ÎU/æ×,®ÁšÖÔĞÂÂÊT Po¤©€±ÔSO ÌÔ“Éz¬'ˆ.¬°Z\ş˜ÛÃÙ-ìnàÅÅİÉf‡ZW­¾²7/«¬È·pQ!ü«/‚ï¾qgòÖ_ş:³}|äÚ‘×¦ŸıÀ­w}5=vÇ¾Û«†Gv…FQñ£Ø‘WœqšÜ¶ï©ªÆ?ùì§¯Oºû‰ïÜy@¬Ÿ¸ã¶¯Ø{›¯fÌù8ÎW	æŒóeÏÌL:iY!¥e¶²t lÎ—Í&VÜEy<WÎW^±T,ÅùÒ{–XFf–‘Ée$¸Œ ú?/kö¤^Ä2.À7Ü>ÙíS°G®’”[YÒWZ„æ_ÿäÌ/2øë·öo–èğ•“Ç>:õyúã›nûÊ?ìşèÌÉÌdæ©ÌÃå¿;d.ÁO@kßÏ„¢ÌÑ#‡ñ!>4˜/ìŞ#ÿó.ó†¿ìog?hıéO.ü22û>~Š÷Àükü\½3ã…kR.º4ºµx{*´¯ÂzàçëèÇrøq¯†f.õ}RB®!Ïë„¯
-Å£š2Í?ªÖrÁ…ó—}“° |/‹ÿ†4Æ-#±yŸ×ÌûÇ31¢jéaP…E°Ãˆ
-kPf¿
-kñ¤~P…u`†ÇUX7Ã³*lÀwH—
-!Ÿ´¨°‰ÄÈ6Î%ÂKó¿×	¿Rá<h*œ‹ÅM,zûë¸èWa<_5 _³L…EX­iPaÊDTXK4ûUXe|—2XÖ|_…°B{R…°Dû
-›„·µ«p¬1üR…sá:c¾
-çÁnãnÎ‡UÆŸ·F‡¢éèÍáÉi™Ä{“Ñ¡Hš®¨¢õ+ëi[<>4¦-ñd"”ÓÑx¬ÎÔr©XíAírº†n‰ÔuFûÃYYÚNF{ÂC£Ãrrsj …“´–^*q)~M8™bHC]}}û÷RáhŠÊ4”Cá9y#^M†‡¢©t8‰ÄhŒöÕõÖÑn9¥©ÑíóŠ]ƒƒÑ0'„“i…ãé†º{4M…¢Ì[ªn>ƒåèM‡ÇÂô*9§â±f9…¾0²íÑX<UC÷D¢ºGNÑP8Š!³/½X‡"WÆ\b±øš×`ÜƒÉp*ÑKYÕ¦éˆœfI„ÓÉè€<<¼{6’@­~lÒh:‚GÂ)zuxí‰È±'ë²¡`m±¨4:’HÆÇxŒµ©d8CgrHîGÓh-"'å¬–-:âÁBĞ„«õ&ã‰0Fzm[çA0[ÍT|x=3éX8b1ì±ğ0*¡ãáxüF–Ï`<‰†Ò‘Ú‘ÆciTS9ÂÄ±ZñÑÖ',sz.8y G^bXN£•‘T]$N¬s¹öìÙS'«­ÀÎÔ¡e×ñÒ{aµIfed¸Ûc­åıeIôné¤]	¬ƒ£ª@Í•u+UXÆh"ªKE‡ëâÉ!W—¯Z!
-C¸Ò¸n†0„€â’—€8$`/$¹T©ÏÏ¨ÂgÔÃJ\ÚP*üaÔ§Ğ‚pµØ]ævãÃÏmç|±µ„zÔ(Ú¹vB[P -t¢^?rÚ¥ĞË)Q<g™æŒb2R6C
-µÂ(âjqı-‹‡RóœŒ«ÿêÀ}Yİ¿e9Š¶(¯ušsX¬#<ş‘G½/ªE¹0ï_
-9a…¸Uf»%z¹T7×dµHso1.µı2»Ğã êğ^ÎIpÛl&²–ãGÔªîÆŠ'y!®7—[
-=¶—Ÿ^İ÷y§3<ÅyÍˆ§Ô¼²5ÛÎ£ˆ#•ÕbFÂüF8,óz†¸6›²˜ªÙsG¿ĞUueµ/1îcL’éÔ¨õä÷÷C”Ç—íòÅ¾)¯“Ì«íôrÓ\v éÃø·Wİg#X•¬¯~u'íáû2¢f<ÂíR|o	#‡MEœ÷-æ,ç=¾P•ìÜª“J¹ná8Ïb®µ¼7,“0”A2ßûı¨1Ì}gc‹ğéyoÃj¯Ó<ƒ¹z…ÔLYÔ	N©/Ÿ¶ãÃjM¯Å“¢ó²³\8›¬'Ã<ŞÔÛ1mh>Çlµ™Ô°ê)›ñ0?‘nœïÏ Ÿ·lECÜZíçÔ|×&­zóˆBø—íxv¶â¨;Êû‘İOÙiN¦r2¯o\ÕKğs)­Æ2Â÷G„O`Öá»¥£cu|îšuÏÔ©1»ş×z,®¯àÂı‘œecìTwl~×.Ø¿sèÅ3¨“Ÿ	u~|jåè%Ø®¹ôÔ\‰şV^’Ev£ˆ§y<)^Ë:Ãò»ĞC'Î~#pbL—¹¦Œİ›ûI‰!X„«É.è#›a#ñàÓƒ¼f|¶ Îud#Œ£ÜF¤oB|Ò×ãáéÀ{®.\qipe%êQÂ…O—Š×"^ƒoàğÅ¨MHeÏ­ˆ·ã³M}úîÅ§WÅ· O=¾ˆ7ñûKDã9AfÎ“7ÎzÜş	éş„ŒxèCáçªO{éœĞõÁ®ú@¬ÿ€˜? 8k9Û}6x6qvò¬Îd~ŸäÂï‰õ½™5w7î{gãÛ}p3;]ºûôøiå´ö4ûŞmË4®ŸNLOÿtzfúÜ´aüÅC/
-ÿò‚Ëa~Áñ‚à8Ñuâöbğ1sº>,z„˜q<âzD|èHãH[™ã,wÌ<pîáÔìô‰ò¬¾Hé„XÃ«Oˆ³§6‘«0-3Ş¸\¸ºpÅqÄ…ß{PÜËE:=kÄ]÷“œÃöÃÕ‡o9|à°6qçø‡îÇ÷Ú'<5öÒ˜ê®rÄcÕXÛRwIŸŞ-öéĞz÷lé¯Xáîò8v¡ĞÎõmUEî‚>-&¬AA³è›Ä.1._õ†î2Ç6\3İçºO·1×gîrt¹ºÄS³3p‡­mMlß*nñU9ÚÛÖ8Ìm6WÛmï¶}Ğ¦ÛÕFÃßS¾—|¢ÇWåòy|eNß’v{ŸÍ]Ôg%æ>‹ÛÜ'l´ú\æY³`6ï2ßnÍĞÂ¸hÉ)rhj{ouuÇ)ılO‡bèŞ©ıJE/»{¶íPtûèÛ±Ó?EÈ×ûî½š—v(½~%¸4Ğ¡„ğ0`ËÒ)4R©t5¿Hu5Â£x‡êÑj$ŞÊRaÕ)’Â3*Å•H5ÈâïÕŒ‡¦GPû†°cVg•˜vJ5Ç•³7”Üğßi÷ha
-endstream
-endobj
-46 0 obj
-<<
-/D [4 0 R /FitH 792]
-/S /GoTo
->>
-endobj
-47 0 obj
-<<
-/D [4 0 R /FitH 792]
-/S /GoTo
->>
-endobj
-48 0 obj
-<<
-/BBox [56.7 652 555.3 735.3]
-/Height 1.666
-/O /Layout
-/Placement /Block
-/SpaceAfter 0.001
-/Width 9.972
->>
-endobj
-49 0 obj
-<<
-/A 75 0 R
-/K [76 0 R 29 0 R]
-/P 28 0 R
-/Pg 4 0 R
-/S /TR
-/Type /StructElem
->>
-endobj
-50 0 obj
-<<
-/A 77 0 R
-/K [30 0 R 31 0 R 32 0 R]
-/P 28 0 R
-/Pg 4 0 R
-/S /TR
-/Type /StructElem
->>
-endobj
-51 0 obj
-<<
-/A 78 0 R
-/K [33 0 R 34 0 R 35 0 R 36 0 R]
-/P 28 0 R
-/Pg 4 0 R
-/S /TR
-/Type /StructElem
->>
-endobj
-52 0 obj
-<<
-/A 79 0 R
-/K [37 0 R 38 0 R 39 0 R]
-/P 28 0 R
-/Pg 4 0 R
-/S /TR
-/Type /StructElem
->>
-endobj
-53 0 obj
-<<
-/A 80 0 R
-/K [40 0 R 41 0 R 42 0 R 43 0 R]
-/P 28 0 R
-/Pg 4 0 R
-/S /TR
-/Type /StructElem
->>
-endobj
-54 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 7.479
->>
-endobj
-55 0 obj
-<<
-/ColSpan 2
-/O /Table
-/Scope /Column
->>
-endobj
-56 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-57 0 obj
-<<
-/O /Table
-/Scope /Column
->>
-endobj
-58 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-59 0 obj
-<<
-/O /Table
-/Scope /Column
->>
-endobj
-60 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-61 0 obj
-<<
-/O /Table
-/Scope /Column
->>
-endobj
-62 0 obj
-<<
-/Height 0.666
-/O /Layout
-/Width 2.493
->>
-endobj
-63 0 obj
-<<
-/O /Table
-/RowSpan 2
-/Scope /Row
->>
-endobj
-64 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-65 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-66 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-67 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-68 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-69 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-70 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-71 0 obj
-<<
-/O /Table
-/Scope /Row
->>
-endobj
-72 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-73 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-74 0 obj
-<<
-/Height 0.332993
-/O /Layout
-/Width 2.493
->>
-endobj
-75 0 obj
-<<
-/O /Layout
-/Placement /Block
->>
-endobj
-76 0 obj
-<<
-/A [81 0 R 82 0 R]
-/P 49 0 R
-/S /TD
-/Type /StructElem
->>
-endobj
-77 0 obj
-<<
-/O /Layout
-/Placement /Block
->>
-endobj
-78 0 obj
-<<
-/O /Layout
-/Placement /Block
->>
-endobj
-79 0 obj
-<<
-/O /Layout
-/Placement /Block
->>
-endobj
-80 0 obj
-<<
-/O /Layout
-/Placement /Block
->>
-endobj
-81 0 obj
-<<
-/Height 0.666
-/O /Layout
-/Width 2.493
->>
-endobj
-82 0 obj
-<<
-/O /Table
-/RowSpan 2
->>
-endobj
-83 0 obj
-<<
-/ID [<100955B262026F8B53AD1FF20C1C69BF> <FC873E8B65D26F4580CBE0F5DB0BDF49>]
-/Info 9 0 R
-/Root 1 0 R
-/Type /XRef
-/Size 84
-/Index [0 83]
-/W [1 2 0]
-/Filter /FlateDecode
-/Length 234
->>
-stream
-xœÁ¿JÃ@ Àáûù Š^-ÚMš?•"ø \D”&¹äîFÄ%o º(‚SE·êâà$NJAºˆƒâàUpĞÁïB Æá•1Ëä)ò
-9Â	qJÄ'ÎÓOÔÚÔ˜¹cvŸzJ½î€Æ/sËÌWñ¶ñÎñ}|…ÿNsƒæA…`‹à‘Ğ%,	‡DSD;DÄÄ»ÄZ’Ö&Eº×t?H$É	ÉiJ:$[ ;#{CIÔ:j5@ÈÛä†¼GşBQ¥X¥8¦xFWĞ+èCô-ú³„)1—˜o¬‡M±GØ{ìß?×'<T
-endstream
-endobj
-startxref
-25127
-%%EOF
-3 0 obj<</Length 4832/Subtype/XML/Type/Metadata>>stream
-<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164374, 2020/03/05-20:41:30        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-            xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
-            xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
-            xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
-            xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#">
-         <dc:format>application/pdf</dc:format>
-         <dc:creator>
-            <rdf:Seq>
-               <rdf:li>veraPDF Consortium</rdf:li>
-            </rdf:Seq>
-         </dc:creator>
-         <dc:title>
-            <rdf:Alt>
-               <rdf:li xml:lang="x-default">Colspan-fail</rdf:li>
-            </rdf:Alt>
-         </dc:title>
-         <xmp:CreateDate>2020-06-29T17:22:38+03:00</xmp:CreateDate>
-         <xmp:CreatorTool>veraPDF Test Builder</xmp:CreatorTool>
-         <xmp:ModifyDate>2020-06-29T18:14:57+03:00</xmp:ModifyDate>
-         <xmp:MetadataDate>2020-06-29T18:14:57+03:00</xmp:MetadataDate>
-         <pdf:Producer>veraPDF Test Builder 1.0</pdf:Producer>
-         <xmpMM:DocumentID>uuid:7c6a0c46-e9c1-4111-920d-bd33fd267d97</xmpMM:DocumentID>
-         <xmpMM:InstanceID>uuid:fbc01c78-439f-4883-9621-c945716aa9fc</xmpMM:InstanceID>
-         <pdfuaid:part>1</pdfuaid:part>
-         <pdfaExtension:schemas>
-            <rdf:Bag>
-               <rdf:li rdf:parseType="Resource">
-                  <pdfaSchema:schema>PDF/UA Universal Accessibility Schema</pdfaSchema:schema>
-                  <pdfaSchema:namespaceURI>http://www.aiim.org/pdfua/ns/id/</pdfaSchema:namespaceURI>
-                  <pdfaSchema:prefix>pdfuaid</pdfaSchema:prefix>
-                  <pdfaSchema:property>
-                     <rdf:Seq>
-                        <rdf:li rdf:parseType="Resource">
-                           <pdfaProperty:name>part</pdfaProperty:name>
-                           <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
-                           <pdfaProperty:category>internal</pdfaProperty:category>
-                           <pdfaProperty:description>Indicates, which part of ISO 14289 standard is followed</pdfaProperty:description>
-                        </rdf:li>
-                     </rdf:Seq>
-                  </pdfaSchema:property>
-               </rdf:li>
-            </rdf:Bag>
-         </pdfaExtension:schemas>
-      </rdf:Description>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?>
-endstreamendobj9 0 obj<</Author(veraPDF Consortium)/CreationDate(D:20200629172238+03'00')/Creator(veraPDF Test Builder)/Keywords()/ModDate(D:20200629181457+03'00')/Producer(veraPDF Test Builder 1.0)/Title(Colspan-fail)>>endobj16 0 obj<</A 24 0 R/Next 25 0 R/Parent 5 0 R/Title(7.2-1 Text)>>endobj84 0 obj<</DecodeParms<</Columns 3/Predictor 12>>/Filter/FlateDecode/ID[<100955B262026F8B53AD1FF20C1C69BF><A0BE44D9FAA8804684220A16CA191E1C>]/Index[3 1 9 1 16 1 84 1]/Info 9 0 R/Length 26/Prev 25127/Root 1 0 R/Size 85/Type/XRef/W[1 2 0]>>stream
-hŞbbLaabÖeb`¼ÆÄÀà	` ëÒ
-endstreamendobjstartxref
-30800
-%%EOF
-1 0 obj<</Lang(en-US)/MarkInfo<</Marked true>>/Metadata 3 0 R/OpenAction[4 0 R/XYZ null null 0]/Outlines 5 0 R/Pages 6 0 R/StructTreeRoot 7 0 R/Type/Catalog/ViewerPreferences 8 0 R>>endobj3 0 obj<</Length 4832/Subtype/XML/Type/Metadata>>stream
-<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164374, 2020/03/05-20:41:30        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-            xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
-            xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
-            xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
-            xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#">
-         <dc:format>application/pdf</dc:format>
-         <dc:creator>
-            <rdf:Seq>
-               <rdf:li>veraPDF Consortium</rdf:li>
-            </rdf:Seq>
-         </dc:creator>
-         <dc:title>
-            <rdf:Alt>
-               <rdf:li xml:lang="x-default">Colspan-fail</rdf:li>
-            </rdf:Alt>
-         </dc:title>
-         <xmp:CreateDate>2020-06-29T17:22:38+03:00</xmp:CreateDate>
-         <xmp:CreatorTool>veraPDF Test Builder</xmp:CreatorTool>
-         <xmp:ModifyDate>2020-06-29T18:15:04+03:00</xmp:ModifyDate>
-         <xmp:MetadataDate>2020-06-29T18:15:04+03:00</xmp:MetadataDate>
-         <pdf:Producer>veraPDF Test Builder 1.0</pdf:Producer>
-         <xmpMM:DocumentID>uuid:7c6a0c46-e9c1-4111-920d-bd33fd267d97</xmpMM:DocumentID>
-         <xmpMM:InstanceID>uuid:4fdb70b0-ad60-4ba7-a8c8-a1e881d74b5f</xmpMM:InstanceID>
-         <pdfuaid:part>1</pdfuaid:part>
-         <pdfaExtension:schemas>
-            <rdf:Bag>
-               <rdf:li rdf:parseType="Resource">
-                  <pdfaSchema:schema>PDF/UA Universal Accessibility Schema</pdfaSchema:schema>
-                  <pdfaSchema:namespaceURI>http://www.aiim.org/pdfua/ns/id/</pdfaSchema:namespaceURI>
-                  <pdfaSchema:prefix>pdfuaid</pdfaSchema:prefix>
-                  <pdfaSchema:property>
-                     <rdf:Seq>
-                        <rdf:li rdf:parseType="Resource">
-                           <pdfaProperty:name>part</pdfaProperty:name>
-                           <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
-                           <pdfaProperty:category>internal</pdfaProperty:category>
-                           <pdfaProperty:description>Indicates, which part of ISO 14289 standard is followed</pdfaProperty:description>
-                        </rdf:li>
-                     </rdf:Seq>
-                  </pdfaSchema:property>
-               </rdf:li>
-            </rdf:Bag>
-         </pdfaExtension:schemas>
-      </rdf:Description>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?>
-endstreamendobj9 0 obj<</Author(veraPDF Consortium)/CreationDate(D:20200629172238+03'00')/Creator(veraPDF Test Builder)/Keywords()/ModDate(D:20200629181504+03'00')/Producer(veraPDF Test Builder 1.0)/Title(Colspan-fail)>>endobj85 0 obj<</DecodeParms<</Columns 3/Predictor 12>>/Filter/FlateDecode/ID[<100955B262026F8B53AD1FF20C1C69BF><92602A5BA24409409AB3A8E9392A8983>]/Index[1 1 3 1 9 1 85 1]/Info 9 0 R/Length 25/Prev 30800/Root 1 0 R/Size 86/Type/XRef/W[1 2 0]>>stream
-hŞbb¬ìeb`ÜÏÄ ¬¤¯ "ç
-endstreamendobjstartxref
-36431
-%%EOF
