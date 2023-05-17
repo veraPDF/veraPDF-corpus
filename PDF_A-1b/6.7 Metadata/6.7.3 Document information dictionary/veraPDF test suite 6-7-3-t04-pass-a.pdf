@@ -15,12 +15,12 @@ endobj
 /CreationDate (D:20230512082127+03'00')
 /Creator (veraPDF Test Builder)
 /ModDate (D:20230512125000+00'00')
-/Producer (veraPDF Test Builder 1.0)
+/Subject (veraPDF Test Builder 1.0)
 >>
 endobj
 2 0 obj
 <<
-/Length 9537
+/Length 9641
 /Type /Metadata
 /Subtype /XML
 >>
@@ -39,7 +39,7 @@ stream
             xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
             xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
             xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#">
-         <xmp:CreateDate>2023-05-12T08:22:27+03:00</xmp:CreateDate>
+         <xmp:CreateDate>2023-05-12T08:21:27+03:00</xmp:CreateDate>
          <xmp:CreatorTool>veraPDF Test Builder</xmp:CreatorTool>
          <xmp:ModifyDate>2023-05-12T12:50:00+00:00</xmp:ModifyDate>
          <xmp:MetadataDate>2023-05-12T11:26:32+03:00</xmp:MetadataDate>
@@ -51,17 +51,18 @@ stream
          </dc:creator>
          <dc:description>
             <rdf:Alt>
-               <rdf:li xml:lang="x-default">Description_2</rdf:li>
+               <rdf:li xml:lang="x-default">veraPDF Test Builder 1.0</rdf:li>
             </rdf:Alt>
          </dc:description>
          <dc:title>
             <rdf:Alt>
-               <rdf:li xml:lang="x-default">Doc_Title</rdf:li>
+               <rdf:li xml:lang="x-default">Doc_Title1</rdf:li>
+			   <rdf:li xml:lang="x-default">veraPDF Consortium</rdf:li>
             </rdf:Alt>
          </dc:title>
          <dc:subject>
             <rdf:Bag>
-               <rdf:li>Keywords_2</rdf:li>
+               <rdf:li>veraPDF Test Builder 1.0</rdf:li>
             </rdf:Bag>
          </dc:subject>
          <xmpMM:DocumentID>uuid:a1aadd85-5368-43f7-b7e1-f234b7722ee0</xmpMM:DocumentID>
@@ -80,7 +81,7 @@ stream
             </rdf:Seq>
          </xmpMM:History>
          <pdf:Producer>veraPDF Test Builder 1.0</pdf:Producer>
-         <pdf:Keywords>Keywords_2</pdf:Keywords>
+         <pdf:Keywords>veraPDF Test Builder_1.0</pdf:Keywords>
          <photoshop:AuthorsPosition>Author_Title</photoshop:AuthorsPosition>
          <photoshop:CaptionWriter>Description_Writer</photoshop:CaptionWriter>
          <pdfaid:part>1</pdfaid:part>
@@ -207,7 +208,7 @@ endobj
 endobj
 7 0 obj
 <<
-/Title (expected message: The value of CreationDate entry from the document information dictionary and XMP property xmp:CreateDate are not equivalent)
+/Title (expected message: The value of Subject entry from the document information dictionary and XMP property dc:description are equivalent)
 /Parent 3 0 R
 /Prev 11 0 R
 >>
@@ -256,7 +257,7 @@ endobj
 endobj
 11 0 obj
 <<
-/Title (expected result: fail)
+/Title (expected result: pass)
 /Parent 3 0 R
 /Prev 15 0 R
 /Next 7 0 R
@@ -264,7 +265,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Title (topic 01)
+/Title (topic 04)
 /Parent 3 0 R
 /Prev 8 0 R
 /Next 15 0 R
@@ -396,9 +397,9 @@ endobj
 /Filter /FlateDecode
 >>
 stream
-xúc```d‡gd¥dT;«®. ®~Üë°úQÉçQ„,£¶0£Ò$FìFìå¶Ïå¶Õ<Õf3ö/d¥ld¥<√hıë—: fáY
+xúc```d‡gd¥`T7eTØa‘0fd(g‘»e‘‘f‘,d4˛¿h≤ã—Tå—4ï—åü—l9£ŸOFÛˇåñ˜≠¥≠˝≠◊ Sî
 endstream
 endobj
 startxref
-17002
+17096
 %%EOF
