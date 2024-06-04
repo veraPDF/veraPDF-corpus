@@ -32,10 +32,13 @@ stream
         xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
         xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
         xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
+        xmlns:pdfd="http://pdfa.org/declarations/"
+        xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#"
+        xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#"
         xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
-      xmp:CreateDate="2024-04-18T09:22:31Z"
+      xmp:CreateDate="2024-06-04T13:27:26Z"
       xmp:CreatorTool="veraPDF Test Builder"
-      xmp:ModifyDate="2024-04-18T09:22:31Z"
+      xmp:ModifyDate="2024-06-04T13:27:26Z"
       xmp:MetadataDate="2020-06-15T11:35:30+03:00"
       pdf:Producer="veraPDF Test Builder 1.0"
       dc:format="application/pdf"
@@ -43,6 +46,32 @@ stream
       xmpMM:InstanceID="uuid:927f2d2d-ed6d-4f28-a33f-4a803ac85a7a"
       pdfuaid:part="2"
       pdfuaid:rev="2024">
+      <pdfd:declarations>
+        <rdf:Bag>
+          <rdf:li rdf:parseType="Resource">
+            <pdfd:conformsTo>http://pdfa.org/declarations/wtpdf#accessibility1.0</pdfd:conformsTo>
+            <pdfd:claimData>
+              <rdf:Bag>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfd:claimBy>veraPDF Consortium</pdfd:claimBy>
+                  <pdfd:claimDate>2024-06-04T13:27:26Z</pdfd:claimDate>
+                </rdf:li>
+              </rdf:Bag>
+            </pdfd:claimData>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <pdfd:conformsTo>http://pdfa.org/declarations/wtpdf#reuse1.0</pdfd:conformsTo>
+            <pdfd:claimData>
+              <rdf:Bag>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfd:claimBy>veraPDF Consortium</pdfd:claimBy>
+                  <pdfd:claimDate>2024-06-04T13:27:26Z</pdfd:claimDate>
+                </rdf:li>
+              </rdf:Bag>
+            </pdfd:claimData>
+          </rdf:li>
+        </rdf:Bag>
+      </pdfd:declarations>
       <dc:title>
         <rdf:Alt>
           <rdf:li xml:lang="x-default">8.2.5.26-t05-pass-e</rdf:li>
@@ -55,27 +84,86 @@ stream
       </dc:creator>
       <pdfaExtension:schemas>
         <rdf:Bag>
-          <rdf:li>
-            <rdf:Description
-              pdfaSchema:schema="PDF/UA Universal Accessibility Schema"
-              pdfaSchema:namespaceURI="http://www.aiim.org/pdfua/ns/id/"
-              pdfaSchema:prefix="pdfuaid">
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>PDF/UA Universal Accessibility Schema</pdfaSchema:schema>
+            <pdfaSchema:namespaceURI>http://www.aiim.org/pdfua/ns/id/</pdfaSchema:namespaceURI>
+            <pdfaSchema:prefix>pdfuaid</pdfaSchema:prefix>
             <pdfaSchema:property>
               <rdf:Seq>
-                <rdf:li
-                  pdfaProperty:name="part"
-                  pdfaProperty:valueType="Integer"
-                  pdfaProperty:category="internal"
-                  pdfaProperty:description="PDF/UA version identifier"/>
-                <rdf:li
-                  pdfaProperty:name="rev"
-                  pdfaProperty:valueType="Integer"
-                  pdfaProperty:category="internal"
-                  pdfaProperty:description="Four-digit year of the date of publication or revision"/>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>part</pdfaProperty:name>
+                  <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>PDF/UA version identifier</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>rev</pdfaProperty:name>
+                  <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Four-digit year of the date of publication or revision</pdfaProperty:description>
+                </rdf:li>
               </rdf:Seq>
             </pdfaSchema:property>
-            </rdf:Description>
           </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>PDF Declarations Schema</pdfaSchema:schema>
+            <pdfaSchema:prefix>pdfd</pdfaSchema:prefix>
+            <pdfaSchema:namespaceURI>http://pdfa.org/declarations/</pdfaSchema:namespaceURI>
+            <pdfaSchema:property>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>declarations</pdfaProperty:name>
+                  <pdfaProperty:valueType>Bag declaration</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>An unordered array of PDF Declaration entries, where each PDF Declaration representing a statement of conformance with an identified external standard or profile, along with optional information identifying the nature of the claim.</pdfaProperty:description>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:property>
+            <pdfaSchema:valueType>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaType:type>claim</pdfaType:type>
+                  <pdfaType:namespaceURI>http://pdfa.org/declarations/</pdfaType:namespaceURI>
+                  <pdfaType:prefix>pdfd</pdfaType:prefix>
+                  <pdfaType:description>A structure describing properties of an individualclaim.</pdfaType:description>
+                  <pdfaType:field>
+                    <rdf:Seq>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>claimDate</pdfaField:name>
+                        <pdfaField:valueType>Text</pdfaField:valueType>
+                        <pdfaField:description>A date identifying when the claim was made.</pdfaField:description>
+                      </rdf:li>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>claimBy</pdfaField:name>
+                        <pdfaField:valueType>Text</pdfaField:valueType>
+                        <pdfaField:description>The name of the organization and/or individual and/or software making the claim.</pdfaField:description>
+                      </rdf:li>
+                    </rdf:Seq>
+                    </pdfaType:field>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaType:type>declaration</pdfaType:type>
+                  <pdfaType:namespaceURI>http://pdfa.org/declarations/</pdfaType:namespaceURI>
+                  <pdfaType:prefix>pdfd</pdfaType:prefix>
+                  <pdfaType:description>A structure describing a single PDF Declaration asserting conformance with an externally-identified standard or profile.</pdfaType:description>
+                  <pdfaType:field>
+                    <rdf:Seq>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>conformsTo</pdfaField:name>
+                        <pdfaField:valueType>Text</pdfaField:valueType>
+                        <pdfaField:description>A property containing a URI specifying the standard or profile by the PDF Declaration. This property is intended to mirror the Dublin Core property dc:conformsTo.</pdfaField:description>
+                      </rdf:li>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>claimData</pdfaField:name>
+                        <pdfaField:valueType>Bag claim</pdfaField:valueType>
+                        <pdfaField:description>An unordered array of claim data, where each claim identifies the nature of the claim.</pdfaField:description>
+                      </rdf:li>
+                    </rdf:Seq>
+                  </pdfaType:field>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:valueType>
+          </rdf:li>     
         </rdf:Bag>
       </pdfaExtension:schemas>
     </rdf:Description>
@@ -115,7 +203,7 @@ endobj
 >>
 endobj
 7 0 obj
-2547
+8015
 endobj
 8 0 obj
 <<
@@ -895,12 +983,13 @@ endobj
 /Filter /FlateDecode
 /Index [1 64]
 /W [1 2 0]
-/Length 190
+/Length 184
 >>
 stream
-xœÁ1Á` €a¯Q«"®ªÅEhûõbƒ‘Ÿp‰ÍdÀd!¹™ˆHì‰ë.Vƒ«$7°\îyğ¨x¾¼He¤O¤;²†üÜEŞã? TP¶¨ÔoE+¢¯´±±#z}„ş$^!¾Æaô0N˜yÌ	æ/‰*IAjÊ[‹ôé3™™?²m²¬ VkŒíÃşÀcßp†8;„†¨!–ˆ+n·‰ûƒû 4£nÑ¿0ÿí»)v
+xœÁ= €aoÙäÎWäãÜÂ»“ÊÀb0IR³HFlò”?`Àd¡üIÙåy°¹±Ú[„'bq„8G¼ˆT	î		„n„½„×D\Ä§$†$¤NH¤Ò›t“ôÙƒÜC~ dQ–(_Ô:êÌŒìÜ…ü€BÍÖB»¢ûÑ»èGô¥¥†£ŠñÂŒb0XN¬
+ÖëLÙG¹AÆ6E6ı?^,ì
 endstream
 endobj
 startxref
-36424
+41892
 %%EOF
