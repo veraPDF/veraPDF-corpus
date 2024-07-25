@@ -38,9 +38,9 @@ stream
         xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#"
         xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#"
         xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
-      xmp:CreateDate="2024-07-24T13:21:59Z"
+      xmp:CreateDate="2024-07-25T13:11:48Z"
       xmp:CreatorTool="veraPDF Test Builder"
-      xmp:ModifyDate="2024-07-24T13:21:59Z"
+      xmp:ModifyDate="2024-07-25T13:11:48Z"
       xmp:MetadataDate="2020-06-15T11:35:30+03:00"
       pdf:Producer="veraPDF Test Builder 1.0"
       dc:format="application/pdf"
@@ -56,7 +56,7 @@ stream
               <rdf:Bag>
                 <rdf:li rdf:parseType="Resource">
                   <pdfd:claimBy>veraPDF Consortium</pdfd:claimBy>
-                  <pdfd:claimDate>2024-07-24T13:21:59Z</pdfd:claimDate>
+                  <pdfd:claimDate>2024-07-25T13:11:48Z</pdfd:claimDate>
                 </rdf:li>
               </rdf:Bag>
             </pdfd:claimData>
@@ -67,7 +67,7 @@ stream
               <rdf:Bag>
                 <rdf:li rdf:parseType="Resource">
                   <pdfd:claimBy>veraPDF Consortium</pdfd:claimBy>
-                  <pdfd:claimDate>2024-07-24T13:21:59Z</pdfd:claimDate>
+                  <pdfd:claimDate>2024-07-25T13:11:48Z</pdfd:claimDate>
                 </rdf:li>
               </rdf:Bag>
             </pdfd:claimData>
@@ -193,8 +193,8 @@ endobj
 5 0 obj
 <<
 /K 10 0 R
-/Namespaces [11 0 R]
-/ParentTree 12 0 R
+/Namespaces [11 0 R 12 0 R 13 0 R]
+/ParentTree 14 0 R
 /ParentTreeNextKey 1
 /RoleMap <<
 >>
@@ -206,7 +206,7 @@ endobj
 endobj
 7 0 obj
 <<
-/Next 13 0 R
+/Next 15 0 R
 /Parent 3 0 R
 /Title (8.2.5.29 Formula)
 >>
@@ -214,25 +214,24 @@ endobj
 8 0 obj
 <<
 /Parent 3 0 R
-/Prev 13 0 R
+/Prev 15 0 R
 /Title (Expected result: fail)
 >>
 endobj
 9 0 obj
 <<
-/Contents 14 0 R
+/Contents 16 0 R
 /MediaBox [0 0 595 842]
 /Parent 4 0 R
 /Resources <<
 /ColorSpace <<
-/CS0 [/ICCBased 15 0 R]
-/DefaultRGB [/ICCBased 15 0 R]
+/CS0 [/ICCBased 17 0 R]
+/DefaultRGB [/ICCBased 17 0 R]
 >>
 /Font <<
-/C2_0 16 0 R
-/C2_1 17 0 R
+/C2_0 18 0 R
+/C2_1 19 0 R
 >>
-/ProcSet [/PDF /Text]
 >>
 /StructParents 0
 /Tabs /S
@@ -241,7 +240,7 @@ endobj
 endobj
 10 0 obj
 <<
-/K 18 0 R
+/K 20 0 R
 /NS 11 0 R
 /P 5 0 R
 /S /Document
@@ -250,17 +249,32 @@ endobj
 endobj
 11 0 obj
 <<
-/Type /Namespace
 /NS (http://iso.org/pdf2/ssn)
+/Type /Namespace
 >>
 endobj
 12 0 obj
 <<
-/Nums [0 [19 0 R]
-]
+/NS (http://iso.org/pdf2/ssn)
+/Type /Namespace
 >>
 endobj
 13 0 obj
+<<
+/NS (http://example.com/badns)
+/RoleMapNS <<
+/Math [/math 21 0 R]
+>>
+/Type /Namespace
+>>
+endobj
+14 0 obj
+<<
+/Nums [0 [22 0 R]
+]
+>>
+endobj
+15 0 obj
 <<
 /Next 8 0 R
 /Parent 3 0 R
@@ -268,7 +282,7 @@ endobj
 /Title (Math structure element is not a child element of Formula structure element)
 >>
 endobj
-14 0 obj
+16 0 obj
 <<
 /Filter /FlateDecode
 /Length 230
@@ -279,7 +293,7 @@ H‰¤Q±ŽÃ Ýù
 0 KOi6
 endstream
 endobj
-15 0 obj
+17 0 obj
 <<
 /Filter /FlateDecode
 /Length 319
@@ -292,52 +306,58 @@ xœc``<‘“œ[Ì$ÀÀ›WRäî¤¥Àþˆ™A„“A61¹¸À7Ø-„ŠË‹“KŠrPÀ·kŒ ú²nFb^ÊÜ‰¶l
 P+Ã¶#É¥EePk´€¸†áã¦Ræf–“l~B\<I|_Ï‹|“È’ÑSpVY£™¥WgüÚr³ý5·p_³²ñÙœ¶Ò°ºÞIfsV/ïÙt{ßÌSÇ¯§>)ÿøóÿ Gƒdå
 endstream
 endobj
-16 0 obj
-<<
-/BaseFont /FUEQQN+TimesNewRomanPSMT
-/DescendantFonts [20 0 R]
-/Encoding /Identity-H
-/Subtype /Type0
-/ToUnicode 21 0 R
-/Type /Font
->>
-endobj
-17 0 obj
-<<
-/BaseFont /TXFWEL+TimesNewRomanPS-BoldMT
-/DescendantFonts [22 0 R]
-/Encoding /Identity-H
-/Subtype /Type0
-/ToUnicode 23 0 R
-/Type /Font
->>
-endobj
 18 0 obj
 <<
-/K 19 0 R
-/NS 24 0 R
+/BaseFont /FUEQQN+TimesNewRomanPSMT
+/DescendantFonts [23 0 R]
+/Encoding /Identity-H
+/Subtype /Type0
+/ToUnicode 24 0 R
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /TXFWEL+TimesNewRomanPS-BoldMT
+/DescendantFonts [25 0 R]
+/Encoding /Identity-H
+/Subtype /Type0
+/ToUnicode 26 0 R
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/K 22 0 R
+/NS 12 0 R
 /P 10 0 R
 /S /P
 /Type /StructElem
 >>
 endobj
-19 0 obj
+21 0 obj
+<<
+/NS (http://www.w3.org/1998/Math/MathML)
+/Type /Namespace
+>>
+endobj
+22 0 obj
 <<
 /K 0
-/NS 25 0 R
-/P 18 0 R
+/NS 13 0 R
+/P 20 0 R
 /Pg 9 0 R
 /S /Math
 /Type /StructElem
 >>
 endobj
-20 0 obj
+23 0 obj
 <<
 /BaseFont /FUEQQN+TimesNewRomanPSMT
-/CIDSystemInfo 26 0 R
+/CIDSystemInfo 27 0 R
 /CIDToGIDMap /Identity
 /DW 1000
-/FontDescriptor 27 0 R
+/FontDescriptor 28 0 R
 /Subtype /CIDFontType2
 /Type /Font
 /W [0 [778 0]
@@ -997,7 +1017,7 @@ endobj
  4683 4684 1057]
 >>
 endobj
-21 0 obj
+24 0 obj
 <<
 /Filter /FlateDecode
 /Length 322
@@ -1006,13 +1026,13 @@ stream
 H‰\Ò]kƒ0à{Å¹\/Š5Ú‚›]Á‹}0·`“c'Ì¢½ðß/æ-LPxÈ9áMŽaUkÝÏ¾ÛQ6<S×key¯V2ùÒë NHõr¾ÉåÐš tÍÍ2Í<Ôºƒ¢ ðÃ-N³]èáQgÞá›Ul{}¡‡¯ªÙPØ\ùáõL•%)îÜF/­ym¦Ð·mkåÖûyÙºž¿ŠÏÅ0%Þ1ÂÈQñdZÉ¶ÕŠÈ=%'÷”kõo=‰Ðvîäwk}ùÎ•GQ•«’ƒWšyír/‘z¥©WC´ƒP™Ý*÷€°g†=Ó'hUÐ:A•—ˆ #CÏP œ!Ç„€9säÈ™#§@Î9²äq·Z¯ÐMšîó‘WkÝhüïàg²N£×|ÿcÌhÈu­oð+À ™9£z
 endstream
 endobj
-22 0 obj
+25 0 obj
 <<
 /BaseFont /TXFWEL+TimesNewRomanPS-BoldMT
-/CIDSystemInfo 28 0 R
+/CIDSystemInfo 29 0 R
 /CIDToGIDMap /Identity
 /DW 1000
-/FontDescriptor 29 0 R
+/FontDescriptor 30 0 R
 /Subtype /CIDFontType2
 /Type /Font
 /W [0 [778 0]
@@ -1674,7 +1694,7 @@ endobj
 4684 1188]
 >>
 endobj
-23 0 obj
+26 0 obj
 <<
 /Filter /FlateDecode
 /Length 270
@@ -1684,38 +1704,22 @@ H‰\ÑÍj„0 à{žbŽ»‡%*º? Bë"xèµ}€˜Œ6PcˆÙƒoß˜Y¶Ð€™‘™	¯Ûkk´þîfÙ¡‡Aåp™oN"ô8jÃÒ”–
 6#ì¾ên¼»Yûƒ	T(Â^„}e‡V…¸öë!Ôüe|®!‹N©9+\¬è„‘•I8”M8C£þÅ/TÕò[¸-;»„ì$ÉÕ¦<:¦¤gÒ™Ôê¨"!]I©!Q§Œt"å¤3©ˆÝÝûØúë„ÇäÍ¹0Üy|Y|<‹-„ªíc¿ Î…„
 endstream
 endobj
-24 0 obj
-<<
-/NS (http://iso.org/pdf2/ssn)
-/Type /Namespace
->>
-endobj
-25 0 obj
-<<
-/NS (http://example.com/badns)
-/RoleMapNS <<
-/Math [/math 30 0 R]
->>
-/Type /Namespace
->>
-endobj
-26 0 obj
+27 0 obj
 <<
 /Ordering (Identity)
 /Registry (Adobe)
 /Supplement 0
 >>
 endobj
-27 0 obj
+28 0 obj
 <<
 /Ascent 1040
-/CIDSet 31 0 R
 /CapHeight 662
 /Descent -307
 /Flags 6
 /FontBBox [-568 -307 2046 1040]
 /FontFamily (Times New Roman)
-/FontFile2 32 0 R
+/FontFile2 31 0 R
 /FontName /FUEQQN+TimesNewRomanPSMT
 /FontStretch /Normal
 /FontWeight 400
@@ -1725,23 +1729,22 @@ endobj
 /XHeight 448
 >>
 endobj
-28 0 obj
+29 0 obj
 <<
 /Ordering (Identity)
 /Registry (Adobe)
 /Supplement 0
 >>
 endobj
-29 0 obj
+30 0 obj
 <<
 /Ascent 1056
-/CIDSet 33 0 R
 /CapHeight 662
 /Descent -328
 /Flags 6
 /FontBBox [-558 -328 2000 1056]
 /FontFamily (Times New Roman)
-/FontFile2 34 0 R
+/FontFile2 32 0 R
 /FontName /TXFWEL+TimesNewRomanPS-BoldMT
 /FontStretch /Normal
 /FontWeight 700
@@ -1751,22 +1754,7 @@ endobj
 /XHeight 457
 >>
 endobj
-30 0 obj
-<<
-/NS (http://www.w3.org/1998/Math/MathML)
-/Type /Namespace
->>
-endobj
 31 0 obj
-<<
-/Filter /FlateDecode
-/Length 21
->>
-stream
-H‰šÀ ŒÜ7¿w  ¿5
-endstream
-endobj
-32 0 obj
 <<
 /Filter /FlateDecode
 /Length 25944
@@ -1858,16 +1846,7 @@ F¥Ý#Ê$Ð©L'úS!¢7³7˜²d<l¥d†ç±9 [#!+ž¶ÖÈ´eI+Öc…ÃVXFsV¶Ò¡T$ÉT}„­L0M×4okÚºµ½*‰Y
 Øå¨Éó¥3˜É‘\˜bZ1N¹ðã†ò½3–‡	?®ØO†é£§˜Ð\žär»"áÍñnyn×.x–ð *!l
 endstream
 endobj
-33 0 obj
-<<
-/Filter /FlateDecode
-/Length 21
->>
-stream
-H‰j` Á¥  	éÿ
-endstream
-endobj
-34 0 obj
+32 0 obj
 <<
 /Filter /FlateDecode
 /Length 18617
@@ -1933,48 +1912,46 @@ kmÍÐÿaè?2ôW=UÃ>Gb˜¾«ð
 endstream
 endobj
 xref
-0 35
+0 33
 0000000000 65535 f
 0000000015 00000 n
 0000000205 00000 n
 0000008305 00000 n
 0000008376 00000 n
 0000008433 00000 n
-0000008562 00000 n
-0000008582 00000 n
-0000008656 00000 n
-0000008735 00000 n
-0000008999 00000 n
-0000009082 00000 n
-0000009151 00000 n
-0000009193 00000 n
-0000009337 00000 n
-0000009642 00000 n
-0000010041 00000 n
-0000010193 00000 n
-0000010350 00000 n
-0000010427 00000 n
-0000010512 00000 n
-0000030648 00000 n
-0000031045 00000 n
-0000051299 00000 n
-0000051644 00000 n
-0000051713 00000 n
-0000051821 00000 n
-0000051896 00000 n
-0000052197 00000 n
-0000052272 00000 n
-0000052579 00000 n
-0000052659 00000 n
-0000052754 00000 n
-0000078790 00000 n
-0000078885 00000 n
+0000008576 00000 n
+0000008596 00000 n
+0000008670 00000 n
+0000008749 00000 n
+0000008991 00000 n
+0000009074 00000 n
+0000009143 00000 n
+0000009212 00000 n
+0000009320 00000 n
+0000009362 00000 n
+0000009506 00000 n
+0000009811 00000 n
+0000010210 00000 n
+0000010362 00000 n
+0000010519 00000 n
+0000010596 00000 n
+0000010676 00000 n
+0000010761 00000 n
+0000030897 00000 n
+0000031294 00000 n
+0000051548 00000 n
+0000051893 00000 n
+0000051968 00000 n
+0000052254 00000 n
+0000052329 00000 n
+0000052621 00000 n
+0000078657 00000 n
 trailer
 <<
-/ID [<87E80656E05547F2807A1DC9125A8B47> <D76134F503A023448FD925DDD24AD7FB>]
+/ID [<87E80656E05547F2807A1DC9125A8B47> <F87135CFDE34216A6BBB54537EDF75A4>]
 /Root 1 0 R
-/Size 35
+/Size 33
 >>
 startxref
-97594
+97366
 %%EOF

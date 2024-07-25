@@ -2,15 +2,14 @@
 %öäüß
 1 0 obj
 <<
-/AcroForm 2 0 R
 /Lang (en)
 /MarkInfo <<
 /Marked true
 >>
-/Metadata 3 0 R
-/Outlines 4 0 R
-/Pages 5 0 R
-/StructTreeRoot 6 0 R
+/Metadata 2 0 R
+/Outlines 3 0 R
+/Pages 4 0 R
+/StructTreeRoot 5 0 R
 /Type /Catalog
 /ViewerPreferences <<
 /DisplayDocTitle true
@@ -19,24 +18,9 @@
 endobj
 2 0 obj
 <<
-/DA (/Helv 0 Tf 0 g )
-/DR <<
-/Encoding <<
-/PDFDocEncoding 7 0 R
->>
-/Font <<
-/Helv 8 0 R
-/ZaDb 9 0 R
->>
->>
-/Fields []
->>
-endobj
-3 0 obj
-<<
 /Type /Metadata
 /Subtype /XML
-/Length 10 0 R
+/Length 6 0 R
 >>
 stream
 <?xpacket begin="Ğ¿Â»Ñ—" id="W5M0MpCehiHzreSzNTczkc9d"?>
@@ -54,9 +38,9 @@ stream
         xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#"
         xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#"
         xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
-      xmp:CreateDate="2024-07-24T13:22:14Z"
+      xmp:CreateDate="2024-07-25T13:13:58Z"
       xmp:CreatorTool="veraPDF Test Builder"
-      xmp:ModifyDate="2024-07-24T13:22:14Z"
+      xmp:ModifyDate="2024-07-25T13:13:58Z"
       xmp:MetadataDate="2020-06-15T11:35:30+03:00"
       pdf:Producer="veraPDF Test Builder 1.0"
       dc:format="application/pdf"
@@ -72,7 +56,7 @@ stream
               <rdf:Bag>
                 <rdf:li rdf:parseType="Resource">
                   <pdfd:claimBy>veraPDF Consortium</pdfd:claimBy>
-                  <pdfd:claimDate>2024-07-24T13:22:14Z</pdfd:claimDate>
+                  <pdfd:claimDate>2024-07-25T13:13:58Z</pdfd:claimDate>
                 </rdf:li>
               </rdf:Bag>
             </pdfd:claimData>
@@ -83,7 +67,7 @@ stream
               <rdf:Bag>
                 <rdf:li rdf:parseType="Resource">
                   <pdfd:claimBy>veraPDF Consortium</pdfd:claimBy>
-                  <pdfd:claimDate>2024-07-24T13:22:14Z</pdfd:claimDate>
+                  <pdfd:claimDate>2024-07-25T13:13:58Z</pdfd:claimDate>
                 </rdf:li>
               </rdf:Bag>
             </pdfd:claimData>
@@ -191,101 +175,64 @@ stream
 
 endstream
 endobj
-4 0 obj
+3 0 obj
 <<
 /Count 3
-/First 11 0 R
-/Last 12 0 R
+/First 7 0 R
+/Last 8 0 R
 /Type /Outlines
+>>
+endobj
+4 0 obj
+<<
+/Count 1
+/Kids [9 0 R]
+/Type /Pages
 >>
 endobj
 5 0 obj
 <<
-/Count 1
-/Kids [13 0 R]
-/Type /Pages
->>
-endobj
-6 0 obj
-<<
-/K 14 0 R
-/Namespaces [15 0 R]
-/ParentTree 16 0 R
+/K 10 0 R
+/Namespaces [11 0 R 12 0 R]
+/ParentTree 13 0 R
 /ParentTreeNextKey 1
 /RoleMap <<
 >>
 /Type /StructTreeRoot
 >>
 endobj
+6 0 obj
+8015
+endobj
 7 0 obj
 <<
-/Differences [24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39
-/quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash
-/florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft
-/quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron
-/dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166
-/brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron
-/degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior
-/ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde
-/Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute
-/Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
-/Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute
-/acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis
-/igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde
-/odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis]
-/Type /Encoding
+/Next 14 0 R
+/Parent 3 0 R
+/Title (8.2.5.29 Formula)
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding 7 0 R
-/Name /Helv
-/Subtype /Type1
-/Type /Font
+/Parent 3 0 R
+/Prev 14 0 R
+/Title (Expected result: pass)
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /ZapfDingbats
-/Name /ZaDb
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-8015
-endobj
-11 0 obj
-<<
-/Next 17 0 R
-/Parent 4 0 R
-/Title (8.2.5.29 Formula)
->>
-endobj
-12 0 obj
-<<
-/Parent 4 0 R
-/Prev 17 0 R
-/Title (Expected result: pass)
->>
-endobj
-13 0 obj
-<<
-/Contents 18 0 R
+/Contents 15 0 R
 /CropBox [0 0 595 842]
 /MediaBox [0 0 595 842]
-/Parent 5 0 R
+/Parent 4 0 R
 /Resources <<
 /ColorSpace <<
-/CS0 [/ICCBased 19 0 R]
-/DefaultRGB [/ICCBased 19 0 R]
+/CS0 [/ICCBased 16 0 R]
+/DefaultRGB [/ICCBased 16 0 R]
 >>
 /Font <<
-/C2_0 20 0 R
-/C2_1 21 0 R
+/C2_0 17 0 R
+/C2_1 18 0 R
 >>
-/ProcSet [/PDF /Text]
 >>
 /Rotate 0
 /StructParents 0
@@ -293,36 +240,45 @@ endobj
 /Type /Page
 >>
 endobj
-14 0 obj
+10 0 obj
 <<
-/K 22 0 R
-/NS 15 0 R
-/P 6 0 R
+/K 19 0 R
+/NS 11 0 R
+/P 5 0 R
 /S /Document
 /Type /StructElem
 >>
 endobj
-15 0 obj
+11 0 obj
 <<
-/Type /Namespace
 /NS (http://iso.org/pdf2/ssn)
+/Type /Namespace
 >>
 endobj
-16 0 obj
+12 0 obj
 <<
-/Nums [0 [23 0 R]
+/NS (http://example.com/badns)
+/RoleMapNS <<
+/Math [/math 20 0 R]
+>>
+/Type /Namespace
+>>
+endobj
+13 0 obj
+<<
+/Nums [0 [21 0 R]
 ]
 >>
 endobj
-17 0 obj
+14 0 obj
 <<
-/Next 12 0 R
-/Parent 4 0 R
-/Prev 11 0 R
+/Next 8 0 R
+/Parent 3 0 R
+/Prev 7 0 R
 /Title (Math structure element is a child element of Formula structure element)
 >>
 endobj
-18 0 obj
+15 0 obj
 <<
 /Filter /FlateDecode
 /Length 230
@@ -333,7 +289,7 @@ H‰¤Q±Ã İù
 0 KOi6
 endstream
 endobj
-19 0 obj
+16 0 obj
 <<
 /Filter /FlateDecode
 /Length 319
@@ -346,9 +302,19 @@ xœc``<‘“œ[Ì$ÀÀ›WRäî¤¥Àşˆ™A„“A61¹¸À7Ø-„ŠË‹“KŠrPÀ·kŒ ú²nFb^ÊÜ‰¶l
 P+Ã¶#É¥EePk´€¸†áã¦Ræf–“l~B\<I|_Ï‹|“È’ÑSpVY£™¥WgüÚr³ı5·p_³²ñÙœ¶Ò°ºŞIfsV/ïÙt{ßÌSÇ¯§>)ÿøóÿ Gƒdå
 endstream
 endobj
-20 0 obj
+17 0 obj
 <<
 /BaseFont /FUEQQN+TimesNewRomanPSMT
+/DescendantFonts [22 0 R]
+/Encoding /Identity-H
+/Subtype /Type0
+/ToUnicode 23 0 R
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /TXFWEL+TimesNewRomanPS-BoldMT
 /DescendantFonts [24 0 R]
 /Encoding /Identity-H
 /Subtype /Type0
@@ -356,41 +322,37 @@ endobj
 /Type /Font
 >>
 endobj
-21 0 obj
+19 0 obj
 <<
-/BaseFont /TXFWEL+TimesNewRomanPS-BoldMT
-/DescendantFonts [26 0 R]
-/Encoding /Identity-H
-/Subtype /Type0
-/ToUnicode 27 0 R
-/Type /Font
->>
-endobj
-22 0 obj
-<<
-/K 23 0 R
-/P 14 0 R
+/K 21 0 R
+/P 10 0 R
 /S /Formula
 /T ()
 >>
 endobj
-23 0 obj
+20 0 obj
+<<
+/NS (http://www.w3.org/1998/Math/MathML)
+/Type /Namespace
+>>
+endobj
+21 0 obj
 <<
 /K 0
-/NS 28 0 R
-/P 22 0 R
-/Pg 13 0 R
+/NS 12 0 R
+/P 19 0 R
+/Pg 9 0 R
 /S /Math
 /Type /StructElem
 >>
 endobj
-24 0 obj
+22 0 obj
 <<
 /BaseFont /FUEQQN+TimesNewRomanPSMT
-/CIDSystemInfo 29 0 R
+/CIDSystemInfo 26 0 R
 /CIDToGIDMap /Identity
 /DW 1000
-/FontDescriptor 30 0 R
+/FontDescriptor 27 0 R
 /Subtype /CIDFontType2
 /Type /Font
 /W [0 [778 0]
@@ -1050,7 +1012,7 @@ endobj
  4683 4684 1057]
 >>
 endobj
-25 0 obj
+23 0 obj
 <<
 /Filter /FlateDecode
 /Length 322
@@ -1059,13 +1021,13 @@ stream
 H‰\Ò]kƒ0à{Å¹\/Š5Ú‚›]Á‹}0·`“c'Ì¢½ğß/æ-LPxÈ9áMaUkİÏ¾ÛQ6<S×key¯V2ùÒë NHõr¾ÉåĞš tÍÍ2Í<Ôºƒ¢ ğÃ-N³]èáQgŞá›Ul{}¡‡¯ªÙPØ\ùáõL•%)îÜF/­ym¦Ğ·mkåÖûyÙº¿ŠÏÅ0%Ş1ÂÈQñdZÉ¶ÕŠÈ=%'÷”kõo=‰Ğvîäwk}ùÎ•GQ•«’ƒWšyír/‘z¥©WC´ƒP™İ*÷€°g†=Ó'hUĞ:A•—ˆ #CÏP œ!Ç„€9säÈ™#§@Î9²äq·Z¯ĞMšîó‘Wkİhüïàg²N£×|ÿcÌhÈu­oğ+À ™9£z
 endstream
 endobj
-26 0 obj
+24 0 obj
 <<
 /BaseFont /TXFWEL+TimesNewRomanPS-BoldMT
-/CIDSystemInfo 31 0 R
+/CIDSystemInfo 28 0 R
 /CIDToGIDMap /Identity
 /DW 1000
-/FontDescriptor 32 0 R
+/FontDescriptor 29 0 R
 /Subtype /CIDFontType2
 /Type /Font
 /W [0 [778 0]
@@ -1727,7 +1689,7 @@ endobj
 4684 1188]
 >>
 endobj
-27 0 obj
+25 0 obj
 <<
 /Filter /FlateDecode
 /Length 270
@@ -1737,32 +1699,22 @@ H‰\ÑÍj„0 à{b»‡%*º? Bë"xèµ}€˜Œ6PcˆÙƒoß˜Y¶Ğ€™‘™	¯Ûkk´şîfÙ¡‡Aåp™oN"ô8jÃÒ”–
 6#ì¾ên¼»Yûƒ	T(Â^„}e‡V…¸öë!Ôüe|®!‹N©9+\¬è„‘•I8”M8C£şÅ/TÕò[¸-;»„ì$ÉÕ¦<:¦¤gÒ™Ôê¨"!]I©!Q§Œt"å¤3©ˆİİûØúë„ÇäÍ¹0Üy|Y|<‹-„ªíc¿ Î…„
 endstream
 endobj
-28 0 obj
-<<
-/NS (http://example.com/badns)
-/RoleMapNS <<
-/Math [/math 33 0 R]
->>
-/Type /Namespace
->>
-endobj
-29 0 obj
+26 0 obj
 <<
 /Ordering (Identity)
 /Registry (Adobe)
 /Supplement 0
 >>
 endobj
-30 0 obj
+27 0 obj
 <<
 /Ascent 1040
-/CIDSet 34 0 R
 /CapHeight 662
 /Descent -307
 /Flags 6
 /FontBBox [-568 -307 2046 1040]
 /FontFamily (Times New Roman)
-/FontFile2 35 0 R
+/FontFile2 30 0 R
 /FontName /FUEQQN+TimesNewRomanPSMT
 /FontStretch /Normal
 /FontWeight 400
@@ -1772,23 +1724,22 @@ endobj
 /XHeight 448
 >>
 endobj
-31 0 obj
+28 0 obj
 <<
 /Ordering (Identity)
 /Registry (Adobe)
 /Supplement 0
 >>
 endobj
-32 0 obj
+29 0 obj
 <<
 /Ascent 1056
-/CIDSet 36 0 R
 /CapHeight 662
 /Descent -328
 /Flags 6
 /FontBBox [-558 -328 2000 1056]
 /FontFamily (Times New Roman)
-/FontFile2 37 0 R
+/FontFile2 31 0 R
 /FontName /TXFWEL+TimesNewRomanPS-BoldMT
 /FontStretch /Normal
 /FontWeight 700
@@ -1798,22 +1749,7 @@ endobj
 /XHeight 457
 >>
 endobj
-33 0 obj
-<<
-/NS (http://www.w3.org/1998/Math/MathML)
-/Type /Namespace
->>
-endobj
-34 0 obj
-<<
-/Filter /FlateDecode
-/Length 21
->>
-stream
-H‰šÀ ŒÜ7¿w  ¿5
-endstream
-endobj
-35 0 obj
+30 0 obj
 <<
 /Filter /FlateDecode
 /Length 25944
@@ -1905,16 +1841,7 @@ F¥İ#Ê$Ğ©L'úS!¢7³7˜²d<l¥d†ç±9 [#!+¶ÖÈ´eI+Öc…ÃVXFsV¶Ò¡T$ÉT}„­L0M×4okÚºµ½*‰Y
 Øå¨Éó¥3˜É‘\˜bZ1N¹ğã†ò½3–‡	?®ØO†é£§˜Ğ\är»"áÍñnyn×.x–ğ *!l
 endstream
 endobj
-36 0 obj
-<<
-/Filter /FlateDecode
-/Length 21
->>
-stream
-H‰j` Á¥  	éÿ
-endstream
-endobj
-37 0 obj
+31 0 obj
 <<
 /Filter /FlateDecode
 /Length 18617
@@ -1979,21 +1906,21 @@ kmÍĞÿaè?2ôW=UÃ>Gb˜¾«ğ
 .üŒYÅ19mQu·ê¾e#h¼ë¶¡¨£jcpùój©…DÖıåÖ‚Sôƒcj‰?[\ø# ÓYÿ}ù³H½·¬ÿ0 Š1H
 endstream
 endobj
-38 0 obj
+32 0 obj
 <<
-/ID [<87E80656E05547F2807A1DC9125A8B47> <A7BA273301B0304EB4A35ECB35DCC26B>]
+/ID [<87E80656E05547F2807A1DC9125A8B47> <CD876964F2CDD0C0A49E95C55134A311>]
 /Root 1 0 R
 /Type /XRef
-/Size 39
+/Size 33
 /Filter /FlateDecode
-/Index [1 37]
+/Index [1 31]
 /W [1 3 0]
-/Length 132
+/Length 107
 >>
 stream
-xœÌ»	Â  „áûmL!KAm|›&UpAÀB\À´f„l`'°v…ˆ¯ÆÂ),l½â+~8©ôAìP§fkËQ7D½™í‹ú­¬@ƒÛ¶5oG-4^ ‰¦)ŠæNè0GÙ]è¶´ºWÑ#¶=ÏèU±$MÛÿ…H
+xœÌ/q Gñ÷Nà‚?;Ë/K‚çÍ0cïÀiQ]l4Y5ºñŸğÊzB'ƒMœã#Ã&ñ”Q-ãyâ!Õ"Öñ•º’ÉI¦ËxKI—m´²Ï¯ùIÛ—ë..r{É½H·Ò™)â~
 endstream
 endobj
 startxref
-99209
+97302
 %%EOF
