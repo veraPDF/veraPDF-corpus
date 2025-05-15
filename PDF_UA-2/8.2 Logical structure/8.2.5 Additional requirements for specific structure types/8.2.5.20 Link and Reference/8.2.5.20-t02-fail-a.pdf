@@ -18,7 +18,7 @@
 endobj
 2 0 obj
 <<
-/Length 8000
+/Length 8015
 /Type /Metadata
 /Subtype /XML
 >>
@@ -38,9 +38,9 @@ stream
         xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#"
         xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#"
         xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
-      xmp:CreateDate="2025-05-14T21:45:33Z"
+      xmp:CreateDate="2025-05-15T13:41:15Z"
       xmp:CreatorTool="veraPDF Test Builder"
-      xmp:ModifyDate="2025-05-14T21:45:33Z"
+      xmp:ModifyDate="2025-05-15T13:41:15Z"
       xmp:MetadataDate="2020-06-15T11:35:30+03:00"
       pdf:Producer="veraPDF Test Builder 1.0"
       dc:format="application/pdf"
@@ -56,7 +56,7 @@ stream
               <rdf:Bag>
                 <rdf:li rdf:parseType="Resource">
                   <pdfd:claimBy>veraPDF Consortium</pdfd:claimBy>
-                  <pdfd:claimDate>2025-05-14T21:45:33Z</pdfd:claimDate>
+                  <pdfd:claimDate>2025-05-15T13:41:15Z</pdfd:claimDate>
                 </rdf:li>
               </rdf:Bag>
             </pdfd:claimData>
@@ -67,7 +67,7 @@ stream
               <rdf:Bag>
                 <rdf:li rdf:parseType="Resource">
                   <pdfd:claimBy>veraPDF Consortium</pdfd:claimBy>
-                  <pdfd:claimDate>2025-05-14T21:45:33Z</pdfd:claimDate>
+                  <pdfd:claimDate>2025-05-15T13:41:15Z</pdfd:claimDate>
                 </rdf:li>
               </rdf:Bag>
             </pdfd:claimData>
@@ -76,7 +76,7 @@ stream
       </pdfd:declarations>
       <dc:title>
         <rdf:Alt>
-          <rdf:li xml:lang="x-default">fail</rdf:li>
+          <rdf:li xml:lang="x-default">8.2.5.20-t02-fail-a</rdf:li>
         </rdf:Alt>
       </dc:title>
       <dc:creator>
@@ -553,36 +553,36 @@ xref
 0000000000 65535 f
 0000000015 00000 n
 0000000208 00000 n
-0000008292 00000 n
-0000008349 00000 n
-0000008477 00000 n
-0000008550 00000 n
-0000008758 00000 n
-0000008862 00000 n
-0000008930 00000 n
-0000009026 00000 n
-0000009106 00000 n
-0000009214 00000 n
-0000009338 00000 n
-0000009461 00000 n
-0000009584 00000 n
-0000009861 00000 n
-0000010280 00000 n
-0000010429 00000 n
-0000010581 00000 n
-0000010734 00000 n
-0000010887 00000 n
-0000010989 00000 n
-0000011082 00000 n
-0000011166 00000 n
-0000011250 00000 n
-0000011401 00000 n
-0000011480 00000 n
-0000011559 00000 n
-0000011797 00000 n
-0000011843 00000 n
-0000011889 00000 n
-0000011935 00000 n
+0000008307 00000 n
+0000008364 00000 n
+0000008492 00000 n
+0000008565 00000 n
+0000008773 00000 n
+0000008877 00000 n
+0000008945 00000 n
+0000009041 00000 n
+0000009121 00000 n
+0000009229 00000 n
+0000009353 00000 n
+0000009476 00000 n
+0000009599 00000 n
+0000009876 00000 n
+0000010295 00000 n
+0000010444 00000 n
+0000010596 00000 n
+0000010749 00000 n
+0000010902 00000 n
+0000011004 00000 n
+0000011097 00000 n
+0000011181 00000 n
+0000011265 00000 n
+0000011416 00000 n
+0000011495 00000 n
+0000011574 00000 n
+0000011812 00000 n
+0000011858 00000 n
+0000011904 00000 n
+0000011950 00000 n
 trailer
 <<
 /ID [<03E0D5C0BCDA22D4FCE11F1180C6BEE27CEB94FABFDF62D6C3728CBA7553E41E0331491B8DC7F324CE56380D4557D3E1587D62973685B87741388B0D0B21E25F> <2976703761B38E5313F47D7B67C704E02738C424A743B55536F79F7761F2CAC51CF66C096FBCB20F1CEECB6F3A05417D9362A55D5A3E34E73EF5AAE20952619A>]
@@ -590,5 +590,5 @@ trailer
 /Size 33
 >>
 startxref
-31073
+31088
 %%EOF
